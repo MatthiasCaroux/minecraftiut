@@ -1,0 +1,98 @@
+{
+    "formatVersion": 1,
+    "name": "LWJGL 3",
+    "uid": "org.lwjgl3",
+    "versions": [
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2024-05-29T12:04:43+00:00",
+            "sha256": "4bdb01f350dc96be898826289c39ac154f6efeb685c00fb9a3bdc23f8b668c66",
+            "type": "release",
+            "version": "3.3.3",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2024-01-17T13:19:20+00:00",
+            "sha256": "bc5661fe2950858618510d3d0f12b1993ac690d6e6981f6a0f8aa699227bd695",
+            "type": "release",
+            "version": "3.3.2",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2022-05-25T09:56:47+00:00",
+            "sha256": "06d1b7487a82b191eee47918c92b24913402f387da22ab1ebb690d9538e1910d",
+            "type": "release",
+            "version": "3.3.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2019-06-20T13:23:44+00:00",
+            "sha256": "da36230da05e51cc982dfb51277a2a2c8e004e3a3233899106182ee136fb1e0f",
+            "type": "release",
+            "version": "3.2.2",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2019-04-05T10:33:58+00:00",
+            "sha256": "9a5cc6a656fc6630b7bd5cf964dd5579e761ea33409bd4af53a9d85d629efd97",
+            "type": "release",
+            "version": "3.2.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2018-10-16T13:40:58+00:00",
+            "sha256": "c1d3cbfbf34ff7755402f226fb0288073d2ef47b72d5f30dfa43c768c760e158",
+            "type": "release",
+            "version": "3.1.6",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": true,
+            "releaseTime": "2017-11-22T12:40:05+00:00",
+            "sha256": "d700d255b7e3a35535fe37ff4f033431d182a31ef65cb4109ea2e57ed643a46f",
+            "type": "release",
+            "version": "3.1.2",
+            "volatile": true
+        }
+    ]
+}

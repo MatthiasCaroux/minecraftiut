@@ -1,98 +1,137 @@
-[15:40:30] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 185 milliseconds
-[15:40:33] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:40:33] [Render thread/INFO]: Setting user: Monyo17
-[15:40:33] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
-[15:40:33] [Render thread/INFO]: Reloading ResourceManager: vanilla
-[15:40:33] [Worker-Main-3/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[15:40:34] [Worker-Main-3/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[15:40:35] [Render thread/INFO]: OpenAL initialized on device Built-in Audio Analog Stereo
-[15:40:35] [Render thread/INFO]: Sound engine started
-[15:40:35] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[15:40:35] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[15:40:43] [Render thread/INFO]: Loaded 1370 recipes
-[15:40:43] [Render thread/INFO]: Loaded 1481 advancements
-[15:40:59] [Server thread/INFO]: Starting integrated minecraft server version 1.21.4
-[15:40:59] [Server thread/INFO]: Generating keypair
-[15:41:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:41:02] [Render thread/INFO]: Preparing spawn area: 4%
-[15:41:03] [Render thread/INFO]: Preparing spawn area: 4%
-[15:41:03] [Render thread/INFO]: Preparing spawn area: 18%
-[15:41:04] [Render thread/INFO]: Preparing spawn area: 51%
-[15:41:04] [Render thread/INFO]: Preparing spawn area: 55%
-[15:41:04] [Render thread/INFO]: Time elapsed: 2052 ms
-[15:41:04] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:41:04] [Server thread/INFO]: Changing simulation distance to 12, from 0
-[15:41:05] [Server thread/INFO]: Monyo17[local:E:fec15452] logged in with entity id 20 at (2.5, 68.0, -1.5)
-[15:41:05] [Server thread/INFO]: Monyo17 joined the game
-[15:41:05] [Render thread/INFO]: Loaded 2 advancements
-[15:41:09] [Render thread/INFO]: Loaded 13 advancements
-[15:41:09] [Render thread/INFO]: Loaded 16 advancements
-[15:41:33] [Render thread/INFO]: Loaded 19 advancements
-[15:41:40] [Server thread/INFO]: Saving and pausing game...
-[15:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:41:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:41:50] [Server thread/INFO]: Saving and pausing game...
-[15:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:41:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:42:03] [Render thread/INFO]: Loaded 22 advancements
-[15:42:13] [Server thread/INFO]: Saving and pausing game...
-[15:42:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:42:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:42:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:42:17] [Server thread/INFO]: Changing view distance to 2, from 12
-[15:42:19] [Server thread/INFO]: Saving and pausing game...
-[15:42:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:42:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:42:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:42:20] [Server thread/INFO]: Saving and pausing game...
-[15:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:42:21] [Server thread/INFO]: Saving and pausing game...
-[15:42:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:42:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:42:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:42:24] [Server thread/INFO]: Changing view distance to 10, from 2
-[15:42:51] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
-[15:42:53] [Render thread/INFO]: Loaded 24 advancements
-[15:43:02] [Render thread/INFO]: Loaded 34 advancements
-[15:43:03] [Render thread/INFO]: Loaded 70 advancements
-[15:43:03] [Render thread/INFO]: Loaded 71 advancements
-[15:43:08] [Server thread/INFO]: Saving and pausing game...
-[15:43:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:43:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:43:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:43:17] [Render thread/INFO]: Loaded 74 advancements
-[15:43:43] [Render thread/INFO]: Loaded 83 advancements
-[15:43:44] [Server thread/INFO]: Saving and pausing game...
-[15:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:43:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:43:45] [Server thread/INFO]: Monyo17 lost connection: Disconnected
-[15:43:45] [Server thread/INFO]: Monyo17 left the game
-[15:43:45] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[15:43:45] [Server thread/INFO]: Stopping server
-[15:43:45] [Server thread/INFO]: Saving players
-[15:43:45] [Server thread/INFO]: Saving worlds
-[15:43:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[15:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[15:43:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[15:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[15:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:43:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:43:46] [Render thread/INFO]: Stopping!
+[21:24:23] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 323 milliseconds
+[21:24:26] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:24:26] [Render thread/INFO]: Setting user: Monyo17
+[21:24:26] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[21:24:27] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[21:24:27] [Worker-Main-6/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[21:24:27] [Worker-Main-6/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[21:24:29] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
+[21:24:29] [Render thread/INFO]: Sound engine started
+[21:24:29] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:24:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[21:24:36] [Render thread/INFO]: Loaded 1370 recipes
+[21:24:36] [Render thread/INFO]: Loaded 1481 advancements
+[21:24:36] [Server thread/INFO]: Starting integrated minecraft server version 1.21.4
+[21:24:36] [Server thread/INFO]: Generating keypair
+[21:24:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
+[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
+[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
+[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
+[21:24:38] [Render thread/INFO]: Time elapsed: 1888 ms
+[21:24:38] [Server thread/INFO]: Changing simulation distance to 12, from 0
+[21:24:39] [Server thread/INFO]: Monyo17[local:E:a6fecd9a] logged in with entity id 16 at (-152.51872883705866, 66.0, 21.151421697451866)
+[21:24:39] [Server thread/INFO]: Monyo17 joined the game
+[21:24:39] [Render thread/INFO]: Loaded 83 advancements
+[21:24:49] [Server thread/INFO]: Saving and pausing game...
+[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:24:58] [Server thread/INFO]: Saving and pausing game...
+[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:25:02] [Server thread/INFO]: Changing view distance to 2, from 10
+[21:25:02] [Server thread/INFO]: Changing simulation distance to 5, from 12
+[21:25:03] [Server thread/INFO]: Saving and pausing game...
+[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:25:14] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[21:25:14] [Worker-Main-2/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[21:25:15] [Worker-Main-2/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[21:25:16] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
+[21:25:16] [Render thread/INFO]: Sound engine started
+[21:25:16] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:25:16] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[21:25:51] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[21:25:51] [Worker-Main-4/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[21:25:51] [Worker-Main-4/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[21:25:52] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
+[21:25:52] [Render thread/INFO]: Sound engine started
+[21:25:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[21:25:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[21:25:54] [Server thread/INFO]: Changing view distance to 8, from 2
+[21:25:54] [Server thread/INFO]: Changing simulation distance to 8, from 5
+[21:26:20] [Render thread/INFO]: Loaded 83 advancements
+[21:26:21] [Server thread/INFO]: Saving and pausing game...
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:26:21] [Server thread/INFO]: Saving and pausing game...
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:26:23] [Server thread/INFO]: Saving and pausing game...
+[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:26:25] [Server thread/INFO]: Saving and pausing game...
+[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:26:55] [Render thread/INFO]: Loaded 92 advancements
+[21:27:38] [Server thread/INFO]: Monyo17 a réalisé le progrès [L'âge de pierre]
+[21:27:38] [Render thread/INFO]: [System] [CHAT] Monyo17 a réalisé le progrès [L'âge de pierre]
+[21:27:38] [Render thread/INFO]: Loaded 110 advancements
+[21:27:46] [Render thread/INFO]: Loaded 110 advancements
+[21:27:46] [Render thread/INFO]: Loaded 117 advancements
+[21:27:56] [Server thread/INFO]: Monyo17 a réalisé le progrès [Qualité supérieure]
+[21:27:56] [Render thread/INFO]: [System] [CHAT] Monyo17 a réalisé le progrès [Qualité supérieure]
+[21:27:56] [Render thread/INFO]: Loaded 121 advancements
+[21:28:09] [Render thread/INFO]: Loaded 122 advancements
+[21:28:44] [Render thread/INFO]: Loaded 125 advancements
+[21:28:48] [Server thread/INFO]: Saving and pausing game...
+[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:48] [Server thread/INFO]: Monyo17 lost connection: Déconnecté(e)
+[21:28:48] [Server thread/INFO]: Monyo17 a quitté la partie
+[21:28:48] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[21:28:48] [Server thread/INFO]: Stopping server
+[21:28:48] [Server thread/INFO]: Saving players
+[21:28:48] [Server thread/INFO]: Saving worlds
+[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:28:50] [Render thread/INFO]: Stopping!
