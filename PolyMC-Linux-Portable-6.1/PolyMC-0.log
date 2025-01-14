@@ -1,0 +1,1595 @@
+    0.107 D <> Log initialized.
+    0.108 D "PolyMC" , (c) 2013-2021  "PolyMC Contributors\n© 2012-2021 MultiMC Contributors"
+    1.190 D Version                    :  "6.1"
+    1.365 D Git commit                 :  "52734e7bac07d287808cbc467c50152a0c2515dd"
+    1.369 D Git refspec                :  ""
+    1.373 D Work dir before adjustment :  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/bin"
+    1.382 D Work dir after adjustment  :  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1"
+    1.384 D Adjusted by                :  "Portable data path"
+    1.386 D Binary path                :  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/bin"
+    1.388 D Application root path      :  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1"
+    1.390 D <> Paths set.
+    1.446 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    1.483 D <> Settings loaded.
+    1.492 D Detecting proxy settings...
+    1.495 D Using no proxy is an option!
+    1.496 D <> Network done.
+    1.505 D Loading Qt Language File for fr ...
+    1.508 D Loading Application Language File for fr ...
+    1.512 D Your language is "fr"
+    1.513 D <> Translations loaded.
+    1.517 D Started watching  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/icons"
+    1.518 D Sorting icon list...
+    1.524 D <> Instance icons intialized.
+    1.526 D <> Icon themes initialized.
+    1.529 D Determining System Theme...
+    1.533 D System theme seems to be: "fusion"
+    1.534 D Considering theme from theme factory: "windows"
+    1.537 D Considering theme from theme factory: "fusion"
+    1.539 D System theme has been determined to be: "Fusion"
+    1.542 D Loading theme "custom"
+    1.546 D <> Widget themes initialized.
+    1.550 D Instance path              :  "instances"
+    1.554 D Loading Instances...
+    1.555 D Discovering instances in "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances"
+    1.558 D Found instance ID "1.8.9"
+    1.562 D Will load group list now.
+    1.567 D Group list loaded.
+    1.573 D Loaded instance  "1.8.9"  from  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances/1.8.9"
+    1.576 D <> Instances loaded.
+    1.581 D Loading accounts...
+    1.585 D AccountList: Queued default account with internal ID  "1e3c291c014c45e5bd502fcdc54deea3"  to refresh first
+    1.588 D Task "MSASilent(0x5adfcbd7ccb0)" starting for the first time
+    1.593 D AuthFlow: "Connexion avec un compte Microsoft."
+    1.597 D DeviceFlow::refresh: Token: ... "brBRn8$"
+    1.618 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "1e3c291c014c45e5bd502fcdc54deea3"
+    1.622 D <> Accounts loaded.
+    1.628 D <> Cache initialized.
+    1.631 D Downloading Translations Index...
+    1.635 W Removing cache entry because of old age!
+    1.639 D Task "NetJob(Translations Index)" starting for the first time
+    1.644 D <> Icon theme set.
+    1.648 D <> Application theme set.
+    1.715 D Task "JavaListLoadTask(0x5adfcbf68360)" starting for the first time
+    1.718 D Linux Java detection incomplete - defaulting to "java"
+    1.722 D Probing the following Java paths: 
+    1.725 D   "java"
+    1.729 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
+    1.733 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    1.738 D   "/usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java"
+    1.741 D   "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    1.744 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
+    1.747 D   "/usr/lib/jvm/openjdk-17/bin/java"
+    1.751 D   "/usr/lib/jvm/openjdk-21/jre/bin/java"
+    1.755 D   "/usr/lib/jvm/openjdk-21/bin/java"
+    1.757 D   ""
+    1.760 D Task "JavaCheckerJob(0x5adfcbf8a550)" starting for the first time
+    1.764 D "Java detection"  started.
+    1.768 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.772 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.777 D "Running java checker: java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.785 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.788 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.794 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.802 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.806 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.810 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.817 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.819 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.823 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.830 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.831 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.835 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.837 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.839 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.843 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.848 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.851 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.855 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.858 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.860 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.863 D "Running java checker: /usr/lib/jvm/openjdk-21/jre/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.875 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.877 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.879 D "Running java checker: /usr/lib/jvm/openjdk-21/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.882 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.885 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.887 D "Running java checker: -jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.890 D Java checker has failed to start.
+    1.891 D Process environment:
+    1.896 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.898 D Native environment:
+    1.902 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.907 D "Java detection" progress: 1 / 10
+    1.944 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.946 W STDERR ""
+    1.949 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.953 D Java checker succeeded.
+    1.954 D "Java detection" progress: 2 / 10
+    1.957 D Java checker has failed to start.
+    1.960 D Process environment:
+    1.963 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.966 D Native environment:
+    1.967 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.970 D "Java detection" progress: 3 / 10
+    1.974 D Java checker has failed to start.
+    1.976 D Process environment:
+    1.979 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.980 D Native environment:
+    1.983 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.985 D "Java detection" progress: 4 / 10
+    1.988 D Java checker has failed to start.
+    1.991 D Process environment:
+    1.994 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.996 D Native environment:
+    1.997 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.000 D "Java detection" progress: 5 / 10
+    2.004 D Java checker has failed to start.
+    2.006 D Process environment:
+    2.008 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.010 D Native environment:
+    2.012 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.014 D "Java detection" progress: 6 / 10
+    2.017 D Java checker has failed to start.
+    2.021 D Process environment:
+    2.022 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.025 D Native environment:
+    2.030 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.033 D "Java detection" progress: 7 / 10
+    2.054 D Task "Net::Download(0x5adfcbf7c320)" starting for the first time
+    2.055 D Downloading  "https://i18n.polymc.org/index_v2.json"
+    2.059 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
+    2.062 W STDERR ""
+    2.064 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    2.067 D Java checker succeeded.
+    2.070 D "Java detection" progress: 8 / 10
+    2.072 D Java checker has failed to start.
+    2.074 D Process environment:
+    2.076 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.078 D Native environment:
+    2.081 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i201-f22:@/tmp/.ICE-unix/84154,unix/or-iut-i201-f22:/tmp/.ICE-unix/84154", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    2.083 D "Java detection" progress: 9 / 10
+    2.087 D Dir changed: "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/translations"
+    2.092 D Loading Qt Language File for fr ...
+    2.095 D Loading Application Language File for fr ...
+    2.107 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    2.109 W STDERR ""
+    2.112 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    2.113 D Java checker succeeded.
+    2.116 D "Java detection" progress: 10 / 10
+    2.121 D Task "JavaCheckerJob(0x5adfcbf8a550)" succeeded
+    2.124 D Found the following valid Java installations:
+    2.128 D   "21.0.5" "amd64" "java"
+    2.132 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    2.136 D   "21.0.5" "amd64" "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    2.138 D Task "JavaListLoadTask(0x5adfcbf68360)" succeeded
+    2.142 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    2.145 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    2.148 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    2.207 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    2.207 W STDERR ""
+    2.211 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    2.212 D Java checker succeeded.
+    2.265 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
+    2.268 D Task "NetJob(Translations Index)" succeeded
+    2.272 D Got translations index!
+    2.273 W Removing cache entry because of old age!
+    2.277 D Task "NetJob(Translation for fr)" starting for the first time
+    2.282 D Dir changed: "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/translations"
+    2.288 D Loading Qt Language File for fr ...
+    2.294 D Loading Application Language File for fr ...
+    2.297 D Task "Net::Download(0x5adfcc0f67b0)" starting for the first time
+    2.302 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    2.308 D Dir changed: "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/translations"
+    2.311 D Loading Qt Language File for fr ...
+    2.314 D Loading Application Language File for fr ...
+    2.362 D DeviceFlow::setLinked: true
+    2.365 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
+    2.369 D First layer of XBox auth ... commencing.
+    2.373 D New token expires in QDateTime(2025-01-14 15:33:00.742 UTC Qt::UTC) seconds
+    2.562 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    2.566 D Task "NetJob(Translation for fr)" succeeded
+    2.570 D Got translation: "fr"
+    2.574 D Loading Qt Language File for fr ...
+    2.578 D Loading Application Language File for fr ...
+    2.593 D Dir changed: "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/translations"
+    2.599 D Loading Qt Language File for fr ...
+    2.603 D Loading Application Language File for fr ...
+    2.718 D Parsing "UToken" :
+    2.721 D "UToken" is valid.
+    2.724 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
+    2.728 D Getting authorization token for  "http://xboxlive.com"
+    3.308 D Parsing "Xbox" :
+    3.312 D "Xbox" is valid.
+    3.314 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
+    3.318 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    3.584 D Parsing "Mojang" :
+    3.587 D "Mojang" is valid.
+    3.591 D AuthFlow: "Accès aux services de Mojang."
+    3.595 D Getting Minecraft access token...
+    4.302 D Parsing Mojang response...
+    5.080 D Mojang response is valid.
+    5.382 D AuthFlow: "Récupération du profil Xbox."
+    5.403 D Getting Xbox profile...
+    5.495 D Wizard result = 1
+    5.553 D Reloading news.
+    5.556 D Task "NetJob(News RSS Feed)" starting for the first time
+    5.563 D Task "ComponentUpdateTask(0x5adfcc0bd6b0)" starting for the first time
+    5.567 D Loading components
+    5.572 D Component list save is scheduled for "1.8.9"
+    5.578 D Resolving dependencies
+    5.581 D "Req: org.lwjgl3" Is met.
+    5.583 D Task "ComponentUpdateTask(0x5adfcc0bd6b0)" succeeded
+    5.586 D Component list update/resolve task succeeded for "1.8.9"
+    5.607 D <> Main window shown.
+    5.610 D Task "Net::Download(0x5adfcc059530)" starting for the first time
+    5.612 D Downloading  "https://polymc.org/feed/feed.xml"
+    5.692 D Download succeeded: "https://polymc.org/feed/feed.xml"
+    5.694 D Task "NetJob(News RSS Feed)" succeeded
+    5.696 D Finished loading RSS feed.
+    5.700 D Loaded news entry "PolyMC 6.1, now available"
+    5.701 D Loaded news entry "PolyMC 6.0, now available"
+    5.703 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
+    5.705 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
+    5.708 D Loaded news entry "Major Bugfix 1.4.3, now available"
+    5.711 D Loaded news entry "What happened, and the next step."
+    5.714 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    5.716 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    5.719 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    5.723 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    5.726 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    5.729 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    5.731 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    5.733 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    5.736 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    5.738 D Loaded news entry "Rewrite in electron (April Fools 2022)"
+    5.740 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    5.742 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    5.745 D Loaded news entry "Moving on"
+    5.747 D Loaded news entry "Modrinth support and Mod downloading"
+    5.750 D Loaded news entry "New maintainers and step down."
+    5.753 D News loading succeeded.
+    6.169 D AuthFlow: "Détermination de la propriété du jeu."
+    6.171 D Getting entitlements...
+    6.501 D Parsing Minecraft entitlements...
+    6.503 D AuthFlow: "Récupération du profil Minecraft."
+    6.728 D Parsing Minecraft profile...
+    6.734 D AuthFlow: "Récupération du skin."
+    7.228 D Task "MSASilent(0x5adfcbd7ccb0)" succeeded
+    8.135 D Writing account list to "accounts.json"
+    8.448 D Building JSON data structure.
+    8.454 D Building account array.
+    8.465 D Writing account list to file.
+    8.514 D Saved account list to "accounts.json"
+    8.516 D RefreshSchedule: Background account refresh succeeded
+   10.326 D Component list save performed now for "1.8.9"
+   11.316 D Opening directory "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances/1.8.9/.minecraft"
+   32.269 D [HttpMetaCache] Saving metacache with 20 entries
+   32.339 W Removing cache entry because of old age!
+   32.344 D Task "NetJob(Téléchargement du métafichier net.minecraft/index.json)" starting for the first time
+   32.384 D Task "Net::Download(0x5adfcc02d470)" starting for the first time
+   32.386 D Downloading  "https://meta.polymc.org/v1/net.minecraft/index.json"
+   32.678 D Download succeeded: "https://meta.polymc.org/v1/net.minecraft/index.json"
+   32.681 D Task "NetJob(Téléchargement du métafichier net.minecraft/index.json)" succeeded
+   34.506 D Task "InstanceStaging(0x5adfcbf00000)" starting for the first time
+   35.390 D Task "VanillaCreationTask(0x7f85a0007870)" starting for the first time
+   35.584 D Component list save performed now for "1.21.4 "
+   35.649 D Task "VanillaCreationTask(0x7f85a0007870)" succeeded
+   35.872 D Discovering instances in "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances"
+   35.878 D Found instance ID "1.21.4"
+   35.885 D Found instance ID "1.8.9"
+   35.895 D Loaded instance  "1.21.4"  from  "/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances/1.21.4"
+   35.901 D Should keep and soft-reload "1.8.9"
+   35.943 D Task "ComponentUpdateTask(0x5adfcc632780)" starting for the first time
+   35.950 D Loading components
+   35.957 D Index is already loaded
+   35.962 D Component list save is scheduled for "1.21.4"
+   35.968 D Resolving dependencies
+   35.975 D "Req: org.lwjgl3" Is missing and should be added at 0
+   35.980 C Task "ComponentUpdateTask(0x5adfcc632780)" failed:  "L'instance possède des dépendances non résolues lors du chargement et de la vérification du lancement."
+   35.986 D Component list update/resolve task failed for "1.21.4" Reason: "L'instance possède des dépendances non résolues lors du chargement et de la vérification du lancement."
+   36.027 D Will save group list now.
+   36.038 D Group list saved.
+   36.041 D Task "InstanceStaging(0x5adfcbf00000)" succeeded
+   36.050 D MainWindow::runModalTask: execWithTask exited properly
+   38.621 D Task "LaunchController(0x5adfcc686220)" starting for the first time
+   38.650 D Instance-type specific settings were loaded!
+   39.450 D Task "LaunchTask(0x5adfcbfc8430)" starting for the first time
+   39.453 D Task "TextPrint(0x5adfcbfb7d40)" starting for the first time
+   39.460 D Task "TextPrint(0x5adfcbfb7d40)" succeeded
+   39.464 D Task "TextPrint(0x5adfcbe956d0)" starting for the first time
+   39.470 D Task "TextPrint(0x5adfcbe956d0)" succeeded
+   39.473 D Task "TextPrint(0x5adfcc632780)" starting for the first time
+   39.477 D Task "TextPrint(0x5adfcc632780)" succeeded
+   39.693 D Task "TextPrint(0x5adfcbe54dc0)" starting for the first time
+   39.695 D Task "TextPrint(0x5adfcbe54dc0)" succeeded
+   39.699 D Task "CheckJava(0x5adfcc02d0d0)" starting for the first time
+   39.702 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   39.705 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   39.707 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+   39.806 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+   39.806 W STDERR ""
+   39.812 D Java checker finished with status  QProcess::NormalExit  exit code  0
+   39.814 D Java checker succeeded.
+   39.853 C "Error changing setting JavaVendor. Setting doesn't exist."
+   39.864 D Task "CheckJava(0x5adfcc02d0d0)" succeeded
+   39.867 D Task "CreateGameFolders(0x5adfcbfea1f0)" starting for the first time
+   39.871 D Task "CreateGameFolders(0x5adfcbfea1f0)" succeeded
+   39.874 D Task "ClaimAccount(0x5adfcbe1aaf0)" starting for the first time
+   39.879 D Writing account list to "accounts.json"
+   39.882 D Building JSON data structure.
+   39.884 D Building account array.
+   39.889 D Writing account list to file.
+   39.909 D Saved account list to "accounts.json"
+   39.912 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+   39.915 D Task "ClaimAccount(0x5adfcbe1aaf0)" succeeded
+   39.918 D Task "Update(0x5adfcbe553c0)" starting for the first time
+   39.923 D Task "MinecraftUpdate(0x5adfcbe854f0)" starting for the first time
+   40.140 D Component list save performed now for "1.21.4"
+   40.210 D Task "ComponentUpdateTask(0x5adfcc023ab0)" starting for the first time
+   40.212 D Loading components
+   40.219 D Index is already loaded
+   40.222 D Resolving dependencies
+   40.226 D "Req: org.lwjgl3" Is missing and should be added at 0
+   40.229 D Adding "org.lwjgl3" at position 0
+   40.232 D Component list save is scheduled for "1.21.4"
+   40.236 D Index is already loaded
+   40.238 D "Minecraft" is already loaded
+   40.242 D Resolving dependencies
+   40.246 D "Req: org.lwjgl3" Is met.
+   40.249 D Task "ComponentUpdateTask(0x5adfcc023ab0)" succeeded
+   40.252 D Component list update/resolve task succeeded for "1.21.4"
+   40.254 D Task "FoldersTask(0x5adfcbf08db0)" starting for the first time
+   40.257 D Task "FoldersTask(0x5adfcbf08db0)" succeeded
+   40.258 D Task "LibrariesTask(0x5adfcc019be0)" starting for the first time
+   40.468 D "1.21.4" : downloading libraries
+   40.472 D Applying "org.lwjgl3" GOOD
+   40.475 D Applying "net.minecraft" GOOD
+   40.482 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+   40.504 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+   40.507 D Task "LibrariesTask(0x5adfcc019be0)" succeeded
+   40.509 D Task "FMLLibrariesTask(0x5adfcbf60310)" starting for the first time
+   40.514 D Task "FMLLibrariesTask(0x5adfcbf60310)" succeeded
+   40.518 D Task "AssetUpdateTask(0x5adfcc01c2f0)" starting for the first time
+   40.520 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+   40.522 D "1.21.4" : Starting asset index download
+   40.524 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+   40.528 D Task "Net::Download(0x5adfcbbe3830)" starting for the first time
+   40.530 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   40.630 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   40.633 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+   40.635 D "1.21.4" : Finished asset index download
+   40.661 D Task "NetJob(Ressources de 19)" starting for the first time
+   40.667 D Task "Net::Download(0x5adfcbe18ea0)" starting for the first time
+   40.672 D Downloading  "https://resources.download.minecraft.net/22/22f31c6708e3ea1e5b2de087684bb02eb446c8ac"
+   40.676 D Task "Net::Download(0x5adfcbe18e10)" starting for the first time
+   40.681 D Downloading  "https://resources.download.minecraft.net/20/20981456d652bbcdddaf7ed10fce0d42ad0f8379"
+   40.686 D Task "Net::Download(0x5adfcbe18d80)" starting for the first time
+   40.688 D Downloading  "https://resources.download.minecraft.net/40/40082fd467ff5e7cfb389c4ca862939a15db7e69"
+   40.692 D Task "Net::Download(0x5adfcbf11660)" starting for the first time
+   40.696 D Downloading  "https://resources.download.minecraft.net/b0/b0e38d02270299aea7d65853662456bb1640a5d5"
+   40.701 D Task "Net::Download(0x5adfcbf114c0)" starting for the first time
+   40.706 D Downloading  "https://resources.download.minecraft.net/1f/1fa974f5957de452440d6bfa8f9aa112bc96cd9c"
+   40.710 D Task "Net::Download(0x5adfcc083590)" starting for the first time
+   40.712 D Downloading  "https://resources.download.minecraft.net/b4/b43eda372b248f213e11aab9f2ab24dc996d8caf"
+   40.766 D Download succeeded: "https://resources.download.minecraft.net/22/22f31c6708e3ea1e5b2de087684bb02eb446c8ac"
+   40.769 D Task "Net::Download(0x5adfcc083470)" starting for the first time
+   40.771 D Downloading  "https://resources.download.minecraft.net/86/86745fd0223b24d6e7a42dc84f409fa6908a7cff"
+   40.788 D Download succeeded: "https://resources.download.minecraft.net/b0/b0e38d02270299aea7d65853662456bb1640a5d5"
+   40.800 D Download succeeded: "https://resources.download.minecraft.net/40/40082fd467ff5e7cfb389c4ca862939a15db7e69"
+   40.812 D Download succeeded: "https://resources.download.minecraft.net/20/20981456d652bbcdddaf7ed10fce0d42ad0f8379"
+   40.823 D Download succeeded: "https://resources.download.minecraft.net/86/86745fd0223b24d6e7a42dc84f409fa6908a7cff"
+   41.030 D Task "Net::Download(0x5adfcc4d3db0)" starting for the first time
+   41.033 D Downloading  "https://resources.download.minecraft.net/6a/6a1ae356c74c9fb89af87a9ac6d313ff4363fb2a"
+   41.069 D Download succeeded: "https://resources.download.minecraft.net/b4/b43eda372b248f213e11aab9f2ab24dc996d8caf"
+   41.080 D Download succeeded: "https://resources.download.minecraft.net/1f/1fa974f5957de452440d6bfa8f9aa112bc96cd9c"
+   41.087 D Task "Net::Download(0x5adfcc64b970)" starting for the first time
+   41.092 D Downloading  "https://resources.download.minecraft.net/9e/9ee7ddc0aa7a89321fe1f9c7a7eb3a4c9c11c8c9"
+   41.097 D Task "Net::Download(0x5adfcc4fcc20)" starting for the first time
+   41.101 D Downloading  "https://resources.download.minecraft.net/54/54c95e9185616c2db606e8af71949fa56d6c6a9a"
+   41.105 D Task "Net::Download(0x5adfcc54c4f0)" starting for the first time
+   41.108 D Downloading  "https://resources.download.minecraft.net/58/58766a0b926a32c728533ca4ba0d44c3a6221f4d"
+   41.125 D Download succeeded: "https://resources.download.minecraft.net/6a/6a1ae356c74c9fb89af87a9ac6d313ff4363fb2a"
+   41.129 D Task "Net::Download(0x5adfcc61df40)" starting for the first time
+   41.136 D Downloading  "https://resources.download.minecraft.net/2d/2d454a4d3cb18e736aecaa4c00298085ded913e3"
+   41.140 D Task "Net::Download(0x5adfcc6749e0)" starting for the first time
+   41.146 D Downloading  "https://resources.download.minecraft.net/32/3257ff8dc891c52a342b60e0b7624bae88379e54"
+   41.160 D Download succeeded: "https://resources.download.minecraft.net/9e/9ee7ddc0aa7a89321fe1f9c7a7eb3a4c9c11c8c9"
+   41.172 D Download succeeded: "https://resources.download.minecraft.net/54/54c95e9185616c2db606e8af71949fa56d6c6a9a"
+   41.184 D Download succeeded: "https://resources.download.minecraft.net/58/58766a0b926a32c728533ca4ba0d44c3a6221f4d"
+   41.186 D Task "Net::Download(0x5adfcc635870)" starting for the first time
+   41.189 D Downloading  "https://resources.download.minecraft.net/3c/3c98528d4afa4af1201e4bf7dece20cc382835cd"
+   41.207 D Download succeeded: "https://resources.download.minecraft.net/2d/2d454a4d3cb18e736aecaa4c00298085ded913e3"
+   41.210 D Task "Net::Download(0x5adfcc646070)" starting for the first time
+   41.213 D Downloading  "https://resources.download.minecraft.net/06/06045c750b32298bd794c046f087005750bc2d58"
+   41.216 D Task "Net::Download(0x5adfcc666e20)" starting for the first time
+   41.218 D Downloading  "https://resources.download.minecraft.net/9c/9cd27061e6924c970ebd737cf5bea17778d4b42e"
+   41.221 D Task "Net::Download(0x5adfcc687220)" starting for the first time
+   41.223 D Downloading  "https://resources.download.minecraft.net/2f/2f812473b307c7586e3760ed8c4b800b8802e2c7"
+   41.240 D Download succeeded: "https://resources.download.minecraft.net/32/3257ff8dc891c52a342b60e0b7624bae88379e54"
+   41.252 D Download succeeded: "https://resources.download.minecraft.net/3c/3c98528d4afa4af1201e4bf7dece20cc382835cd"
+   41.254 D Task "Net::Download(0x5adfcc686d20)" starting for the first time
+   41.256 D Downloading  "https://resources.download.minecraft.net/de/de72462d4723182ceed3fdc86b87b2aab912b812"
+   41.263 D Download succeeded: "https://resources.download.minecraft.net/06/06045c750b32298bd794c046f087005750bc2d58"
+   41.275 D Download succeeded: "https://resources.download.minecraft.net/2f/2f812473b307c7586e3760ed8c4b800b8802e2c7"
+   41.278 D Task "Net::Download(0x5adfcc686fa0)" starting for the first time
+   41.282 D Downloading  "https://resources.download.minecraft.net/6e/6ed9e10ed18f497d4b1c5e8f26af748bcb46b9fe"
+   41.298 D Download succeeded: "https://resources.download.minecraft.net/9c/9cd27061e6924c970ebd737cf5bea17778d4b42e"
+   41.300 D Task "Net::Download(0x5adfcc4d67e0)" starting for the first time
+   41.301 D Downloading  "https://resources.download.minecraft.net/2a/2a1f98cfe05895f6ea959e00df12247bbe5dce6a"
+   41.304 D Task "Net::Download(0x5adfcc5db8f0)" starting for the first time
+   41.306 D Downloading  "https://resources.download.minecraft.net/5b/5bf38da0a281f7f9f0db9109f2155e4484abe404"
+   41.308 D Task "Net::Download(0x5adfcc6417a0)" starting for the first time
+   41.310 D Downloading  "https://resources.download.minecraft.net/1f/1f6882f0cafa10e5839b202503d5db141c835766"
+   41.320 D Download succeeded: "https://resources.download.minecraft.net/de/de72462d4723182ceed3fdc86b87b2aab912b812"
+   41.332 D Download succeeded: "https://resources.download.minecraft.net/6e/6ed9e10ed18f497d4b1c5e8f26af748bcb46b9fe"
+   41.335 D Task "Net::Download(0x5adfcc6801a0)" starting for the first time
+   41.338 D Downloading  "https://resources.download.minecraft.net/7c/7ce06a52ad2c364f73b37b367e7392acc8454192"
+   41.355 D Download succeeded: "https://resources.download.minecraft.net/5b/5bf38da0a281f7f9f0db9109f2155e4484abe404"
+   41.366 D Download succeeded: "https://resources.download.minecraft.net/2a/2a1f98cfe05895f6ea959e00df12247bbe5dce6a"
+   41.369 D Task "Net::Download(0x5adfcc4dfdc0)" starting for the first time
+   41.375 D Downloading  "https://resources.download.minecraft.net/64/648c1d7f3790bdb5c95252149f0405896b9e3144"
+   41.379 D Task "Net::Download(0x5adfcc60b470)" starting for the first time
+   41.382 D Downloading  "https://resources.download.minecraft.net/9d/9d75dbce9be2bab1e8f77dc841bad52eb190549d"
+   41.400 D Download succeeded: "https://resources.download.minecraft.net/7c/7ce06a52ad2c364f73b37b367e7392acc8454192"
+   41.404 D Task "Net::Download(0x5adfcc66b500)" starting for the first time
+   41.408 D Downloading  "https://resources.download.minecraft.net/db/dbe17da4c29e39b19e85bf85c8729a62824552f0"
+   41.411 D Task "Net::Download(0x5adfcc681500)" starting for the first time
+   41.413 D Downloading  "https://resources.download.minecraft.net/85/85d457a67055477cb22538ee3ee0b3d537bef3f5"
+   41.422 D Download succeeded: "https://resources.download.minecraft.net/64/648c1d7f3790bdb5c95252149f0405896b9e3144"
+   41.434 D Download succeeded: "https://resources.download.minecraft.net/9d/9d75dbce9be2bab1e8f77dc841bad52eb190549d"
+   41.445 D Download succeeded: "https://resources.download.minecraft.net/1f/1f6882f0cafa10e5839b202503d5db141c835766"
+   41.448 D Task "Net::Download(0x5adfcc60c990)" starting for the first time
+   41.451 D Downloading  "https://resources.download.minecraft.net/d1/d18015d2512466c2f81311914df0bf29d9bfcacb"
+   41.468 D Download succeeded: "https://resources.download.minecraft.net/db/dbe17da4c29e39b19e85bf85c8729a62824552f0"
+   41.473 D Task "Net::Download(0x5adfcc3f8fe0)" starting for the first time
+   41.477 D Downloading  "https://resources.download.minecraft.net/a8/a892bf72bd55a468fb49901d3c2256b7d9f0d38e"
+   41.491 D Download succeeded: "https://resources.download.minecraft.net/85/85d457a67055477cb22538ee3ee0b3d537bef3f5"
+   41.494 D Task "Net::Download(0x5adfcc64cf10)" starting for the first time
+   41.497 D Downloading  "https://resources.download.minecraft.net/e1/e1256df4732914224e42e64aafb2b51df33cca90"
+   41.500 D Task "Net::Download(0x5adfcc60b920)" starting for the first time
+   41.502 D Downloading  "https://resources.download.minecraft.net/7f/7f1e51127887e125e4991b592d32f218eb674c11"
+   41.513 D Download succeeded: "https://resources.download.minecraft.net/d1/d18015d2512466c2f81311914df0bf29d9bfcacb"
+   41.516 D Task "Net::Download(0x5adfcc6528f0)" starting for the first time
+   41.521 D Downloading  "https://resources.download.minecraft.net/bd/bdad81aa76a53149ac316e730b1d18977a952699"
+   41.536 D Download succeeded: "https://resources.download.minecraft.net/a8/a892bf72bd55a468fb49901d3c2256b7d9f0d38e"
+   41.537 D Task "Net::Download(0x5adfcc685af0)" starting for the first time
+   41.539 D Downloading  "https://resources.download.minecraft.net/46/46d9741e0c7f3334cdf74ba5eb72659f0e16fd1d"
+   41.547 D Download succeeded: "https://resources.download.minecraft.net/e1/e1256df4732914224e42e64aafb2b51df33cca90"
+   41.559 D Download succeeded: "https://resources.download.minecraft.net/7f/7f1e51127887e125e4991b592d32f218eb674c11"
+   41.562 D Task "Net::Download(0x5adfcc685130)" starting for the first time
+   41.565 D Downloading  "https://resources.download.minecraft.net/84/848b1ae0e0895cf3e93aa81d1f6295ac933a01d9"
+   41.581 D Download succeeded: "https://resources.download.minecraft.net/bd/bdad81aa76a53149ac316e730b1d18977a952699"
+   41.585 D Task "Net::Download(0x5adfcc67c760)" starting for the first time
+   41.588 D Downloading  "https://resources.download.minecraft.net/db/db84aad8831f937c3c4162766a8abcb49506c1e7"
+   41.592 D Task "Net::Download(0x5adfcc67c4f0)" starting for the first time
+   41.595 D Downloading  "https://resources.download.minecraft.net/be/befdf6ca94508a93e52b5324abb793aefef4066f"
+   41.604 D Download succeeded: "https://resources.download.minecraft.net/46/46d9741e0c7f3334cdf74ba5eb72659f0e16fd1d"
+   41.607 D Task "Net::Download(0x5adfcc3f8b00)" starting for the first time
+   41.609 D Downloading  "https://resources.download.minecraft.net/9e/9ec7172eac72fc7bcb96aa3f741777735a9baec6"
+   41.626 D Download succeeded: "https://resources.download.minecraft.net/84/848b1ae0e0895cf3e93aa81d1f6295ac933a01d9"
+   41.638 D Task "Net::Download(0x5adfcc625240)" starting for the first time
+   41.643 D Downloading  "https://resources.download.minecraft.net/4b/4b905fd80da30e902a26f0e34f1ade44df0fb51e"
+   41.660 D Download succeeded: "https://resources.download.minecraft.net/be/befdf6ca94508a93e52b5324abb793aefef4066f"
+   41.663 D Task "Net::Download(0x5adfcc3f83b0)" starting for the first time
+   41.667 D Downloading  "https://resources.download.minecraft.net/a2/a2b5af171e999ddfe59c01bbfc6401e7478d6760"
+   41.685 D Download succeeded: "https://resources.download.minecraft.net/db/db84aad8831f937c3c4162766a8abcb49506c1e7"
+   41.697 D Download succeeded: "https://resources.download.minecraft.net/9e/9ec7172eac72fc7bcb96aa3f741777735a9baec6"
+   41.704 D Task "Net::Download(0x5adfcc48fad0)" starting for the first time
+   41.707 D Downloading  "https://resources.download.minecraft.net/34/34dbc7532d14383742333147ca3adbda0350aa0e"
+   41.710 D Task "Net::Download(0x5adfcc61ffa0)" starting for the first time
+   41.713 D Downloading  "https://resources.download.minecraft.net/78/78d511b2ae44d0354e932acdc7acdaaf0a39d73a"
+   41.730 D Download succeeded: "https://resources.download.minecraft.net/4b/4b905fd80da30e902a26f0e34f1ade44df0fb51e"
+   41.753 D Download succeeded: "https://resources.download.minecraft.net/a2/a2b5af171e999ddfe59c01bbfc6401e7478d6760"
+   41.760 D Task "Net::Download(0x5adfcc63f020)" starting for the first time
+   41.768 D Downloading  "https://resources.download.minecraft.net/fc/fc5c06d978f498bdb2bcf2deb36c6864bc6b01de"
+   41.773 D Task "Net::Download(0x5adfcc66b740)" starting for the first time
+   41.780 D Downloading  "https://resources.download.minecraft.net/07/075c9e204c4150e7c43e57f1f01428177aca997d"
+   41.798 D Download succeeded: "https://resources.download.minecraft.net/34/34dbc7532d14383742333147ca3adbda0350aa0e"
+   41.843 D Download succeeded: "https://resources.download.minecraft.net/78/78d511b2ae44d0354e932acdc7acdaaf0a39d73a"
+   41.971 D Task "Net::Download(0x5adfcc66be90)" starting for the first time
+   41.985 D Downloading  "https://resources.download.minecraft.net/59/59ce2fddc9e777d47471c5614aa5d7d219a43ad1"
+   41.996 D Task "Net::Download(0x5adfcc6819b0)" starting for the first time
+   42.005 D Downloading  "https://resources.download.minecraft.net/52/52049ed59e074474287b5dfee00477ce571b3385"
+   42.043 D Download succeeded: "https://resources.download.minecraft.net/fc/fc5c06d978f498bdb2bcf2deb36c6864bc6b01de"
+   42.077 D Download succeeded: "https://resources.download.minecraft.net/07/075c9e204c4150e7c43e57f1f01428177aca997d"
+   42.089 D Task "Net::Download(0x5adfcc64e190)" starting for the first time
+   42.102 D Downloading  "https://resources.download.minecraft.net/5c/5c016e18ac7a942da00fa06522166b6210c8b3e6"
+   42.120 D Task "Net::Download(0x5adfcc668b20)" starting for the first time
+   42.135 D Downloading  "https://resources.download.minecraft.net/5f/5f37a9b5e066526cf6cd755a74d48219799e16f6"
+   42.167 D Download succeeded: "https://resources.download.minecraft.net/52/52049ed59e074474287b5dfee00477ce571b3385"
+   42.193 D Task "Net::Download(0x5adfcc651890)" starting for the first time
+   42.201 D Downloading  "https://resources.download.minecraft.net/ac/aca61491c1ed4f91b2f97ad221ba279cb7629579"
+   42.215 D Task "Net::Download(0x5adfcc60e1f0)" starting for the first time
+   42.225 D Downloading  "https://resources.download.minecraft.net/bb/bbd08e5b85eed19819e376c79f01255b62ae52a1"
+   42.245 D Download succeeded: "https://resources.download.minecraft.net/59/59ce2fddc9e777d47471c5614aa5d7d219a43ad1"
+   42.268 D Download succeeded: "https://resources.download.minecraft.net/5f/5f37a9b5e066526cf6cd755a74d48219799e16f6"
+   42.290 D Download succeeded: "https://resources.download.minecraft.net/5c/5c016e18ac7a942da00fa06522166b6210c8b3e6"
+   42.300 D Task "Net::Download(0x5adfcc6947e0)" starting for the first time
+   42.310 D Downloading  "https://resources.download.minecraft.net/1b/1b89e9af6ef35f52b41be1a3acbc0bafd8e7df40"
+   42.335 D Download succeeded: "https://resources.download.minecraft.net/bb/bbd08e5b85eed19819e376c79f01255b62ae52a1"
+   42.357 D Download succeeded: "https://resources.download.minecraft.net/ac/aca61491c1ed4f91b2f97ad221ba279cb7629579"
+   42.374 D Task "Net::Download(0x5adfcc6475e0)" starting for the first time
+   42.389 D Downloading  "https://resources.download.minecraft.net/52/52219b8a45a0371ebd3601efd5deac6df63a8175"
+   42.618 D Task "Net::Download(0x5adfcc6227f0)" starting for the first time
+   42.639 D Downloading  "https://resources.download.minecraft.net/54/54b9403fc2362a9fc28b67e7f34f7c3efdfe0dce"
+   42.648 D Task "Net::Download(0x5adfcc655bb0)" starting for the first time
+   42.652 D Downloading  "https://resources.download.minecraft.net/63/63c3efe76ca17085f67edb073a762c5891dfe2d1"
+   42.713 D Download succeeded: "https://resources.download.minecraft.net/1b/1b89e9af6ef35f52b41be1a3acbc0bafd8e7df40"
+   42.717 D Task "Net::Download(0x5adfcc64cad0)" starting for the first time
+   42.722 D Downloading  "https://resources.download.minecraft.net/cd/cdcd8fab475fd1b753231cc3f8d285e246f72c63"
+   42.730 D Task "Net::Download(0x5adfcc60cde0)" starting for the first time
+   42.736 D Downloading  "https://resources.download.minecraft.net/c9/c9fc431f36c1d5798bd8a6a28758dc81229fd3fa"
+   42.758 D Download succeeded: "https://resources.download.minecraft.net/52/52219b8a45a0371ebd3601efd5deac6df63a8175"
+   42.770 D Download succeeded: "https://resources.download.minecraft.net/54/54b9403fc2362a9fc28b67e7f34f7c3efdfe0dce"
+   42.781 D Download succeeded: "https://resources.download.minecraft.net/63/63c3efe76ca17085f67edb073a762c5891dfe2d1"
+   42.788 D Task "Net::Download(0x5adfcc688010)" starting for the first time
+   42.793 D Downloading  "https://resources.download.minecraft.net/a6/a6bc97e54bc4eaa1cbe8fd6b2d1c26359a481b7a"
+   42.815 D Download succeeded: "https://resources.download.minecraft.net/c9/c9fc431f36c1d5798bd8a6a28758dc81229fd3fa"
+   42.820 D Task "Net::Download(0x5adfcc6575a0)" starting for the first time
+   42.830 D Downloading  "https://resources.download.minecraft.net/ab/ab4688cc0739633a0fe61ef747073fed02ec5f87"
+   42.835 D Task "Net::Download(0x5adfcc663240)" starting for the first time
+   42.840 D Downloading  "https://resources.download.minecraft.net/6d/6d45eef09a06f1c16bbb90c8f4a6be1fcb5a12df"
+   42.845 D Task "Net::Download(0x5adfcc663470)" starting for the first time
+   42.849 D Downloading  "https://resources.download.minecraft.net/52/527618d2fbb9712950357c4d5e95cfb86ffee417"
+   42.871 D Download succeeded: "https://resources.download.minecraft.net/a6/a6bc97e54bc4eaa1cbe8fd6b2d1c26359a481b7a"
+   42.877 D Task "Net::Download(0x5adfcc674370)" starting for the first time
+   42.880 D Downloading  "https://resources.download.minecraft.net/91/91e49e790fcff847789f84be16acd4baed935b95"
+   42.893 D Download succeeded: "https://resources.download.minecraft.net/6d/6d45eef09a06f1c16bbb90c8f4a6be1fcb5a12df"
+   42.916 D Download succeeded: "https://resources.download.minecraft.net/ab/ab4688cc0739633a0fe61ef747073fed02ec5f87"
+   42.927 D Download succeeded: "https://resources.download.minecraft.net/52/527618d2fbb9712950357c4d5e95cfb86ffee417"
+   42.931 D Task "Net::Download(0x5adfcc6745a0)" starting for the first time
+   42.933 D Downloading  "https://resources.download.minecraft.net/c7/c75a24f3faeecd3a93af8bea54694c059b079fc4"
+   43.050 D Download succeeded: "https://resources.download.minecraft.net/91/91e49e790fcff847789f84be16acd4baed935b95"
+   43.061 D Download succeeded: "https://resources.download.minecraft.net/cd/cdcd8fab475fd1b753231cc3f8d285e246f72c63"
+   43.064 D Task "Net::Download(0x5adfcc67bf80)" starting for the first time
+   43.066 D Downloading  "https://resources.download.minecraft.net/94/945dab2b484c34f108e1ea8eebca5e5e2a9e6424"
+   43.069 D Task "Net::Download(0x5adfccc26870)" starting for the first time
+   43.072 D Downloading  "https://resources.download.minecraft.net/0e/0eaaba6d7fee5159a61b36aea268381bface391b"
+   43.074 D Task "Net::Download(0x5adfcc6736c0)" starting for the first time
+   43.077 D Downloading  "https://resources.download.minecraft.net/b0/b0a993d2dd9d67854e6247fca5e0c10b4e65c23d"
+   43.086 D Task "Net::Download(0x5adfccc258b0)" starting for the first time
+   43.092 D Downloading  "https://resources.download.minecraft.net/e0/e0870af492065576d94bb65591f01d79a80e4d83"
+   43.101 D Task "Net::Download(0x5adfccc24fb0)" starting for the first time
+   43.105 D Downloading  "https://resources.download.minecraft.net/07/074ee57fa9c2d306b39988f89d6cd69ede949388"
+   43.129 D Download succeeded: "https://resources.download.minecraft.net/94/945dab2b484c34f108e1ea8eebca5e5e2a9e6424"
+   43.373 D Download succeeded: "https://resources.download.minecraft.net/0e/0eaaba6d7fee5159a61b36aea268381bface391b"
+   43.386 D Download succeeded: "https://resources.download.minecraft.net/b0/b0a993d2dd9d67854e6247fca5e0c10b4e65c23d"
+   43.398 D Download succeeded: "https://resources.download.minecraft.net/e0/e0870af492065576d94bb65591f01d79a80e4d83"
+   43.409 D Download succeeded: "https://resources.download.minecraft.net/07/074ee57fa9c2d306b39988f89d6cd69ede949388"
+   43.432 D Download succeeded: "https://resources.download.minecraft.net/c7/c75a24f3faeecd3a93af8bea54694c059b079fc4"
+   43.437 D Task "Net::Download(0x5adfccc244c0)" starting for the first time
+   43.440 D Downloading  "https://resources.download.minecraft.net/08/089ed9057e7fcff2110eb0ee5bb886616c495f76"
+   43.444 D Task "Net::Download(0x5adfccc23d90)" starting for the first time
+   43.447 D Downloading  "https://resources.download.minecraft.net/a0/a08590d43a21ee739bd7b9be85b4a81564e6f74a"
+   43.451 D Task "Net::Download(0x5adfccc23670)" starting for the first time
+   43.456 D Downloading  "https://resources.download.minecraft.net/b2/b2fba6c9788a53ab7da07aa8d2f25cdc07973222"
+   43.460 D Task "Net::Download(0x5adfccc22890)" starting for the first time
+   43.469 D Downloading  "https://resources.download.minecraft.net/5d/5dcca782068ac52ce9074a7809db023cab2cd77c"
+   43.473 D Task "Net::Download(0x5adfccc238d0)" starting for the first time
+   43.483 D Downloading  "https://resources.download.minecraft.net/27/27a06c66cec51f15bfb36adecfd5bea80b359e16"
+   43.488 D Task "Net::Download(0x5adfccc21ab0)" starting for the first time
+   43.490 D Downloading  "https://resources.download.minecraft.net/dc/dc6280367f55275a1b5cd90823561c98f8faaff0"
+   43.499 D Download succeeded: "https://resources.download.minecraft.net/b2/b2fba6c9788a53ab7da07aa8d2f25cdc07973222"
+   43.510 D Download succeeded: "https://resources.download.minecraft.net/5d/5dcca782068ac52ce9074a7809db023cab2cd77c"
+   43.521 D Download succeeded: "https://resources.download.minecraft.net/27/27a06c66cec51f15bfb36adecfd5bea80b359e16"
+   43.525 D Task "Net::Download(0x5adfccc21d00)" starting for the first time
+   43.530 D Downloading  "https://resources.download.minecraft.net/6f/6fcafa13cfbef21a54e545a706fd8657a841a154"
+   43.544 D Download succeeded: "https://resources.download.minecraft.net/dc/dc6280367f55275a1b5cd90823561c98f8faaff0"
+   43.549 D Task "Net::Download(0x5adfccc20850)" starting for the first time
+   43.553 D Downloading  "https://resources.download.minecraft.net/73/73d8711890a1225f767f556bd4963d4348659b7b"
+   43.558 D Task "Net::Download(0x5adfccc20a80)" starting for the first time
+   43.563 D Downloading  "https://resources.download.minecraft.net/f5/f5f68d0d8f603c6ba6d1f01b2cb548d710d29987"
+   43.578 D Download succeeded: "https://resources.download.minecraft.net/6f/6fcafa13cfbef21a54e545a706fd8657a841a154"
+   43.589 D Download succeeded: "https://resources.download.minecraft.net/a0/a08590d43a21ee739bd7b9be85b4a81564e6f74a"
+   43.592 D Task "Net::Download(0x5adfccc1fb20)" starting for the first time
+   43.595 D Downloading  "https://resources.download.minecraft.net/63/639d3ecadc8ec244aa94fccfdfdd225522e3ec73"
+   43.612 D Download succeeded: "https://resources.download.minecraft.net/08/089ed9057e7fcff2110eb0ee5bb886616c495f76"
+   43.614 D Task "Net::Download(0x5adfccc1f220)" starting for the first time
+   43.616 D Downloading  "https://resources.download.minecraft.net/71/7125632649039c3f105639964961df8c15c8fb0c"
+   43.623 D Download succeeded: "https://resources.download.minecraft.net/73/73d8711890a1225f767f556bd4963d4348659b7b"
+   43.627 D Task "Net::Download(0x5adfccc1e920)" starting for the first time
+   43.630 D Downloading  "https://resources.download.minecraft.net/41/416f50a5bf3f2163da1cbcb821c0c00027da1525"
+   43.646 D Download succeeded: "https://resources.download.minecraft.net/63/639d3ecadc8ec244aa94fccfdfdd225522e3ec73"
+   43.657 D Download succeeded: "https://resources.download.minecraft.net/f5/f5f68d0d8f603c6ba6d1f01b2cb548d710d29987"
+   43.662 D Task "Net::Download(0x5adfccc1e030)" starting for the first time
+   43.665 D Downloading  "https://resources.download.minecraft.net/66/66994251f371dad569790e05e8f7b6472c2b7334"
+   43.668 D Task "Net::Download(0x5adfccc201c0)" starting for the first time
+   43.671 D Downloading  "https://resources.download.minecraft.net/df/df95b0661f1702172436b993499ba7d16a8d8998"
+   43.680 D Download succeeded: "https://resources.download.minecraft.net/71/7125632649039c3f105639964961df8c15c8fb0c"
+   44.317 D Task "Net::Download(0x5adfccc1d9a0)" starting for the first time
+   45.633 D Downloading  "https://resources.download.minecraft.net/69/69de3c72732d43860edaf6cf4ee6366f81c402c5"
+   46.565 D Task "Net::Download(0x5adfccc1d520)" starting for the first time
+   46.763 D Downloading  "https://resources.download.minecraft.net/70/7001f57b712a6d03bbd924e8a8f4b36aedeeef56"
+   46.814 D Download succeeded: "https://resources.download.minecraft.net/41/416f50a5bf3f2163da1cbcb821c0c00027da1525"
+   46.825 D Download succeeded: "https://resources.download.minecraft.net/66/66994251f371dad569790e05e8f7b6472c2b7334"
+   46.848 D Download succeeded: "https://resources.download.minecraft.net/df/df95b0661f1702172436b993499ba7d16a8d8998"
+   46.855 D Task "Net::Download(0x5adfccc1c7b0)" starting for the first time
+   46.859 D Downloading  "https://resources.download.minecraft.net/33/33a3f9645aad8c7d5ab8251b8f7fac67c5fb90ac"
+   46.882 D Download succeeded: "https://resources.download.minecraft.net/69/69de3c72732d43860edaf6cf4ee6366f81c402c5"
+   46.893 D Download succeeded: "https://resources.download.minecraft.net/70/7001f57b712a6d03bbd924e8a8f4b36aedeeef56"
+   46.908 D Task "Net::Download(0x5adfccc1c350)" starting for the first time
+   46.913 D Downloading  "https://resources.download.minecraft.net/56/56a5b8e793ce6ebcc4094a835aebb0588d6e98a4"
+   46.921 D Component list save performed now for "1.21.4"
+   46.938 D Task "Net::Download(0x5adfccc1b3b0)" starting for the first time
+   46.942 D Downloading  "https://resources.download.minecraft.net/37/37cb3d1aa4e5fb5b191c596377027d7461ab4dcd"
+   46.948 D Task "Net::Download(0x5adfccc1acf0)" starting for the first time
+   46.953 D Downloading  "https://resources.download.minecraft.net/04/04dfc903b459be6103a30401fbc411dd960d4b60"
+   47.183 D Download succeeded: "https://resources.download.minecraft.net/33/33a3f9645aad8c7d5ab8251b8f7fac67c5fb90ac"
+   47.186 D Task "Net::Download(0x5adfccc1a1b0)" starting for the first time
+   47.189 D Downloading  "https://resources.download.minecraft.net/86/86911c8c9eb54a3be3addaaf045a349647691afb"
+   47.191 D Task "Net::Download(0x5adfccc19af0)" starting for the first time
+   47.194 D Downloading  "https://resources.download.minecraft.net/89/891fcac353b7c81b1a2cff12e1e59f4cb96a4d91"
+   47.206 D Download succeeded: "https://resources.download.minecraft.net/56/56a5b8e793ce6ebcc4094a835aebb0588d6e98a4"
+   47.217 D Download succeeded: "https://resources.download.minecraft.net/37/37cb3d1aa4e5fb5b191c596377027d7461ab4dcd"
+   47.228 D Download succeeded: "https://resources.download.minecraft.net/04/04dfc903b459be6103a30401fbc411dd960d4b60"
+   47.234 D Task "Net::Download(0x5adfccc1ba70)" starting for the first time
+   47.238 D Downloading  "https://resources.download.minecraft.net/de/decab13d1ed36d8c3d0ad2f6d1e064b5dc74ab11"
+   47.251 D Download succeeded: "https://resources.download.minecraft.net/86/86911c8c9eb54a3be3addaaf045a349647691afb"
+   47.263 D Download succeeded: "https://resources.download.minecraft.net/89/891fcac353b7c81b1a2cff12e1e59f4cb96a4d91"
+   47.269 D Task "Net::Download(0x5adfccc191f0)" starting for the first time
+   47.272 D Downloading  "https://resources.download.minecraft.net/fb/fb79eb6d6a8cd4421a89d3fa03855518af4b1a79"
+   47.277 D Task "Net::Download(0x5adfccc188f0)" starting for the first time
+   47.281 D Downloading  "https://resources.download.minecraft.net/fb/fbf6e8e09bfcb1d95a8795b5e5b2a9cebbb4c009"
+   47.284 D Task "Net::Download(0x5adfccc17ff0)" starting for the first time
+   47.288 D Downloading  "https://resources.download.minecraft.net/84/84fd00ea656c5cb570c19077383e1690d532406e"
+   47.563 D Download succeeded: "https://resources.download.minecraft.net/de/decab13d1ed36d8c3d0ad2f6d1e064b5dc74ab11"
+   47.568 D Task "Net::Download(0x5adfccc176f0)" starting for the first time
+   47.571 D Downloading  "https://resources.download.minecraft.net/41/41e28a6eb08a94bff37779e72d149dedd920b2ab"
+   47.576 D Task "Net::Download(0x5adfccc17030)" starting for the first time
+   47.580 D Downloading  "https://resources.download.minecraft.net/fb/fbcce88e0a8f7e3dc831d2ac296dc238cbc2ec5e"
+   47.597 D Download succeeded: "https://resources.download.minecraft.net/fb/fb79eb6d6a8cd4421a89d3fa03855518af4b1a79"
+   47.619 D Download succeeded: "https://resources.download.minecraft.net/fb/fbf6e8e09bfcb1d95a8795b5e5b2a9cebbb4c009"
+   47.622 D Task "Net::Download(0x5adfccc162a0)" starting for the first time
+   47.624 D Downloading  "https://resources.download.minecraft.net/6f/6fce1c49d98d57a1ae0f858939d30beb2abcdf44"
+   47.642 D Download succeeded: "https://resources.download.minecraft.net/41/41e28a6eb08a94bff37779e72d149dedd920b2ab"
+   47.655 D Download succeeded: "https://resources.download.minecraft.net/fb/fbcce88e0a8f7e3dc831d2ac296dc238cbc2ec5e"
+   47.657 D Task "Net::Download(0x5adfccc15e40)" starting for the first time
+   47.659 D Downloading  "https://resources.download.minecraft.net/6f/6faf5d46008e9794f6cc1f8835e3a694684899e7"
+   47.677 D Download succeeded: "https://resources.download.minecraft.net/84/84fd00ea656c5cb570c19077383e1690d532406e"
+   47.679 D Task "Net::Download(0x5adfccc15540)" starting for the first time
+   47.688 D Downloading  "https://resources.download.minecraft.net/e8/e8cd487fb1c3762538dbb258464d36b06cdbceca"
+   47.692 D Task "Net::Download(0x5adfccc15780)" starting for the first time
+   47.694 D Downloading  "https://resources.download.minecraft.net/dc/dce96bcfed80defbe42be5c6157e29e876139d55"
+   47.698 D Task "Net::Download(0x5adfccc19670)" starting for the first time
+   47.701 D Downloading  "https://resources.download.minecraft.net/e4/e4c6669590f0ef6dbf21e118cef81b4122703161"
+   47.711 D Download succeeded: "https://resources.download.minecraft.net/6f/6faf5d46008e9794f6cc1f8835e3a694684899e7"
+   47.712 D Task "Net::Download(0x5adfccc14a20)" starting for the first time
+   47.714 D Downloading  "https://resources.download.minecraft.net/04/046ea45b6bccc4d8d003b4dd93ac764999303aa6"
+   47.722 D Download succeeded: "https://resources.download.minecraft.net/6f/6fce1c49d98d57a1ae0f858939d30beb2abcdf44"
+   47.734 D Download succeeded: "https://resources.download.minecraft.net/e8/e8cd487fb1c3762538dbb258464d36b06cdbceca"
+   47.738 D Task "Net::Download(0x5adfccc14120)" starting for the first time
+   47.747 D Downloading  "https://resources.download.minecraft.net/51/51deaef407de6444854e4da39b165faa0d41370d"
+   47.768 D Download succeeded: "https://resources.download.minecraft.net/e4/e4c6669590f0ef6dbf21e118cef81b4122703161"
+   47.770 D Task "Net::Download(0x5adfccc135e0)" starting for the first time
+   47.773 D Downloading  "https://resources.download.minecraft.net/e4/e46ef10953dadb96e7faab3dddcfecc5551b652b"
+   47.790 D Download succeeded: "https://resources.download.minecraft.net/04/046ea45b6bccc4d8d003b4dd93ac764999303aa6"
+   47.793 D Task "Net::Download(0x5adfccc13420)" starting for the first time
+   47.797 D Downloading  "https://resources.download.minecraft.net/0f/0fe7a2c57b0b284ec0e7b52b0e0e38d4a9139e53"
+   47.813 D Download succeeded: "https://resources.download.minecraft.net/dc/dce96bcfed80defbe42be5c6157e29e876139d55"
+   47.824 D Download succeeded: "https://resources.download.minecraft.net/51/51deaef407de6444854e4da39b165faa0d41370d"
+   47.826 D Task "Net::Download(0x5adfccc13ca0)" starting for the first time
+   47.829 D Downloading  "https://resources.download.minecraft.net/94/943f45c787298643b8a64f9eba13a7311ec81f8b"
+   47.832 D Task "Net::Download(0x5adfccc11b40)" starting for the first time
+   47.838 D Downloading  "https://resources.download.minecraft.net/c6/c61f0e983f4ab8acf150ed87805127aebd05b14c"
+   47.857 D Download succeeded: "https://resources.download.minecraft.net/e4/e46ef10953dadb96e7faab3dddcfecc5551b652b"
+   47.881 D Download succeeded: "https://resources.download.minecraft.net/0f/0fe7a2c57b0b284ec0e7b52b0e0e38d4a9139e53"
+   47.884 D Task "Net::Download(0x5adfcc05f270)" starting for the first time
+   47.887 D Downloading  "https://resources.download.minecraft.net/a1/a19eea7979d380661c1514a5d999e99e0eb61ee6"
+   47.890 D Task "Net::Download(0x5adfcbe86570)" starting for the first time
+   47.895 D Downloading  "https://resources.download.minecraft.net/65/65919863c0a6fbb0ae175f1b2d9061532b1fd725"
+   47.914 D Download succeeded: "https://resources.download.minecraft.net/94/943f45c787298643b8a64f9eba13a7311ec81f8b"
+   47.925 D Download succeeded: "https://resources.download.minecraft.net/c6/c61f0e983f4ab8acf150ed87805127aebd05b14c"
+   47.929 D Task "Net::Download(0x5adfcbf80bd0)" starting for the first time
+   47.933 D Downloading  "https://resources.download.minecraft.net/17/171889bdb52f74e922653a883db46fdf67cd35b8"
+   47.936 D Task "Net::Download(0x5adfcc071eb0)" starting for the first time
+   47.938 D Downloading  "https://resources.download.minecraft.net/65/65b762da90c8b192ee065692fcd50068f571b3fc"
+   47.948 D Download succeeded: "https://resources.download.minecraft.net/a1/a19eea7979d380661c1514a5d999e99e0eb61ee6"
+   47.959 D Download succeeded: "https://resources.download.minecraft.net/65/65919863c0a6fbb0ae175f1b2d9061532b1fd725"
+   47.962 D Task "Net::Download(0x5adfcbf729c0)" starting for the first time
+   47.965 D Downloading  "https://resources.download.minecraft.net/66/66a961b791a166340350a5f4d6029d6d0cae214b"
+   47.968 D Task "Net::Download(0x5adfcbe90a60)" starting for the first time
+   47.970 D Downloading  "https://resources.download.minecraft.net/7e/7e86ced51d049411a28627854c633a3977f45332"
+   47.972 D Task "Net::Download(0x5adfcbe58e70)" starting for the first time
+   47.976 D Downloading  "https://resources.download.minecraft.net/cb/cb6b9af3cd796285405177177f8ca7a2d6c91a25"
+   47.993 D Download succeeded: "https://resources.download.minecraft.net/17/171889bdb52f74e922653a883db46fdf67cd35b8"
+   47.996 D Task "Net::Download(0x5adfcbf031a0)" starting for the first time
+   47.998 D Downloading  "https://resources.download.minecraft.net/5c/5ce5022d7f6176bd0ebc0aceadedd228d2b2a8c6"
+   48.016 D Download succeeded: "https://resources.download.minecraft.net/65/65b762da90c8b192ee065692fcd50068f571b3fc"
+   48.027 D Download succeeded: "https://resources.download.minecraft.net/7e/7e86ced51d049411a28627854c633a3977f45332"
+   48.039 D Download succeeded: "https://resources.download.minecraft.net/cb/cb6b9af3cd796285405177177f8ca7a2d6c91a25"
+   48.054 D Task "Net::Download(0x5adfcbf88a10)" starting for the first time
+   48.063 D Downloading  "https://resources.download.minecraft.net/c9/c9202ed6588c8acab2f13cfeeb170ec3d0805d59"
+   48.073 D Download succeeded: "https://resources.download.minecraft.net/5c/5ce5022d7f6176bd0ebc0aceadedd228d2b2a8c6"
+   48.079 D Task "Net::Download(0x5adfcbf55750)" starting for the first time
+   48.083 D Downloading  "https://resources.download.minecraft.net/70/70fdc50a914cb6c3d90c6c3bae33955192303807"
+   48.095 D Download succeeded: "https://resources.download.minecraft.net/66/66a961b791a166340350a5f4d6029d6d0cae214b"
+   48.097 D Task "Net::Download(0x5adfcbe25ea0)" starting for the first time
+   48.099 D Downloading  "https://resources.download.minecraft.net/9c/9cb8dba93672de4ae019f50dfd31356a8c9a51b5"
+   48.103 D Task "Net::Download(0x5adfcbc3aa60)" starting for the first time
+   48.106 D Downloading  "https://resources.download.minecraft.net/b0/b02f3e6b3857de2ab43035a0127b789347ae23ee"
+   48.118 D Download succeeded: "https://resources.download.minecraft.net/c9/c9202ed6588c8acab2f13cfeeb170ec3d0805d59"
+   48.129 D Task "Net::Download(0x5adfccc0c390)" starting for the first time
+   48.133 D Downloading  "https://resources.download.minecraft.net/ec/ecf6be58a57906919271ba4608f31fa0a4f0a4f2"
+   48.135 D Task "Net::Download(0x5adfccc0e380)" starting for the first time
+   48.138 D Downloading  "https://resources.download.minecraft.net/72/7269af1c1d8773763c1af8bfa4bd38e13b3e1f98"
+   48.151 D Download succeeded: "https://resources.download.minecraft.net/70/70fdc50a914cb6c3d90c6c3bae33955192303807"
+   48.163 D Download succeeded: "https://resources.download.minecraft.net/9c/9cb8dba93672de4ae019f50dfd31356a8c9a51b5"
+   48.175 D Download succeeded: "https://resources.download.minecraft.net/b0/b02f3e6b3857de2ab43035a0127b789347ae23ee"
+   48.179 D Task "Net::Download(0x5adfccc0bcb0)" starting for the first time
+   48.181 D Downloading  "https://resources.download.minecraft.net/af/af1be61826d289bdae090eaa58dd4cc257595f2f"
+   48.197 D Download succeeded: "https://resources.download.minecraft.net/ec/ecf6be58a57906919271ba4608f31fa0a4f0a4f2"
+   48.200 D Task "Net::Download(0x5adfccc0b360)" starting for the first time
+   48.203 D Downloading  "https://resources.download.minecraft.net/5b/5b37751d224d4a409435095ea29bfbd8b5218092"
+   48.207 D Task "Net::Download(0x5adfccc0b5b0)" starting for the first time
+   48.209 D Downloading  "https://resources.download.minecraft.net/1b/1bce612bb8770ada5477a7b2a592bab99c86a000"
+   48.211 D Task "Net::Download(0x5adfccc0a7e0)" starting for the first time
+   48.213 D Downloading  "https://resources.download.minecraft.net/37/37da25a09c68c32a9b7ced845e8f384255ab732d"
+   48.231 D Download succeeded: "https://resources.download.minecraft.net/72/7269af1c1d8773763c1af8bfa4bd38e13b3e1f98"
+   48.242 D Download succeeded: "https://resources.download.minecraft.net/af/af1be61826d289bdae090eaa58dd4cc257595f2f"
+   48.245 D Task "Net::Download(0x5adfccc09e20)" starting for the first time
+   48.247 D Downloading  "https://resources.download.minecraft.net/1e/1e8409f4044b4f23bc6e2396a74f026795bbed4c"
+   48.265 D Download succeeded: "https://resources.download.minecraft.net/5b/5b37751d224d4a409435095ea29bfbd8b5218092"
+   48.276 D Download succeeded: "https://resources.download.minecraft.net/1b/1bce612bb8770ada5477a7b2a592bab99c86a000"
+   48.289 D Download succeeded: "https://resources.download.minecraft.net/37/37da25a09c68c32a9b7ced845e8f384255ab732d"
+   48.295 D Task "Net::Download(0x5adfccc09700)" starting for the first time
+   48.300 D Downloading  "https://resources.download.minecraft.net/73/73799c114c80ae724e594dc4b636dc0100d134a0"
+   48.303 D Task "Net::Download(0x5adfccc08dc0)" starting for the first time
+   48.307 D Downloading  "https://resources.download.minecraft.net/0f/0fe03055f98935b7564db033979648173be0bcc7"
+   48.323 D Download succeeded: "https://resources.download.minecraft.net/1e/1e8409f4044b4f23bc6e2396a74f026795bbed4c"
+   48.328 D Task "Net::Download(0x5adfccc09010)" starting for the first time
+   48.330 D Downloading  "https://resources.download.minecraft.net/2d/2de87d32e203d429bc3b13c3ec6060fe6a2f7e38"
+   48.334 D Task "Net::Download(0x5adfccc08400)" starting for the first time
+   48.338 D Downloading  "https://resources.download.minecraft.net/42/42f0cd5a2a4e294954bcd9c03ea80cee35cd06ad"
+   48.340 D Task "Net::Download(0x5adfcbf723a0)" starting for the first time
+   48.352 D Downloading  "https://resources.download.minecraft.net/ac/ac0f71eb6911c31abfc398c0a5ccfe6911715745"
+   48.368 D Download succeeded: "https://resources.download.minecraft.net/73/73799c114c80ae724e594dc4b636dc0100d134a0"
+   48.379 D Download succeeded: "https://resources.download.minecraft.net/0f/0fe03055f98935b7564db033979648173be0bcc7"
+   48.384 D Task "Net::Download(0x5adfcc0ab790)" starting for the first time
+   48.386 D Downloading  "https://resources.download.minecraft.net/7f/7ff81055a299493a758c0b0f6c129dec6132dff1"
+   48.402 D Download succeeded: "https://resources.download.minecraft.net/2d/2de87d32e203d429bc3b13c3ec6060fe6a2f7e38"
+   48.413 D Download succeeded: "https://resources.download.minecraft.net/42/42f0cd5a2a4e294954bcd9c03ea80cee35cd06ad"
+   48.425 D Download succeeded: "https://resources.download.minecraft.net/ac/ac0f71eb6911c31abfc398c0a5ccfe6911715745"
+   48.428 D Task "Net::Download(0x5adfcbe77f40)" starting for the first time
+   48.435 D Downloading  "https://resources.download.minecraft.net/dc/dc322d97f25efe9a419e9771b80bee8807637c2e"
+   48.440 D Task "Net::Download(0x5adfcbf3af10)" starting for the first time
+   48.447 D Downloading  "https://resources.download.minecraft.net/a1/a1ac7aa91b5f63a2c32bcd414702f8309cd2f2a2"
+   48.459 D Download succeeded: "https://resources.download.minecraft.net/7f/7ff81055a299493a758c0b0f6c129dec6132dff1"
+   48.462 D Task "Net::Download(0x5adfcc011d40)" starting for the first time
+   48.466 D Downloading  "https://resources.download.minecraft.net/6a/6a24d73c5e26aacae2f76bf2455ab42ca4815024"
+   48.469 D Task "Net::Download(0x5adfcbfda780)" starting for the first time
+   48.472 D Downloading  "https://resources.download.minecraft.net/3f/3ff01c01f8e0e0e1132a470e153a48951853ffc8"
+   48.476 D Task "Net::Download(0x5adfcbdbdb20)" starting for the first time
+   48.481 D Downloading  "https://resources.download.minecraft.net/1d/1d38837caac921f267165753db56a9d123fa9edc"
+   48.492 D Download succeeded: "https://resources.download.minecraft.net/dc/dc322d97f25efe9a419e9771b80bee8807637c2e"
+   48.495 D Task "Net::Download(0x5adfcc088e30)" starting for the first time
+   48.497 D Downloading  "https://resources.download.minecraft.net/99/99f280560d677a6c298040b142f42d3b39d4c800"
+   48.515 D Download succeeded: "https://resources.download.minecraft.net/a1/a1ac7aa91b5f63a2c32bcd414702f8309cd2f2a2"
+   48.526 D Download succeeded: "https://resources.download.minecraft.net/6a/6a24d73c5e26aacae2f76bf2455ab42ca4815024"
+   48.538 D Download succeeded: "https://resources.download.minecraft.net/3f/3ff01c01f8e0e0e1132a470e153a48951853ffc8"
+   48.549 D Download succeeded: "https://resources.download.minecraft.net/1d/1d38837caac921f267165753db56a9d123fa9edc"
+   48.551 D Task "Net::Download(0x5adfcbf87120)" starting for the first time
+   48.554 D Downloading  "https://resources.download.minecraft.net/6b/6b82e81c0122b8edad442925a532f7574ce7c8d2"
+   48.572 D Download succeeded: "https://resources.download.minecraft.net/99/99f280560d677a6c298040b142f42d3b39d4c800"
+   48.583 D Task "Net::Download(0x5adfcbdaf9c0)" starting for the first time
+   48.587 D Downloading  "https://resources.download.minecraft.net/7b/7be727ea16b9a261665b8419397115f13a0966b6"
+   48.592 D Task "Net::Download(0x5adfcc01bb80)" starting for the first time
+   48.598 D Downloading  "https://resources.download.minecraft.net/ca/cac9dc33a726571ddb0c5afe19e10384191a4395"
+   48.602 D Task "Net::Download(0x5adfcbe8dc20)" starting for the first time
+   48.606 D Downloading  "https://resources.download.minecraft.net/7f/7f77e186063198933a7dd67eb492ae4d74839dd9"
+   48.609 D Task "Net::Download(0x5adfcbeee5c0)" starting for the first time
+   48.611 D Downloading  "https://resources.download.minecraft.net/ac/ac88b24961961f52fbaf8efc55ae7e260b6f4ad2"
+   48.628 D Download succeeded: "https://resources.download.minecraft.net/6b/6b82e81c0122b8edad442925a532f7574ce7c8d2"
+   48.631 D Task "Net::Download(0x5adfcbe20fb0)" starting for the first time
+   48.635 D Downloading  "https://resources.download.minecraft.net/82/829c044d2c7189d938efb8cb89d1bb66b77c67da"
+   48.650 D Download succeeded: "https://resources.download.minecraft.net/7b/7be727ea16b9a261665b8419397115f13a0966b6"
+   48.654 D Task "Net::Download(0x5adfcbf045b0)" starting for the first time
+   48.656 D Downloading  "https://resources.download.minecraft.net/4b/4b7422b5e6324067f24ea7aee2b8f242ce46069b"
+   48.659 D Task "Net::Download(0x5adfcbefe660)" starting for the first time
+   48.662 D Downloading  "https://resources.download.minecraft.net/bb/bbb301a6ed65e5e92eb97b601b9ea9979324bccf"
+   48.815 D Download succeeded: "https://resources.download.minecraft.net/7f/7f77e186063198933a7dd67eb492ae4d74839dd9"
+   48.901 D Download succeeded: "https://resources.download.minecraft.net/bb/bbb301a6ed65e5e92eb97b601b9ea9979324bccf"
+   48.924 D Download succeeded: "https://resources.download.minecraft.net/ca/cac9dc33a726571ddb0c5afe19e10384191a4395"
+   48.926 D Task "Net::Download(0x5adfcc084ad0)" starting for the first time
+   48.928 D Downloading  "https://resources.download.minecraft.net/1c/1c9aa4f2710ac7025a56f99feb132a29cf5a2b64"
+   48.930 D Task "Net::Download(0x5adfcc0647a0)" starting for the first time
+   48.932 D Downloading  "https://resources.download.minecraft.net/2c/2cc340b0663cc0b2c64e88e6daf0fc1a9b35fc2d"
+   48.935 D Task "Net::Download(0x5adfcbdf9840)" starting for the first time
+   48.937 D Downloading  "https://resources.download.minecraft.net/74/741249a89e97577f7a5acf30ece523fde0042650"
+   49.199 D Download succeeded: "https://resources.download.minecraft.net/ac/ac88b24961961f52fbaf8efc55ae7e260b6f4ad2"
+   49.337 D Download succeeded: "https://resources.download.minecraft.net/2c/2cc340b0663cc0b2c64e88e6daf0fc1a9b35fc2d"
+   49.342 D Task "Net::Download(0x5adfcbdc03b0)" starting for the first time
+   49.344 D Downloading  "https://resources.download.minecraft.net/37/37ca3a11409c7a70d81499cfd34c37b2b982239c"
+   49.510 D Download succeeded: "https://resources.download.minecraft.net/74/741249a89e97577f7a5acf30ece523fde0042650"
+   49.663 D Download succeeded: "https://resources.download.minecraft.net/4b/4b7422b5e6324067f24ea7aee2b8f242ce46069b"
+   49.955 D Download succeeded: "https://resources.download.minecraft.net/82/829c044d2c7189d938efb8cb89d1bb66b77c67da"
+   49.958 D Task "Net::Download(0x5adfcbdfc680)" starting for the first time
+   49.961 D Downloading  "https://resources.download.minecraft.net/23/2382caaea57324875b9873cf1d93c5b3ad28f547"
+   50.219 D Download succeeded: "https://resources.download.minecraft.net/1c/1c9aa4f2710ac7025a56f99feb132a29cf5a2b64"
+   50.221 D Task "Net::Download(0x5adfcbe830c0)" starting for the first time
+   50.225 D Downloading  "https://resources.download.minecraft.net/08/0824e1e9c8faa785a8fe975421fae67c651b7333"
+   50.227 D Task "Net::Download(0x5adfcc0589e0)" starting for the first time
+   50.229 D Downloading  "https://resources.download.minecraft.net/4b/4b84efdf7e8a4e45279bfe841ac98ba46c4cc5e0"
+   50.362 D Download succeeded: "https://resources.download.minecraft.net/37/37ca3a11409c7a70d81499cfd34c37b2b982239c"
+   50.364 D Task "Net::Download(0x5adfcbfeede0)" starting for the first time
+   50.366 D Downloading  "https://resources.download.minecraft.net/3d/3de85c831b083e10d906c3ac007d7ca9f36b4075"
+   50.369 D Task "Net::Download(0x5adfcc0aa8b0)" starting for the first time
+   50.371 D Downloading  "https://resources.download.minecraft.net/60/603fd41ebe3eac0795ebfa0b31195be1866d1e9c"
+   50.556 D Download succeeded: "https://resources.download.minecraft.net/4b/4b84efdf7e8a4e45279bfe841ac98ba46c4cc5e0"
+   50.558 D Task "Net::Download(0x5adfcbf08af0)" starting for the first time
+   50.561 D Downloading  "https://resources.download.minecraft.net/8e/8e901a9a5e4daee7e3cbff8a3529d0a4148f8406"
+   50.865 D Download succeeded: "https://resources.download.minecraft.net/23/2382caaea57324875b9873cf1d93c5b3ad28f547"
+   51.035 D Download succeeded: "https://resources.download.minecraft.net/3d/3de85c831b083e10d906c3ac007d7ca9f36b4075"
+   51.038 D Task "Net::Download(0x5adfcbf3a500)" starting for the first time
+   51.041 D Downloading  "https://resources.download.minecraft.net/53/53976ed366c97ad86c1d7ce21497c9985f33d4f1"
+   51.187 D Download succeeded: "https://resources.download.minecraft.net/60/603fd41ebe3eac0795ebfa0b31195be1866d1e9c"
+   51.379 D Download succeeded: "https://resources.download.minecraft.net/08/0824e1e9c8faa785a8fe975421fae67c651b7333"
+   51.554 D Download succeeded: "https://resources.download.minecraft.net/8e/8e901a9a5e4daee7e3cbff8a3529d0a4148f8406"
+   51.558 D Task "Net::Download(0x5adfcbfc9c50)" starting for the first time
+   51.562 D Downloading  "https://resources.download.minecraft.net/5c/5c97ac9788ab81e560bae32b0f5e4fc244e544b4"
+   51.565 D Task "Net::Download(0x5adfcbe98eb0)" starting for the first time
+   51.567 D Downloading  "https://resources.download.minecraft.net/13/1346ff09e77c8506476a017f63d9a820f25f0839"
+   51.574 D Task "Net::Download(0x5adfcbeecff0)" starting for the first time
+   51.577 D Downloading  "https://resources.download.minecraft.net/6d/6d689e547efb849a3641c4eee912a395187197f5"
+   51.581 D Task "Net::Download(0x5adfcbea0150)" starting for the first time
+   51.584 D Downloading  "https://resources.download.minecraft.net/67/67e25166bfe3e0ce3ef45ce2680b2413f80ccc5a"
+   51.595 D Task "Net::Download(0x5adfcbea31b0)" starting for the first time
+   51.597 D Downloading  "https://resources.download.minecraft.net/85/853da2928e9ca37e6d7c9aeaad58d4cbfeca77d4"
+   51.754 D Download succeeded: "https://resources.download.minecraft.net/53/53976ed366c97ad86c1d7ce21497c9985f33d4f1"
+   51.936 D Download succeeded: "https://resources.download.minecraft.net/13/1346ff09e77c8506476a017f63d9a820f25f0839"
+   51.939 D Task "Net::Download(0x5adfcbf0dec0)" starting for the first time
+   51.941 D Downloading  "https://resources.download.minecraft.net/14/14221fedadd7431bc557f36be1af86582955f7c5"
+   52.319 D Download succeeded: "https://resources.download.minecraft.net/85/853da2928e9ca37e6d7c9aeaad58d4cbfeca77d4"
+   52.477 D Download succeeded: "https://resources.download.minecraft.net/5c/5c97ac9788ab81e560bae32b0f5e4fc244e544b4"
+   52.480 D Task "Net::Download(0x5adfcc045800)" starting for the first time
+   52.484 D Downloading  "https://resources.download.minecraft.net/0c/0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820"
+   52.724 D Download succeeded: "https://resources.download.minecraft.net/6d/6d689e547efb849a3641c4eee912a395187197f5"
+   52.728 D Task "Net::Download(0x5adfcbe551e0)" starting for the first time
+   52.729 D Downloading  "https://resources.download.minecraft.net/de/dec42f5a10b6a0018594bdb868882ddccf04f52e"
+   52.732 D Task "Net::Download(0x5adfcbfa1ac0)" starting for the first time
+   52.734 D Downloading  "https://resources.download.minecraft.net/c2/c25705e16f1d51a56a2b0a4604250b3844ceadcf"
+   52.738 D Task "Net::Download(0x5adfcbf82100)" starting for the first time
+   52.742 D Downloading  "https://resources.download.minecraft.net/f6/f6dd3e263823fbc2051f441e5b12a02b2258ae84"
+   52.985 D Download succeeded: "https://resources.download.minecraft.net/de/dec42f5a10b6a0018594bdb868882ddccf04f52e"
+   52.996 D Task "Net::Download(0x5adfcc065750)" starting for the first time
+   53.001 D Downloading  "https://resources.download.minecraft.net/8e/8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea"
+   53.088 D Download succeeded: "https://resources.download.minecraft.net/8e/8ee9d608f0bbb2d0513af7bfc1b55e591ada05ea"
+   53.184 D Download succeeded: "https://resources.download.minecraft.net/c2/c25705e16f1d51a56a2b0a4604250b3844ceadcf"
+   53.186 D Task "Net::Download(0x5adfcc0aeb90)" starting for the first time
+   53.190 D Downloading  "https://resources.download.minecraft.net/c3/c3e6d3f34a7221360ad11d18335edd6709df4609"
+   53.193 D Task "Net::Download(0x5adfcbf960d0)" starting for the first time
+   53.195 D Downloading  "https://resources.download.minecraft.net/a9/a971ae2004798c14bc3387cfd1b89420092b3263"
+   53.421 D Download succeeded: "https://resources.download.minecraft.net/f6/f6dd3e263823fbc2051f441e5b12a02b2258ae84"
+   53.598 D Download succeeded: "https://resources.download.minecraft.net/0c/0c62057c8a75b57a8f06e7c1bc1b21a7f88d4820"
+   53.601 D Task "Net::Download(0x5adfcbdee060)" starting for the first time
+   53.603 D Downloading  "https://resources.download.minecraft.net/53/532fdae2fd43bc046f78a1b7b79f28161f25fc4c"
+   53.754 D Download succeeded: "https://resources.download.minecraft.net/c3/c3e6d3f34a7221360ad11d18335edd6709df4609"
+   53.961 D Download succeeded: "https://resources.download.minecraft.net/14/14221fedadd7431bc557f36be1af86582955f7c5"
+   54.766 D Task "Net::Download(0x5adfcbefce40)" starting for the first time
+   55.839 D Downloading  "https://resources.download.minecraft.net/06/06a2f38a094573652977232abcc4f268cf6745ad"
+   56.955 D Download succeeded: "https://resources.download.minecraft.net/a9/a971ae2004798c14bc3387cfd1b89420092b3263"
+   56.963 D Task "Net::Download(0x5adfcbefbc20)" starting for the first time
+   56.967 D Downloading  "https://resources.download.minecraft.net/7f/7f7777e5d5b163c5d64201fd53e5682599548a49"
+   57.172 D Download succeeded: "https://resources.download.minecraft.net/67/67e25166bfe3e0ce3ef45ce2680b2413f80ccc5a"
+   57.277 D Download succeeded: "https://resources.download.minecraft.net/53/532fdae2fd43bc046f78a1b7b79f28161f25fc4c"
+   57.280 D Task "Net::Download(0x5adfcc02f700)" starting for the first time
+   57.284 D Downloading  "https://resources.download.minecraft.net/fa/fa2719bb68297a235f970cf1f7bc105a5acf90c9"
+   57.289 D Task "Net::Download(0x5adfcc078d60)" starting for the first time
+   57.293 D Downloading  "https://resources.download.minecraft.net/bc/bc11027f0c3aabe6da20bf3f4ef734f96c6d9de1"
+   57.606 D Task "Net::Download(0x5adfcbf77220)" starting for the first time
+   57.609 D Downloading  "https://resources.download.minecraft.net/68/6855f8a8905b601cf5a15094a8ebeab066345cc2"
+   57.613 D Task "Net::Download(0x5adfcc0ead00)" starting for the first time
+   57.616 D Downloading  "https://resources.download.minecraft.net/bc/bc83ef53bf163e45854a4e619c2c8f20017be979"
+   57.727 D Download succeeded: "https://resources.download.minecraft.net/7f/7f7777e5d5b163c5d64201fd53e5682599548a49"
+   57.844 D Download succeeded: "https://resources.download.minecraft.net/06/06a2f38a094573652977232abcc4f268cf6745ad"
+   57.846 D Task "Net::Download(0x5adfcc086af0)" starting for the first time
+   57.850 D Downloading  "https://resources.download.minecraft.net/54/54f37a73d613c9e2f9c303f7c3f2180cbf67912b"
+   57.966 D Download succeeded: "https://resources.download.minecraft.net/fa/fa2719bb68297a235f970cf1f7bc105a5acf90c9"
+   57.970 D Task "Net::Download(0x5adfcbe24c80)" starting for the first time
+   57.974 D Downloading  "https://resources.download.minecraft.net/ce/ce719536d17beda1445931d3ba33d3c23d51e48f"
+   58.097 D Download succeeded: "https://resources.download.minecraft.net/bc/bc83ef53bf163e45854a4e619c2c8f20017be979"
+   58.167 D Task "Net::Download(0x5adfcbe9db60)" starting for the first time
+   58.176 D Downloading  "https://resources.download.minecraft.net/df/df444dec6fc366f517bcee5995dfe7148bf0b436"
+   58.395 D Download succeeded: "https://resources.download.minecraft.net/bc/bc11027f0c3aabe6da20bf3f4ef734f96c6d9de1"
+   58.399 D Task "Net::Download(0x5adfcc4db330)" starting for the first time
+   58.402 D Downloading  "https://resources.download.minecraft.net/32/324f58251829988ad3f4a5f7dc39b647fdcc2639"
+   58.405 D Task "Net::Download(0x5adfcc082690)" starting for the first time
+   58.485 D Downloading  "https://resources.download.minecraft.net/b9/b99889832d7f9abe35725506e4cd48075e25f957"
+   58.723 D Download succeeded: "https://resources.download.minecraft.net/68/6855f8a8905b601cf5a15094a8ebeab066345cc2"
+   58.771 D Download succeeded: "https://resources.download.minecraft.net/b9/b99889832d7f9abe35725506e4cd48075e25f957"
+   58.773 D Task "Net::Download(0x5adfcbfd8480)" starting for the first time
+   58.776 D Downloading  "https://resources.download.minecraft.net/21/2142a00de645aa748b908c74fc275a3025b8bd90"
+   58.788 D Task "Net::Download(0x5adfcbfa0a20)" starting for the first time
+   58.791 D Downloading  "https://resources.download.minecraft.net/cb/cb01089f7f2a4e84b36790efa99f3ed89ef08f5e"
+   58.944 D Download succeeded: "https://resources.download.minecraft.net/ce/ce719536d17beda1445931d3ba33d3c23d51e48f"
+   59.028 D Download succeeded: "https://resources.download.minecraft.net/df/df444dec6fc366f517bcee5995dfe7148bf0b436"
+   59.031 D Task "Net::Download(0x5adfcbe1e070)" starting for the first time
+   59.033 D Downloading  "https://resources.download.minecraft.net/e0/e04acb34861b4ac53abf9c0e3aec3c0f83cefc0c"
+   59.166 D Download succeeded: "https://resources.download.minecraft.net/54/54f37a73d613c9e2f9c303f7c3f2180cbf67912b"
+   59.304 D Download succeeded: "https://resources.download.minecraft.net/32/324f58251829988ad3f4a5f7dc39b647fdcc2639"
+   59.304 D Task "Net::Download(0x5adfcbef0a10)" starting for the first time
+   59.307 D Downloading  "https://resources.download.minecraft.net/0d/0dbcd56e6d8a931818f0913a0e23f784106d4ad8"
+   59.464 D Download succeeded: "https://resources.download.minecraft.net/cb/cb01089f7f2a4e84b36790efa99f3ed89ef08f5e"
+   59.468 D Task "Net::Download(0x5adfcbea0b60)" starting for the first time
+   59.470 D Downloading  "https://resources.download.minecraft.net/7d/7d2d4b60ec51462992b7429aa861d03048cd43c1"
+   59.615 D Download succeeded: "https://resources.download.minecraft.net/21/2142a00de645aa748b908c74fc275a3025b8bd90"
+   59.618 D Task "Net::Download(0x5adfcbdf4eb0)" starting for the first time
+   59.620 D Downloading  "https://resources.download.minecraft.net/be/bea9b17990e1d513cab127ead72c8f655995109e"
+   59.624 D Task "Net::Download(0x5adfcc0f8b20)" starting for the first time
+   59.626 D Downloading  "https://resources.download.minecraft.net/c1/c1a20b3df904eb16e6775b5624cbd3aa8619d3cb"
+   59.782 D Download succeeded: "https://resources.download.minecraft.net/0d/0dbcd56e6d8a931818f0913a0e23f784106d4ad8"
+   59.791 D Task "Net::Download(0x5adfcbfb7920)" starting for the first time
+   59.794 D Downloading  "https://resources.download.minecraft.net/be/be9b14926936c4509f7fe5002cdfbba3b2752d82"
+   59.946 D Download succeeded: "https://resources.download.minecraft.net/e0/e04acb34861b4ac53abf9c0e3aec3c0f83cefc0c"
+   59.949 D Task "Net::Download(0x5adfcbff9cd0)" starting for the first time
+   59.953 D Downloading  "https://resources.download.minecraft.net/48/4878a57f39655fedb891c16425e55a3cd91a2d70"
+   59.963 D Task "Net::Download(0x5adfcc0a1ac0)" starting for the first time
+   59.966 D Downloading  "https://resources.download.minecraft.net/12/12c0a5f206d75f11eaceb2395005038a496c8f11"
+   60.106 D Download succeeded: "https://resources.download.minecraft.net/7d/7d2d4b60ec51462992b7429aa861d03048cd43c1"
+   60.318 D Download succeeded: "https://resources.download.minecraft.net/be/bea9b17990e1d513cab127ead72c8f655995109e"
+   60.321 D Task "Net::Download(0x5adfcbfd5490)" starting for the first time
+   60.324 D Downloading  "https://resources.download.minecraft.net/b6/b6955f323aa2f2eb7f6b480c9d2f053f6a314b50"
+   60.430 D Download succeeded: "https://resources.download.minecraft.net/be/be9b14926936c4509f7fe5002cdfbba3b2752d82"
+   60.433 D Task "Net::Download(0x5adfcbf27e00)" starting for the first time
+   60.435 D Downloading  "https://resources.download.minecraft.net/94/94e5b3f27e93bd060066e3e8aa45aac7eeababf6"
+   60.593 D Download succeeded: "https://resources.download.minecraft.net/c1/c1a20b3df904eb16e6775b5624cbd3aa8619d3cb"
+   60.595 D Task "Net::Download(0x5adfcbf34920)" starting for the first time
+   60.597 D Downloading  "https://resources.download.minecraft.net/0c/0cfa947f3d282bb02426b1c5e666b5dc28aff8a4"
+   60.600 D Task "Net::Download(0x5adfcbded940)" starting for the first time
+   60.604 D Downloading  "https://resources.download.minecraft.net/e8/e8a73969b515a15df138a4d55b07f4ff573db25f"
+   61.067 D Download succeeded: "https://resources.download.minecraft.net/12/12c0a5f206d75f11eaceb2395005038a496c8f11"
+   61.119 D Download succeeded: "https://resources.download.minecraft.net/e8/e8a73969b515a15df138a4d55b07f4ff573db25f"
+   61.294 D Download succeeded: "https://resources.download.minecraft.net/48/4878a57f39655fedb891c16425e55a3cd91a2d70"
+   61.451 D Download succeeded: "https://resources.download.minecraft.net/94/94e5b3f27e93bd060066e3e8aa45aac7eeababf6"
+   62.015 D Task "Net::Download(0x5adfcbe2a8e0)" starting for the first time
+   62.928 D Downloading  "https://resources.download.minecraft.net/e3/e36444071568c3273ea00627ed5462275cd6828e"
+   63.071 D Task "Net::Download(0x5adfcc0354f0)" starting for the first time
+   63.088 D Downloading  "https://resources.download.minecraft.net/fe/fe440be99066e6efcdb809c00d706bc62a500184"
+   63.283 D Download succeeded: "https://resources.download.minecraft.net/0c/0cfa947f3d282bb02426b1c5e666b5dc28aff8a4"
+   63.285 D Task "Net::Download(0x5adfcc017a70)" starting for the first time
+   63.291 D Downloading  "https://resources.download.minecraft.net/3c/3cf507fd0a0288688962bd265839e4a706f5d24b"
+   63.459 D Download succeeded: "https://resources.download.minecraft.net/b6/b6955f323aa2f2eb7f6b480c9d2f053f6a314b50"
+   63.462 D Task "Net::Download(0x5adfcbdeabc0)" starting for the first time
+   63.466 D Downloading  "https://resources.download.minecraft.net/21/215583bfda553bb04b5b15ef27d643abfe5fa2f1"
+   63.470 D Task "Net::Download(0x5adfcbe5a440)" starting for the first time
+   63.473 D Downloading  "https://resources.download.minecraft.net/f5/f5d6381c34a8154bfd3fdbb67fa87d9fca6794f0"
+   63.477 D Task "Net::Download(0x5adfcbe55730)" starting for the first time
+   63.480 D Downloading  "https://resources.download.minecraft.net/6a/6a859c09d4960d1122947be21504ebcc7f37a8a4"
+   63.504 D Download succeeded: "https://resources.download.minecraft.net/6a/6a859c09d4960d1122947be21504ebcc7f37a8a4"
+   63.507 D Task "Net::Download(0x5adfcbe1c150)" starting for the first time
+   63.511 D Downloading  "https://resources.download.minecraft.net/42/4211ca09a11fcf0bb2f20d210389ddeae6e0fc8e"
+   63.526 D Download succeeded: "https://resources.download.minecraft.net/42/4211ca09a11fcf0bb2f20d210389ddeae6e0fc8e"
+   63.535 D Task "Net::Download(0x5adfccbf0cf0)" starting for the first time
+   63.537 D Downloading  "https://resources.download.minecraft.net/11/11fb23958cae11865bedec00522d70a188ca5d1b"
+   63.582 D Download succeeded: "https://resources.download.minecraft.net/11/11fb23958cae11865bedec00522d70a188ca5d1b"
+   63.586 D Task "Net::Download(0x5adfcbeffe20)" starting for the first time
+   63.589 D Downloading  "https://resources.download.minecraft.net/a1/a1e833dec61595dc79d0c672fcd7838579ca4b14"
+   63.628 D Download succeeded: "https://resources.download.minecraft.net/a1/a1e833dec61595dc79d0c672fcd7838579ca4b14"
+   63.643 D Task "Net::Download(0x5adfcbdb4f20)" starting for the first time
+   63.653 D Downloading  "https://resources.download.minecraft.net/49/496a1bcb51a8a67b628d0d444fbac88994a4b231"
+   63.695 D Download succeeded: "https://resources.download.minecraft.net/49/496a1bcb51a8a67b628d0d444fbac88994a4b231"
+   63.699 D Task "Net::Download(0x5adfcbe7d8e0)" starting for the first time
+   63.702 D Downloading  "https://resources.download.minecraft.net/d6/d6d79daa625442e143f9b2b9157e3d8af2800094"
+   63.811 D Download succeeded: "https://resources.download.minecraft.net/21/215583bfda553bb04b5b15ef27d643abfe5fa2f1"
+   63.822 D Download succeeded: "https://resources.download.minecraft.net/d6/d6d79daa625442e143f9b2b9157e3d8af2800094"
+   63.936 D Download succeeded: "https://resources.download.minecraft.net/fe/fe440be99066e6efcdb809c00d706bc62a500184"
+   64.052 D Download succeeded: "https://resources.download.minecraft.net/3c/3cf507fd0a0288688962bd265839e4a706f5d24b"
+   64.166 D Download succeeded: "https://resources.download.minecraft.net/f5/f5d6381c34a8154bfd3fdbb67fa87d9fca6794f0"
+   64.171 D Task "Net::Download(0x5adfcbefe040)" starting for the first time
+   64.175 D Downloading  "https://resources.download.minecraft.net/ed/ed0556eeed6f8f8c48b06a34401592215fe80f60"
+   64.179 D Task "Net::Download(0x5adfcbe1a830)" starting for the first time
+   64.183 D Downloading  "https://resources.download.minecraft.net/04/0445f088325b39038df2b37a958ec6c987f5e714"
+   64.186 D Task "Net::Download(0x5adfcbd9ed20)" starting for the first time
+   64.188 D Downloading  "https://resources.download.minecraft.net/4c/4c237fdb2ea5f970c73b18dc7d17df4c5439fbed"
+   64.190 D Task "Net::Download(0x5adfcc618a90)" starting for the first time
+   64.192 D Downloading  "https://resources.download.minecraft.net/4a/4a2b2aca57376ac8daf67a9c339914d2ffbe9828"
+   64.195 D Task "Net::Download(0x5adfccbef0f0)" starting for the first time
+   64.198 D Downloading  "https://resources.download.minecraft.net/db/db3b85662c0000733a04d5087d7d835771a70cc5"
+   64.211 D Download succeeded: "https://resources.download.minecraft.net/ed/ed0556eeed6f8f8c48b06a34401592215fe80f60"
+   64.300 D Download succeeded: "https://resources.download.minecraft.net/04/0445f088325b39038df2b37a958ec6c987f5e714"
+   64.312 D Download succeeded: "https://resources.download.minecraft.net/4c/4c237fdb2ea5f970c73b18dc7d17df4c5439fbed"
+   64.325 D Download succeeded: "https://resources.download.minecraft.net/db/db3b85662c0000733a04d5087d7d835771a70cc5"
+   64.496 D Download succeeded: "https://resources.download.minecraft.net/e3/e36444071568c3273ea00627ed5462275cd6828e"
+   64.499 D Task "Net::Download(0x5adfcc66d720)" starting for the first time
+   64.503 D Downloading  "https://resources.download.minecraft.net/23/2368ded1c164202a059876128e68b2e70ebcdff9"
+   64.519 D Download succeeded: "https://resources.download.minecraft.net/4a/4a2b2aca57376ac8daf67a9c339914d2ffbe9828"
+   64.522 D Task "Net::Download(0x5adfcbeefdb0)" starting for the first time
+   64.524 D Downloading  "https://resources.download.minecraft.net/f0/f0c022a51c4e496fe8b57ee6a769e01e5b321e4d"
+   64.527 D Task "Net::Download(0x5adfcbdb61b0)" starting for the first time
+   64.530 D Downloading  "https://resources.download.minecraft.net/77/774ae41e86f0b62a5cc961d1bc2e3d0aef9d229c"
+   64.532 D Task "Net::Download(0x5adfcc07a5a0)" starting for the first time
+   64.535 D Downloading  "https://resources.download.minecraft.net/2d/2db5799d39524c6f99e439d310e4a0817c61660e"
+   64.540 D Task "Net::Download(0x5adfcc07a7f0)" starting for the first time
+   64.544 D Downloading  "https://resources.download.minecraft.net/b9/b97cfa83f2be06885ce9419522ad379bf96b90c7"
+   64.563 D Download succeeded: "https://resources.download.minecraft.net/23/2368ded1c164202a059876128e68b2e70ebcdff9"
+   64.566 D Task "Net::Download(0x5adfcbd97690)" starting for the first time
+   64.568 D Downloading  "https://resources.download.minecraft.net/5c/5cab2f09f1fecc35ea879da5a30678b9c7daca23"
+   64.586 D Download succeeded: "https://resources.download.minecraft.net/f0/f0c022a51c4e496fe8b57ee6a769e01e5b321e4d"
+   64.597 D Download succeeded: "https://resources.download.minecraft.net/2d/2db5799d39524c6f99e439d310e4a0817c61660e"
+   64.609 D Download succeeded: "https://resources.download.minecraft.net/b9/b97cfa83f2be06885ce9419522ad379bf96b90c7"
+   64.614 D Task "Net::Download(0x5adfcbfd65c0)" starting for the first time
+   64.617 D Downloading  "https://resources.download.minecraft.net/90/9022fcfb001438a87c65b268202a6abf5957b64a"
+   64.631 D Download succeeded: "https://resources.download.minecraft.net/77/774ae41e86f0b62a5cc961d1bc2e3d0aef9d229c"
+   64.643 D Download succeeded: "https://resources.download.minecraft.net/5c/5cab2f09f1fecc35ea879da5a30678b9c7daca23"
+   64.646 D Task "Net::Download(0x5adfcc08e830)" starting for the first time
+   64.648 D Downloading  "https://resources.download.minecraft.net/86/86ee4459e92beea5a4287881d26f7eaee0411c92"
+   64.651 D Task "Net::Download(0x5adfcbf22e40)" starting for the first time
+   64.653 D Downloading  "https://resources.download.minecraft.net/6f/6fa4895a44f671fd7c24c366f87ca908da6485a3"
+   64.655 D Task "Net::Download(0x5adfcc08b150)" starting for the first time
+   64.657 D Downloading  "https://resources.download.minecraft.net/78/781d4bfc6ee0aff2a61b0d78f0da34610a28aa62"
+   64.660 D Task "Net::Download(0x5adfcc085100)" starting for the first time
+   64.663 D Downloading  "https://resources.download.minecraft.net/f7/f789417f40eee40b4d8ae6422d78f0ce06a94211"
+   64.678 D Download succeeded: "https://resources.download.minecraft.net/90/9022fcfb001438a87c65b268202a6abf5957b64a"
+   64.682 D Task "Net::Download(0x5adfcc086f50)" starting for the first time
+   64.684 D Downloading  "https://resources.download.minecraft.net/4a/4a6c47aa4f8c2cfe3237b250ed19b8714d611fd2"
+   64.700 D Download succeeded: "https://resources.download.minecraft.net/86/86ee4459e92beea5a4287881d26f7eaee0411c92"
+   64.712 D Download succeeded: "https://resources.download.minecraft.net/6f/6fa4895a44f671fd7c24c366f87ca908da6485a3"
+   64.723 D Download succeeded: "https://resources.download.minecraft.net/78/781d4bfc6ee0aff2a61b0d78f0da34610a28aa62"
+   64.735 D Download succeeded: "https://resources.download.minecraft.net/f7/f789417f40eee40b4d8ae6422d78f0ce06a94211"
+   64.740 D Task "Net::Download(0x5adfcbfe6800)" starting for the first time
+   64.743 D Downloading  "https://resources.download.minecraft.net/86/8648a8dcbe82c047b60d74783f7b1c9eb5826290"
+   64.747 D Task "Net::Download(0x5adfcbee9050)" starting for the first time
+   64.750 D Downloading  "https://resources.download.minecraft.net/f4/f4e487a5fdbf864c782a09090aca709548183f44"
+   64.755 D Task "Net::Download(0x5adfcc00dcd0)" starting for the first time
+   64.759 D Downloading  "https://resources.download.minecraft.net/cc/cc1872c0c02461eab4e70141cd7f29e512756e7a"
+   64.768 D Download succeeded: "https://resources.download.minecraft.net/4a/4a6c47aa4f8c2cfe3237b250ed19b8714d611fd2"
+   64.771 D Task "Net::Download(0x5adfcbdf0340)" starting for the first time
+   64.776 D Downloading  "https://resources.download.minecraft.net/6b/6bb2c7d902f930fa17c1df0739ae2cbeb452151f"
+   64.780 D Task "Net::Download(0x5adfcbfa26e0)" starting for the first time
+   64.784 D Downloading  "https://resources.download.minecraft.net/8a/8abcbed843fff26146330dde170862e64b8491ab"
+   64.802 D Download succeeded: "https://resources.download.minecraft.net/86/8648a8dcbe82c047b60d74783f7b1c9eb5826290"
+   64.813 D Download succeeded: "https://resources.download.minecraft.net/f4/f4e487a5fdbf864c782a09090aca709548183f44"
+   64.825 D Download succeeded: "https://resources.download.minecraft.net/cc/cc1872c0c02461eab4e70141cd7f29e512756e7a"
+   64.828 D Task "Net::Download(0x5adfcbfd4da0)" starting for the first time
+   64.833 D Downloading  "https://resources.download.minecraft.net/9b/9b699c4339f512eb851b2ebbef524d90cb75e577"
+   64.847 D Download succeeded: "https://resources.download.minecraft.net/6b/6bb2c7d902f930fa17c1df0739ae2cbeb452151f"
+   64.850 D Task "Net::Download(0x5adfcc653800)" starting for the first time
+   64.853 D Downloading  "https://resources.download.minecraft.net/38/389e837fa8c7f8f09499b43d8710489dfd8c53dd"
+   64.856 D Task "Net::Download(0x5adfcc66fac0)" starting for the first time
+   64.859 D Downloading  "https://resources.download.minecraft.net/34/3455ca942556c7d5eac7dd5e458e7fb3bad564c9"
+   64.863 D Task "Net::Download(0x5adfccbeac60)" starting for the first time
+   64.865 D Downloading  "https://resources.download.minecraft.net/f0/f0ca66561f832bf2f60b393837297c2692367cd5"
+   64.881 D Download succeeded: "https://resources.download.minecraft.net/9b/9b699c4339f512eb851b2ebbef524d90cb75e577"
+   64.886 D Task "Net::Download(0x5adfcbfef8e0)" starting for the first time
+   64.888 D Downloading  "https://resources.download.minecraft.net/ed/ed402bb1c240a70fa9eb05fe5eec436c248598f2"
+   64.904 D Download succeeded: "https://resources.download.minecraft.net/8a/8abcbed843fff26146330dde170862e64b8491ab"
+   64.915 D Download succeeded: "https://resources.download.minecraft.net/38/389e837fa8c7f8f09499b43d8710489dfd8c53dd"
+   64.927 D Download succeeded: "https://resources.download.minecraft.net/34/3455ca942556c7d5eac7dd5e458e7fb3bad564c9"
+   64.938 D Download succeeded: "https://resources.download.minecraft.net/f0/f0ca66561f832bf2f60b393837297c2692367cd5"
+   64.941 D Task "Net::Download(0x5adfccbea0d0)" starting for the first time
+   64.944 D Downloading  "https://resources.download.minecraft.net/eb/ebf6fcfa3dd26d6f684fd90388221d4ee4a1af1d"
+   64.961 D Download succeeded: "https://resources.download.minecraft.net/ed/ed402bb1c240a70fa9eb05fe5eec436c248598f2"
+   64.964 D Task "Net::Download(0x5adfcbf31e90)" starting for the first time
+   64.966 D Downloading  "https://resources.download.minecraft.net/60/608792c62e053a9ddf9fc3bd493a6da1437ad36a"
+   64.969 D Task "Net::Download(0x5adfcc66b080)" starting for the first time
+   64.972 D Downloading  "https://resources.download.minecraft.net/d8/d8a23d7672a2e277c8a0c08e131fded629fb5db7"
+   64.975 D Task "Net::Download(0x5adfcc6936c0)" starting for the first time
+   64.979 D Downloading  "https://resources.download.minecraft.net/fa/fa85b9e7e54c36c9f9d0249ca739444b5e3bb66c"
+   64.983 D Task "Net::Download(0x5adfcc6624d0)" starting for the first time
+   64.986 D Downloading  "https://resources.download.minecraft.net/e5/e55daa373e577f611565d57ec53cd28dcf472f99"
+   65.006 D Download succeeded: "https://resources.download.minecraft.net/eb/ebf6fcfa3dd26d6f684fd90388221d4ee4a1af1d"
+   65.009 D Task "Net::Download(0x5adfcc67e740)" starting for the first time
+   65.013 D Downloading  "https://resources.download.minecraft.net/3a/3a92d0fd263265719532041f6f2ea44c7ba2f2e2"
+   65.030 D Download succeeded: "https://resources.download.minecraft.net/60/608792c62e053a9ddf9fc3bd493a6da1437ad36a"
+   65.041 D Download succeeded: "https://resources.download.minecraft.net/d8/d8a23d7672a2e277c8a0c08e131fded629fb5db7"
+   65.052 D Download succeeded: "https://resources.download.minecraft.net/fa/fa85b9e7e54c36c9f9d0249ca739444b5e3bb66c"
+   65.055 D Task "Net::Download(0x5adfcc68b000)" starting for the first time
+   65.061 D Downloading  "https://resources.download.minecraft.net/09/09835e0c3138faf6047506a2b6f1da087c082d2e"
+   65.076 D Download succeeded: "https://resources.download.minecraft.net/e5/e55daa373e577f611565d57ec53cd28dcf472f99"
+   65.087 D Download succeeded: "https://resources.download.minecraft.net/3a/3a92d0fd263265719532041f6f2ea44c7ba2f2e2"
+   65.090 D Task "Net::Download(0x5adfcc661710)" starting for the first time
+   65.093 D Downloading  "https://resources.download.minecraft.net/bd/bd76df5c882dc4b65925a8b25c0e7dbebef9bb2e"
+   65.096 D Task "Net::Download(0x5adfcc692e80)" starting for the first time
+   65.098 D Downloading  "https://resources.download.minecraft.net/b9/b9a550ba1e028c027557572aeb928b760864efe4"
+   65.104 D Task "Net::Download(0x5adfcc6865c0)" starting for the first time
+   65.106 D Downloading  "https://resources.download.minecraft.net/fa/fa35a51bb74a4a6cf0c48161342db5a8577f13e5"
+   65.109 D Task "Net::Download(0x5adfcc636790)" starting for the first time
+   65.111 D Downloading  "https://resources.download.minecraft.net/f1/f1b8e424aa0559952b08651d792f96381d2fb132"
+   65.115 D Task "Net::Download(0x5adfcc661f50)" starting for the first time
+   65.118 D Downloading  "https://resources.download.minecraft.net/3b/3be3cf9a5c8534bf6548ba89c699a3b2abf9e074"
+   65.132 D Download succeeded: "https://resources.download.minecraft.net/09/09835e0c3138faf6047506a2b6f1da087c082d2e"
+   65.143 D Download succeeded: "https://resources.download.minecraft.net/bd/bd76df5c882dc4b65925a8b25c0e7dbebef9bb2e"
+   65.155 D Download succeeded: "https://resources.download.minecraft.net/fa/fa35a51bb74a4a6cf0c48161342db5a8577f13e5"
+   65.166 D Download succeeded: "https://resources.download.minecraft.net/f1/f1b8e424aa0559952b08651d792f96381d2fb132"
+   65.178 D Download succeeded: "https://resources.download.minecraft.net/b9/b9a550ba1e028c027557572aeb928b760864efe4"
+   65.189 D Download succeeded: "https://resources.download.minecraft.net/3b/3be3cf9a5c8534bf6548ba89c699a3b2abf9e074"
+   65.192 D Task "Net::Download(0x5adfcc654b90)" starting for the first time
+   65.196 D Downloading  "https://resources.download.minecraft.net/19/19034765ba8ba5389b35804ab213537ab5cf706f"
+   65.201 D Task "Net::Download(0x5adfcc693c40)" starting for the first time
+   65.204 D Downloading  "https://resources.download.minecraft.net/8a/8a04a60d5c28fc60df472a877ca57f37eabc78d7"
+   65.209 D Task "Net::Download(0x5adfcc61ab90)" starting for the first time
+   65.212 D Downloading  "https://resources.download.minecraft.net/d6/d6ae1c04d0a7376a33d1df12e1b8057cfbab6bc2"
+   65.223 D Task "Net::Download(0x5adfcc61c190)" starting for the first time
+   65.225 D Downloading  "https://resources.download.minecraft.net/ce/ceddbe3cb01ed6f356d455a1960d13d96afb5363"
+   65.228 D Task "Net::Download(0x5adfcc655110)" starting for the first time
+   65.230 D Downloading  "https://resources.download.minecraft.net/57/57f50076e7b91b12595a17cf0d38303f979f862b"
+   65.236 D Task "Net::Download(0x5adfcc656450)" starting for the first time
+   65.238 D Downloading  "https://resources.download.minecraft.net/cb/cb7fd9405357f21decb5de0b373b837dadcbca9c"
+   65.256 D Download succeeded: "https://resources.download.minecraft.net/19/19034765ba8ba5389b35804ab213537ab5cf706f"
+   65.268 D Download succeeded: "https://resources.download.minecraft.net/8a/8a04a60d5c28fc60df472a877ca57f37eabc78d7"
+   65.279 D Download succeeded: "https://resources.download.minecraft.net/d6/d6ae1c04d0a7376a33d1df12e1b8057cfbab6bc2"
+   65.302 D Download succeeded: "https://resources.download.minecraft.net/ce/ceddbe3cb01ed6f356d455a1960d13d96afb5363"
+   65.313 D Download succeeded: "https://resources.download.minecraft.net/57/57f50076e7b91b12595a17cf0d38303f979f862b"
+   65.325 D Download succeeded: "https://resources.download.minecraft.net/cb/cb7fd9405357f21decb5de0b373b837dadcbca9c"
+   65.328 D Task "Net::Download(0x5adfcc649610)" starting for the first time
+   65.332 D Downloading  "https://resources.download.minecraft.net/b4/b406e1c10c0cf34fd943dddd2cea5106dab53ee9"
+   65.335 D Task "Net::Download(0x5adfcc66d180)" starting for the first time
+   65.338 D Downloading  "https://resources.download.minecraft.net/b0/b0ed9fc4ce57b96c05c956b92fe077e8d7c448a6"
+   65.340 D Task "Net::Download(0x5adfcc66ab00)" starting for the first time
+   65.344 D Downloading  "https://resources.download.minecraft.net/58/584ac8cfca1f68b5e1eb6d0c3554dd52f31bbec5"
+   65.347 D Task "Net::Download(0x5adfcc679a40)" starting for the first time
+   65.349 D Downloading  "https://resources.download.minecraft.net/cd/cde65556718d191e30d48fd625bad1381f1fcd06"
+   65.352 D Task "Net::Download(0x5adfcc675580)" starting for the first time
+   65.354 D Downloading  "https://resources.download.minecraft.net/d4/d4313530b3100f824e2f0b2adeed165b0b816267"
+   65.355 D Task "Net::Download(0x5adfccbe6990)" starting for the first time
+   65.357 D Downloading  "https://resources.download.minecraft.net/8b/8bd9484e2bc85bfa2c1c4c6dd84d102c9a7f86c0"
+   65.569 D Download succeeded: "https://resources.download.minecraft.net/b0/b0ed9fc4ce57b96c05c956b92fe077e8d7c448a6"
+   65.645 D Download succeeded: "https://resources.download.minecraft.net/58/584ac8cfca1f68b5e1eb6d0c3554dd52f31bbec5"
+   65.721 D Download succeeded: "https://resources.download.minecraft.net/d4/d4313530b3100f824e2f0b2adeed165b0b816267"
+   65.725 D Task "Net::Download(0x5adfcc613b30)" starting for the first time
+   65.729 D Downloading  "https://resources.download.minecraft.net/1b/1b62b6e66e47b1cf034ec3ac54bb7c6baff74780"
+   65.810 D Download succeeded: "https://resources.download.minecraft.net/b4/b406e1c10c0cf34fd943dddd2cea5106dab53ee9"
+   65.993 D Download succeeded: "https://resources.download.minecraft.net/cd/cde65556718d191e30d48fd625bad1381f1fcd06"
+   66.208 D Task "Net::Download(0x5adfcbfbf240)" starting for the first time
+   66.210 D Downloading  "https://resources.download.minecraft.net/e1/e1b4726cf75e5d6db25fc22204ceb83279f69498"
+   66.212 D Task "Net::Download(0x5adfcbea4cb0)" starting for the first time
+   66.214 D Downloading  "https://resources.download.minecraft.net/28/28912fd79cfe0e4e9465503809465ec400b0926b"
+   66.288 D Download succeeded: "https://resources.download.minecraft.net/8b/8bd9484e2bc85bfa2c1c4c6dd84d102c9a7f86c0"
+   66.291 D Task "Net::Download(0x5adfcc608a10)" starting for the first time
+   66.294 D Downloading  "https://resources.download.minecraft.net/62/62ef4f7c2da1d0ebf50c9462c9bfe7b27e865b0f"
+   66.297 D Task "Net::Download(0x5adfcbffd7d0)" starting for the first time
+   66.300 D Downloading  "https://resources.download.minecraft.net/1f/1f86ddd8bc02fb96c27583c0b38ebd0dcdaf271a"
+   66.365 D Download succeeded: "https://resources.download.minecraft.net/1b/1b62b6e66e47b1cf034ec3ac54bb7c6baff74780"
+   66.368 D Task "Net::Download(0x5adfcbea23a0)" starting for the first time
+   66.371 D Downloading  "https://resources.download.minecraft.net/60/60f3cb6da0dedefb50015b883c98e32357134231"
+   66.402 D Download succeeded: "https://resources.download.minecraft.net/e1/e1b4726cf75e5d6db25fc22204ceb83279f69498"
+   66.404 D Task "Net::Download(0x5adfcbd97080)" starting for the first time
+   66.406 D Downloading  "https://resources.download.minecraft.net/12/12174a8a8332a4156d57d57f370932ad28789df0"
+   66.451 D Download succeeded: "https://resources.download.minecraft.net/1f/1f86ddd8bc02fb96c27583c0b38ebd0dcdaf271a"
+   66.453 D Task "Net::Download(0x5adfcc0809c0)" starting for the first time
+   66.456 D Downloading  "https://resources.download.minecraft.net/04/043067183af1d374857b0210fc281535fcf64665"
+   66.461 D Task "Net::Download(0x5adfcc027370)" starting for the first time
+   66.465 D Downloading  "https://resources.download.minecraft.net/18/180d3c12b20c806ad7da82a77c32238547f68214"
+   66.528 D Download succeeded: "https://resources.download.minecraft.net/62/62ef4f7c2da1d0ebf50c9462c9bfe7b27e865b0f"
+   66.696 D Download succeeded: "https://resources.download.minecraft.net/60/60f3cb6da0dedefb50015b883c98e32357134231"
+   66.761 D Download succeeded: "https://resources.download.minecraft.net/12/12174a8a8332a4156d57d57f370932ad28789df0"
+   66.764 D Task "Net::Download(0x5adfcc000280)" starting for the first time
+   66.766 D Downloading  "https://resources.download.minecraft.net/d8/d826bdcc7a5cf8a276d9dec67c71775c55d1f924"
+   66.837 D Download succeeded: "https://resources.download.minecraft.net/28/28912fd79cfe0e4e9465503809465ec400b0926b"
+   66.966 D Download succeeded: "https://resources.download.minecraft.net/04/043067183af1d374857b0210fc281535fcf64665"
+   66.971 D Task "Net::Download(0x5adfcbfcd110)" starting for the first time
+   66.976 D Downloading  "https://resources.download.minecraft.net/8d/8d5b13c57c0689a009a5857219a2700009495afe"
+   66.978 D Task "Net::Download(0x5adfcbfcdd40)" starting for the first time
+   66.980 D Downloading  "https://resources.download.minecraft.net/aa/aa57d2ca2d029c3b042adac9e66838d981145606"
+   66.983 D Task "Net::Download(0x5adfcc045e30)" starting for the first time
+   66.985 D Downloading  "https://resources.download.minecraft.net/7b/7b2c4354cb259a4ed7bf7dcf317012aa54bceb06"
+   67.068 D Download succeeded: "https://resources.download.minecraft.net/18/180d3c12b20c806ad7da82a77c32238547f68214"
+   67.072 D Task "Net::Download(0x5adfcbf1b350)" starting for the first time
+   67.074 D Downloading  "https://resources.download.minecraft.net/f6/f66cb283d78f7192d14033617cfd1a5f129f08a0"
+   67.080 D Task "Net::Download(0x5adfcbff4820)" starting for the first time
+   67.082 D Downloading  "https://resources.download.minecraft.net/97/97886d7ba109c2dc48ac0088fb4ab464268a1528"
+   67.102 D Download succeeded: "https://resources.download.minecraft.net/97/97886d7ba109c2dc48ac0088fb4ab464268a1528"
+   67.113 D Download succeeded: "https://resources.download.minecraft.net/f6/f66cb283d78f7192d14033617cfd1a5f129f08a0"
+   67.117 D Task "Net::Download(0x5adfcbe93c50)" starting for the first time
+   67.119 D Downloading  "https://resources.download.minecraft.net/b4/b4a3ad988379b9e11f55fabe16066cf28f682d90"
+   67.122 D Task "Net::Download(0x5adfcbe6c220)" starting for the first time
+   67.124 D Downloading  "https://resources.download.minecraft.net/51/5108c24b6b55cb2eb5cccdf3f28f82359ea4d7df"
+   67.136 D Download succeeded: "https://resources.download.minecraft.net/b4/b4a3ad988379b9e11f55fabe16066cf28f682d90"
+   67.147 D Download succeeded: "https://resources.download.minecraft.net/51/5108c24b6b55cb2eb5cccdf3f28f82359ea4d7df"
+   67.211 D Download succeeded: "https://resources.download.minecraft.net/d8/d826bdcc7a5cf8a276d9dec67c71775c55d1f924"
+   67.214 D Task "Net::Download(0x5adfcc031310)" starting for the first time
+   67.217 D Downloading  "https://resources.download.minecraft.net/b8/b8bc43affc8c05c158c98502904005b2d876cbb7"
+   67.220 D Task "Net::Download(0x5adfcc08e220)" starting for the first time
+   67.222 D Downloading  "https://resources.download.minecraft.net/4f/4fe9374c1d2f4277aa45fa6610d33a384dd7134f"
+   67.289 D Download succeeded: "https://resources.download.minecraft.net/8d/8d5b13c57c0689a009a5857219a2700009495afe"
+   67.297 D Task "Net::Download(0x5adfcbfb9170)" starting for the first time
+   67.302 D Downloading  "https://resources.download.minecraft.net/a2/a2467aa307af205f714f3cb30868e176b584da3d"
+   67.323 D Download succeeded: "https://resources.download.minecraft.net/4f/4fe9374c1d2f4277aa45fa6610d33a384dd7134f"
+   67.425 D Download succeeded: "https://resources.download.minecraft.net/aa/aa57d2ca2d029c3b042adac9e66838d981145606"
+   67.436 D Download succeeded: "https://resources.download.minecraft.net/b8/b8bc43affc8c05c158c98502904005b2d876cbb7"
+   67.438 D Task "Net::Download(0x5adfcbdcfcb0)" starting for the first time
+   67.440 D Downloading  "https://resources.download.minecraft.net/28/286294cdcd4f87d8eecd6b7544e5a215ba7cfa3e"
+   67.444 D Task "Net::Download(0x5adfcc08dc10)" starting for the first time
+   67.448 D Downloading  "https://resources.download.minecraft.net/c5/c5b42cadf05e186fbc144dbb25eadf55fbbf8d9a"
+   67.458 D Download succeeded: "https://resources.download.minecraft.net/a2/a2467aa307af205f714f3cb30868e176b584da3d"
+   67.461 D Task "Net::Download(0x5adfcbf36160)" starting for the first time
+   67.465 D Downloading  "https://resources.download.minecraft.net/82/82d92c79fb45bd5e068c8b03062662534c23b692"
+   67.467 D Task "Net::Download(0x5adfcc030d00)" starting for the first time
+   67.470 D Downloading  "https://resources.download.minecraft.net/6d/6d68d66730c285e0c866c71b0cfcdf065ad96e42"
+   67.474 D Task "Net::Download(0x5adfcbf379e0)" starting for the first time
+   67.477 D Downloading  "https://resources.download.minecraft.net/26/269587652f4143877ba240bba36fadd3fccbe603"
+   67.492 D Download succeeded: "https://resources.download.minecraft.net/82/82d92c79fb45bd5e068c8b03062662534c23b692"
+   67.495 D Task "Net::Download(0x5adfcbf157f0)" starting for the first time
+   67.498 D Downloading  "https://resources.download.minecraft.net/29/29d3254f2a82d15916991e90a608db68178586a4"
+   67.514 D Download succeeded: "https://resources.download.minecraft.net/6d/6d68d66730c285e0c866c71b0cfcdf065ad96e42"
+   67.526 D Download succeeded: "https://resources.download.minecraft.net/29/29d3254f2a82d15916991e90a608db68178586a4"
+   67.528 D Task "Net::Download(0x5adfcbfeb030)" starting for the first time
+   67.530 D Downloading  "https://resources.download.minecraft.net/93/938a23d03c5a72deb69bf0abcf2c072063ffe524"
+   67.534 D Task "Net::Download(0x5adfcbff90e0)" starting for the first time
+   67.536 D Downloading  "https://resources.download.minecraft.net/8c/8c97b6d40a58ec71caa53098ce65f53e45e316f7"
+   67.548 D Download succeeded: "https://resources.download.minecraft.net/26/269587652f4143877ba240bba36fadd3fccbe603"
+   67.560 D Download succeeded: "https://resources.download.minecraft.net/93/938a23d03c5a72deb69bf0abcf2c072063ffe524"
+   67.571 D Download succeeded: "https://resources.download.minecraft.net/8c/8c97b6d40a58ec71caa53098ce65f53e45e316f7"
+   67.573 D Task "Net::Download(0x5adfcbfe24b0)" starting for the first time
+   67.575 D Downloading  "https://resources.download.minecraft.net/49/49fccf7d54780bae55dbda7351afcf884ba97c51"
+   67.579 D Task "Net::Download(0x5adfcbfc41e0)" starting for the first time
+   67.582 D Downloading  "https://resources.download.minecraft.net/99/9941b4190e8543f5d4d3c4550157edea4c8799df"
+   67.594 D Download succeeded: "https://resources.download.minecraft.net/28/286294cdcd4f87d8eecd6b7544e5a215ba7cfa3e"
+   67.598 D Task "Net::Download(0x5adfcbeb8050)" starting for the first time
+   67.600 D Downloading  "https://resources.download.minecraft.net/bc/bc8e845a483dfeaf1aed57134218c219db747b2b"
+   67.616 D Download succeeded: "https://resources.download.minecraft.net/c5/c5b42cadf05e186fbc144dbb25eadf55fbbf8d9a"
+   67.620 D Task "Net::Download(0x5adfcc001ae0)" starting for the first time
+   67.624 D Downloading  "https://resources.download.minecraft.net/96/9653184afd63cd7b2e1a76b32f9348eba486fdda"
+   67.639 D Download succeeded: "https://resources.download.minecraft.net/bc/bc8e845a483dfeaf1aed57134218c219db747b2b"
+   67.642 D Task "Net::Download(0x5adfcbfe8b60)" starting for the first time
+   67.644 D Downloading  "https://resources.download.minecraft.net/0c/0c020939060793adc9fe30113325849a8bf77bb2"
+   67.662 D Download succeeded: "https://resources.download.minecraft.net/96/9653184afd63cd7b2e1a76b32f9348eba486fdda"
+   67.666 D Task "Net::Download(0x5adfcbe17db0)" starting for the first time
+   67.669 D Downloading  "https://resources.download.minecraft.net/3f/3fdd5aa55541d43545c6f0a32a46bcfcbddb5275"
+   67.684 D Download succeeded: "https://resources.download.minecraft.net/0c/0c020939060793adc9fe30113325849a8bf77bb2"
+   67.687 D Task "Net::Download(0x5adfcbedff90)" starting for the first time
+   67.690 D Downloading  "https://resources.download.minecraft.net/12/12735079a45c835d19ca8bd415fc76027b525973"
+   67.707 D Download succeeded: "https://resources.download.minecraft.net/3f/3fdd5aa55541d43545c6f0a32a46bcfcbddb5275"
+   67.712 D Task "Net::Download(0x5adfcc086330)" starting for the first time
+   67.717 D Downloading  "https://resources.download.minecraft.net/d1/d1c7aa522ea479249af889356d5a3166fc08a407"
+   67.729 D Download succeeded: "https://resources.download.minecraft.net/12/12735079a45c835d19ca8bd415fc76027b525973"
+   67.741 D Download succeeded: "https://resources.download.minecraft.net/99/9941b4190e8543f5d4d3c4550157edea4c8799df"
+   67.745 D Task "Net::Download(0x5adfcbf1bf70)" starting for the first time
+   67.750 D Downloading  "https://resources.download.minecraft.net/3f/3ffc1f0a10482ab25ef24d0a618aba0289dbb827"
+   67.752 D Task "Net::Download(0x5adfcc0aeff0)" starting for the first time
+   67.758 D Downloading  "https://resources.download.minecraft.net/92/929a486c3d4b8c67cde7a04c6a9f1966864c772d"
+   67.774 D Download succeeded: "https://resources.download.minecraft.net/d1/d1c7aa522ea479249af889356d5a3166fc08a407"
+   67.778 D Task "Net::Download(0x5adfcbe1ba30)" starting for the first time
+   67.781 D Downloading  "https://resources.download.minecraft.net/68/6831f2025b403ae7b7db7d535872f74e900167d7"
+   67.797 D Download succeeded: "https://resources.download.minecraft.net/3f/3ffc1f0a10482ab25ef24d0a618aba0289dbb827"
+   67.808 D Download succeeded: "https://resources.download.minecraft.net/92/929a486c3d4b8c67cde7a04c6a9f1966864c772d"
+   67.813 D Task "Net::Download(0x5adfcc060460)" starting for the first time
+   67.817 D Downloading  "https://resources.download.minecraft.net/21/2138c6ea8c39713386a3d1e08c612e2840d8bb56"
+   67.831 D Download succeeded: "https://resources.download.minecraft.net/68/6831f2025b403ae7b7db7d535872f74e900167d7"
+   67.836 D Task "Net::Download(0x5adfcc083ed0)" starting for the first time
+   67.841 D Downloading  "https://resources.download.minecraft.net/e7/e7aa24565ec25896722f8756a73a554edaed8175"
+   67.845 D Task "Net::Download(0x5adfcbffcb90)" starting for the first time
+   67.848 D Downloading  "https://resources.download.minecraft.net/b1/b1c1cb788fdba32f1326e79ad1deb3e863e544f8"
+   67.865 D Download succeeded: "https://resources.download.minecraft.net/49/49fccf7d54780bae55dbda7351afcf884ba97c51"
+   67.869 D Task "Net::Download(0x5adfcc0014d0)" starting for the first time
+   67.873 D Downloading  "https://resources.download.minecraft.net/09/098c6ffcdebbc12e18c84d2729e9b06377dc7c95"
+   67.887 D Download succeeded: "https://resources.download.minecraft.net/e7/e7aa24565ec25896722f8756a73a554edaed8175"
+   67.899 D Download succeeded: "https://resources.download.minecraft.net/b1/b1c1cb788fdba32f1326e79ad1deb3e863e544f8"
+   67.905 D Task "Net::Download(0x5adfcbe69760)" starting for the first time
+   67.908 D Downloading  "https://resources.download.minecraft.net/9d/9de5631d30cb894420d62f699448dcb0b63d550c"
+   67.921 D Download succeeded: "https://resources.download.minecraft.net/09/098c6ffcdebbc12e18c84d2729e9b06377dc7c95"
+   67.930 D Task "Net::Download(0x5adfcbf1cbb0)" starting for the first time
+   67.935 D Downloading  "https://resources.download.minecraft.net/ad/ad32f51bad7a68289bcc7270c73f109bf551f651"
+   67.940 D Task "Net::Download(0x5adfcbfca640)" starting for the first time
+   67.944 D Downloading  "https://resources.download.minecraft.net/6c/6c824498e5ccedf219400b36cd05b95524342251"
+   67.955 D Download succeeded: "https://resources.download.minecraft.net/9d/9de5631d30cb894420d62f699448dcb0b63d550c"
+   67.959 D Task "Net::Download(0x5adfcbf373d0)" starting for the first time
+   67.972 D Downloading  "https://resources.download.minecraft.net/e3/e3a14e3022607d0f48bc3b17d3f72b015d54ed2b"
+   67.988 D Download succeeded: "https://resources.download.minecraft.net/ad/ad32f51bad7a68289bcc7270c73f109bf551f651"
+   68.001 D Download succeeded: "https://resources.download.minecraft.net/6c/6c824498e5ccedf219400b36cd05b95524342251"
+   68.004 D Task "Net::Download(0x5adfcbfe2ac0)" starting for the first time
+   68.006 D Downloading  "https://resources.download.minecraft.net/0a/0a34f2dfbba42968c98bdad1926ec2f4a0226944"
+   68.024 D Download succeeded: "https://resources.download.minecraft.net/21/2138c6ea8c39713386a3d1e08c612e2840d8bb56"
+   68.127 D Download succeeded: "https://resources.download.minecraft.net/7b/7b2c4354cb259a4ed7bf7dcf317012aa54bceb06"
+   68.139 D Download succeeded: "https://resources.download.minecraft.net/e3/e3a14e3022607d0f48bc3b17d3f72b015d54ed2b"
+   68.141 D Task "Net::Download(0x5adfcbfb8540)" starting for the first time
+   68.143 D Downloading  "https://resources.download.minecraft.net/79/7938494a1174a99d39cdcb0da28aaa06c562df0d"
+   68.146 D Task "Net::Download(0x5adfcc0adec0)" starting for the first time
+   68.148 D Downloading  "https://resources.download.minecraft.net/36/367a21ebbf3314f456500fb62eba65cb5c75bcdc"
+   68.151 D Task "Net::Download(0x5adfcc085d20)" starting for the first time
+   68.154 D Downloading  "https://resources.download.minecraft.net/0a/0ac6bdc2d85025531e84145a64e04b287dabc51a"
+   68.158 D Task "Net::Download(0x5adfcbdca410)" starting for the first time
+   68.161 D Downloading  "https://resources.download.minecraft.net/db/db2cf4f4cbab91745a4f887cfe5f053d8770398c"
+   68.164 D Task "Net::Download(0x5adfcc0364f0)" starting for the first time
+   68.166 D Downloading  "https://resources.download.minecraft.net/8d/8d931d4ee6b9228390ebefa6a3f41304143d0e45"
+   68.183 D Download succeeded: "https://resources.download.minecraft.net/79/7938494a1174a99d39cdcb0da28aaa06c562df0d"
+   68.195 D Download succeeded: "https://resources.download.minecraft.net/0a/0ac6bdc2d85025531e84145a64e04b287dabc51a"
+   68.206 D Download succeeded: "https://resources.download.minecraft.net/db/db2cf4f4cbab91745a4f887cfe5f053d8770398c"
+   68.217 D Download succeeded: "https://resources.download.minecraft.net/8d/8d931d4ee6b9228390ebefa6a3f41304143d0e45"
+   68.219 D Task "Net::Download(0x5adfcbe91de0)" starting for the first time
+   68.225 D Downloading  "https://resources.download.minecraft.net/c4/c40e688556920a67cf8a412b61f3627bcc082586"
+   68.228 D Task "Net::Download(0x5adfcc017340)" starting for the first time
+   68.232 D Downloading  "https://resources.download.minecraft.net/ef/ef859078b24917d4a9d12e84c2a63d08bef04d97"
+   68.236 D Task "Net::Download(0x5adfcc0214b0)" starting for the first time
+   68.240 D Downloading  "https://resources.download.minecraft.net/be/be927139e2936139d4608b8a7645578f95d75dc4"
+   68.246 D Task "Net::Download(0x5adfcc0f8000)" starting for the first time
+   68.250 D Downloading  "https://resources.download.minecraft.net/fe/feaf23df11048587e92792a7afbbeb560c4556f7"
+   68.262 D Download succeeded: "https://resources.download.minecraft.net/c4/c40e688556920a67cf8a412b61f3627bcc082586"
+   68.274 D Download succeeded: "https://resources.download.minecraft.net/ef/ef859078b24917d4a9d12e84c2a63d08bef04d97"
+   68.285 D Download succeeded: "https://resources.download.minecraft.net/be/be927139e2936139d4608b8a7645578f95d75dc4"
+   68.297 D Download succeeded: "https://resources.download.minecraft.net/fe/feaf23df11048587e92792a7afbbeb560c4556f7"
+   68.300 D Task "Net::Download(0x5adfcc04e560)" starting for the first time
+   68.303 D Downloading  "https://resources.download.minecraft.net/0e/0e800e8471613ac1d4e75367c9278879115956af"
+   68.305 D Task "Net::Download(0x5adfcbfbc810)" starting for the first time
+   68.307 D Downloading  "https://resources.download.minecraft.net/66/66267eada65930c654b94de8876c15f630b097e3"
+   68.311 D Task "Net::Download(0x5adfcbfe4f80)" starting for the first time
+   68.313 D Downloading  "https://resources.download.minecraft.net/58/580e9bb670b8a684f32ae25ef2e9e3c4281e36a9"
+   68.319 D Task "Net::Download(0x5adfcbfdd810)" starting for the first time
+   68.323 D Downloading  "https://resources.download.minecraft.net/48/48b434d0ad59f5975a173d23ef60480eb08fa6fb"
+   68.342 D Download succeeded: "https://resources.download.minecraft.net/0e/0e800e8471613ac1d4e75367c9278879115956af"
+   68.353 D Download succeeded: "https://resources.download.minecraft.net/66/66267eada65930c654b94de8876c15f630b097e3"
+   68.365 D Download succeeded: "https://resources.download.minecraft.net/36/367a21ebbf3314f456500fb62eba65cb5c75bcdc"
+   68.376 D Download succeeded: "https://resources.download.minecraft.net/58/580e9bb670b8a684f32ae25ef2e9e3c4281e36a9"
+   68.379 D Task "Net::Download(0x5adfcbdbb5c0)" starting for the first time
+   68.382 D Downloading  "https://resources.download.minecraft.net/9a/9a9bcfb00e0a416a09abf0b1064baa1fdddd2b3d"
+   68.385 D Task "Net::Download(0x5adfcc09f310)" starting for the first time
+   68.392 D Downloading  "https://resources.download.minecraft.net/bd/bd6bd427d755c0c9df7a342aef28f160aac36fb1"
+   68.396 D Task "Net::Download(0x5adfcbe57380)" starting for the first time
+   68.400 D Downloading  "https://resources.download.minecraft.net/c4/c4177c5fd31775441aba7d25b863fa138aafa191"
+   68.410 D Download succeeded: "https://resources.download.minecraft.net/48/48b434d0ad59f5975a173d23ef60480eb08fa6fb"
+   68.413 D Task "Net::Download(0x5adfcbf90130)" starting for the first time
+   68.415 D Downloading  "https://resources.download.minecraft.net/1c/1c49fe28c9708000e6cc38d4140efd9ad944393f"
+   68.432 D Download succeeded: "https://resources.download.minecraft.net/9a/9a9bcfb00e0a416a09abf0b1064baa1fdddd2b3d"
+   68.443 D Download succeeded: "https://resources.download.minecraft.net/bd/bd6bd427d755c0c9df7a342aef28f160aac36fb1"
+   68.455 D Download succeeded: "https://resources.download.minecraft.net/c4/c4177c5fd31775441aba7d25b863fa138aafa191"
+   68.467 D Download succeeded: "https://resources.download.minecraft.net/0a/0a34f2dfbba42968c98bdad1926ec2f4a0226944"
+   68.470 D Task "Net::Download(0x5adfcbeef220)" starting for the first time
+   68.473 D Downloading  "https://resources.download.minecraft.net/b6/b6077580d5acce058bfb8127b83a2e7d7a45253e"
+   68.475 D Task "Net::Download(0x5adfcc024380)" starting for the first time
+   68.479 D Downloading  "https://resources.download.minecraft.net/a1/a120746451672bfebaf36c8dcf8844c13138fa80"
+   68.482 D Task "Net::Download(0x5adfcbf33d00)" starting for the first time
+   68.486 D Downloading  "https://resources.download.minecraft.net/57/57eeddaae9d56b728be998abe56c43222620518c"
+   68.489 D Task "Net::Download(0x5adfcc631220)" starting for the first time
+   68.493 D Downloading  "https://resources.download.minecraft.net/41/41488c54c1481440d911510405e7353717e06d5d"
+   68.496 D Task "Net::Download(0x5adfcc633b90)" starting for the first time
+   68.500 D Downloading  "https://resources.download.minecraft.net/d5/d59466f80baac2b72fc3176709fdf3f370ecf71c"
+   68.511 D Download succeeded: "https://resources.download.minecraft.net/b6/b6077580d5acce058bfb8127b83a2e7d7a45253e"
+   68.523 D Download succeeded: "https://resources.download.minecraft.net/57/57eeddaae9d56b728be998abe56c43222620518c"
+   68.534 D Download succeeded: "https://resources.download.minecraft.net/a1/a120746451672bfebaf36c8dcf8844c13138fa80"
+   68.545 D Download succeeded: "https://resources.download.minecraft.net/41/41488c54c1481440d911510405e7353717e06d5d"
+   68.548 D Task "Net::Download(0x5adfcc60ff80)" starting for the first time
+   68.550 D Downloading  "https://resources.download.minecraft.net/3b/3b706e6a8836326e165cbb24feed4dfde3bf5656"
+   68.568 D Download succeeded: "https://resources.download.minecraft.net/d5/d59466f80baac2b72fc3176709fdf3f370ecf71c"
+   68.580 D Download succeeded: "https://resources.download.minecraft.net/1c/1c49fe28c9708000e6cc38d4140efd9ad944393f"
+   68.586 D Task "Net::Download(0x5adfcc667ed0)" starting for the first time
+   68.589 D Downloading  "https://resources.download.minecraft.net/c3/c3ccd01c24a20096ac82f97e563f0192e3c58917"
+   68.593 D Task "Net::Download(0x5adfcbfcd720)" starting for the first time
+   68.596 D Downloading  "https://resources.download.minecraft.net/08/089c6bbbbbc25235352d41b844cf7bb7b7136f71"
+   68.600 D Task "Net::Download(0x5adfcbde9ed0)" starting for the first time
+   68.603 D Downloading  "https://resources.download.minecraft.net/39/3901af42f72bbf980a1c7b05bc9a0022d6620c8f"
+   68.607 D Task "Net::Download(0x5adfcbe189d0)" starting for the first time
+   68.610 D Downloading  "https://resources.download.minecraft.net/0f/0fefe0a800702935cef8ff888cb2d711f0220628"
+   68.613 D Task "Net::Download(0x5adfcbf051f0)" starting for the first time
+   68.618 D Downloading  "https://resources.download.minecraft.net/c8/c806bde5aa9dd27c81832f82c7a27a208f5b0a04"
+   68.635 D Download succeeded: "https://resources.download.minecraft.net/3b/3b706e6a8836326e165cbb24feed4dfde3bf5656"
+   68.647 D Download succeeded: "https://resources.download.minecraft.net/08/089c6bbbbbc25235352d41b844cf7bb7b7136f71"
+   68.659 D Download succeeded: "https://resources.download.minecraft.net/39/3901af42f72bbf980a1c7b05bc9a0022d6620c8f"
+   68.671 D Download succeeded: "https://resources.download.minecraft.net/0f/0fefe0a800702935cef8ff888cb2d711f0220628"
+   68.683 D Download succeeded: "https://resources.download.minecraft.net/c8/c806bde5aa9dd27c81832f82c7a27a208f5b0a04"
+   68.686 D Task "Net::Download(0x5adfcc079f30)" starting for the first time
+   68.688 D Downloading  "https://resources.download.minecraft.net/59/5935a6c4874744a39f96527e5eca40ac94fb0b74"
+   68.706 D Download succeeded: "https://resources.download.minecraft.net/c3/c3ccd01c24a20096ac82f97e563f0192e3c58917"
+   68.709 D Task "Net::Download(0x5adfcbdab900)" starting for the first time
+   68.711 D Downloading  "https://resources.download.minecraft.net/99/99a74f5734610b1ebe18a0e3589fc22a6e4dc307"
+   68.714 D Task "Net::Download(0x5adfcc05bdf0)" starting for the first time
+   68.717 D Downloading  "https://resources.download.minecraft.net/e0/e0391aeb167a8be978b25b5f415a5d655c40153b"
+   68.721 D Task "Net::Download(0x5adfcc05c0a0)" starting for the first time
+   68.723 D Downloading  "https://resources.download.minecraft.net/a1/a1a7b885db05e48a2f452de75d1cca4c8703f637"
+   68.728 D Task "Net::Download(0x5adfcc010830)" starting for the first time
+   68.731 D Downloading  "https://resources.download.minecraft.net/da/dab140dbe86d882c6b370df754309447ab3f16a7"
+   68.733 D Task "Net::Download(0x5adfcc010ae0)" starting for the first time
+   68.738 D Downloading  "https://resources.download.minecraft.net/69/69a546fd8202436096224a45b044b33e321c3bd5"
+   68.750 D Download succeeded: "https://resources.download.minecraft.net/99/99a74f5734610b1ebe18a0e3589fc22a6e4dc307"
+   68.762 D Download succeeded: "https://resources.download.minecraft.net/a1/a1a7b885db05e48a2f452de75d1cca4c8703f637"
+   68.773 D Download succeeded: "https://resources.download.minecraft.net/e0/e0391aeb167a8be978b25b5f415a5d655c40153b"
+   68.784 D Download succeeded: "https://resources.download.minecraft.net/da/dab140dbe86d882c6b370df754309447ab3f16a7"
+   68.788 D Task "Net::Download(0x5adfcc063f50)" starting for the first time
+   68.792 D Downloading  "https://resources.download.minecraft.net/e2/e218e23e5181d2f0539469d483cad553db5d1b60"
+   68.807 D Download succeeded: "https://resources.download.minecraft.net/59/5935a6c4874744a39f96527e5eca40ac94fb0b74"
+   68.818 D Download succeeded: "https://resources.download.minecraft.net/69/69a546fd8202436096224a45b044b33e321c3bd5"
+   68.820 D Task "Net::Download(0x5adfcc064200)" starting for the first time
+   68.824 D Downloading  "https://resources.download.minecraft.net/2f/2f19ae244c92e4ed7fa8c205c0341f1f3a4cc67e"
+   68.829 D Task "Net::Download(0x5adfcc033060)" starting for the first time
+   68.832 D Downloading  "https://resources.download.minecraft.net/35/35c280803fdd75a413b84070bf4fa9d0e65b7d43"
+   68.842 D Task "Net::Download(0x5adfcc033310)" starting for the first time
+   68.847 D Downloading  "https://resources.download.minecraft.net/0c/0cce5dacf1a8f44502b8e22cff699e6903deb13c"
+   68.851 D Task "Net::Download(0x5adfcbdfe3b0)" starting for the first time
+   68.857 D Downloading  "https://resources.download.minecraft.net/da/daeb5ce102282ed1b537b15ffb98ac25bd5602da"
+   68.870 D Task "Net::Download(0x5adfcbdb8b40)" starting for the first time
+   68.881 D Downloading  "https://resources.download.minecraft.net/bd/bd01dff39a7bd1e0e7f6847f7aee981f157e4f94"
+   68.897 D Download succeeded: "https://resources.download.minecraft.net/2f/2f19ae244c92e4ed7fa8c205c0341f1f3a4cc67e"
+   68.908 D Download succeeded: "https://resources.download.minecraft.net/e2/e218e23e5181d2f0539469d483cad553db5d1b60"
+   68.919 D Download succeeded: "https://resources.download.minecraft.net/0c/0cce5dacf1a8f44502b8e22cff699e6903deb13c"
+   68.931 D Download succeeded: "https://resources.download.minecraft.net/da/daeb5ce102282ed1b537b15ffb98ac25bd5602da"
+   68.934 D Task "Net::Download(0x5adfcc0b1830)" starting for the first time
+   68.937 D Downloading  "https://resources.download.minecraft.net/50/506f2fdb1b7530df66134aa04c71e66513df0c93"
+   68.942 D Task "Net::Download(0x5adfcbe3d320)" starting for the first time
+   68.948 D Downloading  "https://resources.download.minecraft.net/98/984a7d9501fd7d679c1c91af756ca8633beb09b6"
+   68.965 D Download succeeded: "https://resources.download.minecraft.net/bd/bd01dff39a7bd1e0e7f6847f7aee981f157e4f94"
+   68.970 D Task "Net::Download(0x5adfcbd98890)" starting for the first time
+   68.972 D Downloading  "https://resources.download.minecraft.net/11/11e7261085b99ec9c850a59ed95b6bfbb576c8cc"
+   68.988 D Download succeeded: "https://resources.download.minecraft.net/35/35c280803fdd75a413b84070bf4fa9d0e65b7d43"
+   68.990 D Task "Net::Download(0x5adfcbe2bac0)" starting for the first time
+   68.993 D Downloading  "https://resources.download.minecraft.net/87/87a04c89609bad3c46e45420eba4ffddac4be836"
+   69.010 D Download succeeded: "https://resources.download.minecraft.net/98/984a7d9501fd7d679c1c91af756ca8633beb09b6"
+   69.023 D Task "Net::Download(0x5adfcc070cc0)" starting for the first time
+   69.028 D Downloading  "https://resources.download.minecraft.net/cf/cf5c286cb670d4c0ea5fc03728252fe4003b3fbb"
+   69.032 D Task "Net::Download(0x5adfcbe3ba90)" starting for the first time
+   69.036 D Downloading  "https://resources.download.minecraft.net/82/8294df934ee4a6373d973cdb5257df793641ba34"
+   69.039 D Task "Net::Download(0x5adfcbde92b0)" starting for the first time
+   69.043 D Downloading  "https://resources.download.minecraft.net/60/60a0380dca096ae055fc1d7d88eebfc33ae94d7b"
+   69.069 D Download succeeded: "https://resources.download.minecraft.net/11/11e7261085b99ec9c850a59ed95b6bfbb576c8cc"
+   69.080 D Download succeeded: "https://resources.download.minecraft.net/50/506f2fdb1b7530df66134aa04c71e66513df0c93"
+   69.106 D Download succeeded: "https://resources.download.minecraft.net/87/87a04c89609bad3c46e45420eba4ffddac4be836"
+   69.114 D Task "Net::Download(0x5adfcbfcc4e0)" starting for the first time
+   69.118 D Downloading  "https://resources.download.minecraft.net/7d/7d5d238627d3e4171979be59f8c73e8aad5479ae"
+   69.154 D Download succeeded: "https://resources.download.minecraft.net/cf/cf5c286cb670d4c0ea5fc03728252fe4003b3fbb"
+   69.158 D Task "Net::Download(0x5adfcbf3a900)" starting for the first time
+   69.163 D Downloading  "https://resources.download.minecraft.net/9d/9dd32387135eefa7ab95996d52a5ca4cec8a3b30"
+   69.189 D Download succeeded: "https://resources.download.minecraft.net/82/8294df934ee4a6373d973cdb5257df793641ba34"
+   69.195 D Task "Net::Download(0x5adfcbf3cd70)" starting for the first time
+   69.198 D Downloading  "https://resources.download.minecraft.net/55/55e97715db3a2dff3ef6593672ee01137583604f"
+   69.200 D Task "Net::Download(0x5adfcbfde300)" starting for the first time
+   69.204 D Downloading  "https://resources.download.minecraft.net/a1/a1260ad0107b49e9ea070a1ed87934b50d6caefd"
+   69.211 D Download succeeded: "https://resources.download.minecraft.net/9d/9dd32387135eefa7ab95996d52a5ca4cec8a3b30"
+   69.214 D Task "Net::Download(0x5adfcc0881e0)" starting for the first time
+   69.217 D Downloading  "https://resources.download.minecraft.net/45/4574e4b3a592117b019e05088947ee26bc55e697"
+   69.234 D Download succeeded: "https://resources.download.minecraft.net/7d/7d5d238627d3e4171979be59f8c73e8aad5479ae"
+   69.237 D Task "Net::Download(0x5adfcbfc35a0)" starting for the first time
+   69.240 D Downloading  "https://resources.download.minecraft.net/fd/fdf18a3512fd1d2ce62b19865d4312fcc343cd36"
+   69.257 D Download succeeded: "https://resources.download.minecraft.net/a1/a1260ad0107b49e9ea070a1ed87934b50d6caefd"
+   69.268 D Download succeeded: "https://resources.download.minecraft.net/55/55e97715db3a2dff3ef6593672ee01137583604f"
+   69.272 D Task "Net::Download(0x5adfcc0838c0)" starting for the first time
+   69.480 D Downloading  "https://resources.download.minecraft.net/1d/1d8eb3f824e8e17c0834a17cf39b9e55b8479c2e"
+   70.444 D Task "Net::Download(0x5adfcc0af600)" starting for the first time
+   71.765 D Downloading  "https://resources.download.minecraft.net/2d/2d888ac14e51d7cab64b5e735456d25bf000720e"
+   72.477 D Task "Net::Download(0x5adfcbfe30d0)" starting for the first time
+   72.503 D Downloading  "https://resources.download.minecraft.net/de/deba0627f49ca561aaec8b61057dac00deb83fe2"
+   72.605 D Download succeeded: "https://resources.download.minecraft.net/60/60a0380dca096ae055fc1d7d88eebfc33ae94d7b"
+   72.799 D Download succeeded: "https://resources.download.minecraft.net/45/4574e4b3a592117b019e05088947ee26bc55e697"
+   72.893 D Download succeeded: "https://resources.download.minecraft.net/fd/fdf18a3512fd1d2ce62b19865d4312fcc343cd36"
+   72.916 D [HttpMetaCache] Saving metacache with 20 entries
+   72.985 D Download succeeded: "https://resources.download.minecraft.net/1d/1d8eb3f824e8e17c0834a17cf39b9e55b8479c2e"
+   73.124 D Download succeeded: "https://resources.download.minecraft.net/de/deba0627f49ca561aaec8b61057dac00deb83fe2"
+   73.172 D Download succeeded: "https://resources.download.minecraft.net/2d/2d888ac14e51d7cab64b5e735456d25bf000720e"
+   73.181 D Task "Net::Download(0x5adfcc00c490)" starting for the first time
+   73.191 D Downloading  "https://resources.download.minecraft.net/4a/4a101c336082c530e93945b0e31ac818cfbf78a0"
+   73.199 D Task "Net::Download(0x5adfcc073590)" starting for the first time
+   73.220 D Downloading  "https://resources.download.minecraft.net/52/529e4602466f3752d66bf34eb8e5b92f7d602ccc"
+   73.228 D Task "Net::Download(0x5adfcbff3c00)" starting for the first time
+   73.234 D Downloading  "https://resources.download.minecraft.net/15/15c8e87c9ace8c279dffaf86d05dda43dd51d933"
+   73.248 D Task "Net::Download(0x5adfcbfdee20)" starting for the first time
+   73.251 D Downloading  "https://resources.download.minecraft.net/01/01564e4a93458fdc78544743528f31bd0ee1335e"
+   73.257 D Task "Net::Download(0x5adfcbfbafc0)" starting for the first time
+   73.259 D Downloading  "https://resources.download.minecraft.net/44/44f46567ae7329a71a2e9bfa8702662ba9e8be38"
+   73.263 D Task "Net::Download(0x5adfcbf34f30)" starting for the first time
+   73.266 D Downloading  "https://resources.download.minecraft.net/ee/eed3b961158ebeae781e6c737ee55a1f5e8f6c9d"
+   73.383 D Download succeeded: "https://resources.download.minecraft.net/52/529e4602466f3752d66bf34eb8e5b92f7d602ccc"
+   73.648 D Download succeeded: "https://resources.download.minecraft.net/4a/4a101c336082c530e93945b0e31ac818cfbf78a0"
+   73.672 D Download succeeded: "https://resources.download.minecraft.net/ee/eed3b961158ebeae781e6c737ee55a1f5e8f6c9d"
+   73.720 D Download succeeded: "https://resources.download.minecraft.net/01/01564e4a93458fdc78544743528f31bd0ee1335e"
+   73.770 D Download succeeded: "https://resources.download.minecraft.net/44/44f46567ae7329a71a2e9bfa8702662ba9e8be38"
+   73.830 D Download succeeded: "https://resources.download.minecraft.net/15/15c8e87c9ace8c279dffaf86d05dda43dd51d933"
+   73.834 D Task "Net::Download(0x5adfcbf35b50)" starting for the first time
+   74.049 D Downloading  "https://resources.download.minecraft.net/c0/c05cbd8c88b5878703898150e157af88a29d8091"
+   74.056 D Task "Net::Download(0x5adfcbf1b960)" starting for the first time
+   74.060 D Downloading  "https://resources.download.minecraft.net/09/09fc4bb8b59416d1bd941aa1f3cda0e58d8b1e38"
+   74.072 D Task "Net::Download(0x5adfcc00b970)" starting for the first time
+   74.074 D Downloading  "https://resources.download.minecraft.net/a4/a449a2395b194c67b17ce2cba15b1e2958130f11"
+   74.078 D Task "Net::Download(0x5adfcbfbe020)" starting for the first time
+   74.081 D Downloading  "https://resources.download.minecraft.net/c1/c106e5ef000809049ce7d56e858898255cff9223"
+   74.189 D Download succeeded: "https://resources.download.minecraft.net/09/09fc4bb8b59416d1bd941aa1f3cda0e58d8b1e38"
+   74.251 D Download succeeded: "https://resources.download.minecraft.net/c0/c05cbd8c88b5878703898150e157af88a29d8091"
+   74.287 D Download succeeded: "https://resources.download.minecraft.net/a4/a449a2395b194c67b17ce2cba15b1e2958130f11"
+   74.373 D Download succeeded: "https://resources.download.minecraft.net/c1/c106e5ef000809049ce7d56e858898255cff9223"
+   74.376 D Task "NetJob(Ressources de 19)" succeeded
+   74.378 D Task "AssetUpdateTask(0x5adfcc01c2f0)" succeeded
+   74.380 D Task "MinecraftUpdate(0x5adfcbe854f0)" succeeded
+   74.384 D Task "Update(0x5adfcbe553c0)" succeeded
+   74.391 D Task "ModMinecraftJar(0x5adfcbf11410)" starting for the first time
+   74.394 D Task "ModMinecraftJar(0x5adfcbf11410)" succeeded
+   74.398 D Task "ScanModFolders(0x5adfcbe58920)" starting for the first time
+   74.403 D Task "ScanModFolders(0x5adfcbe58920)" succeeded
+   74.405 D Task "PrintInstanceInfo(0x7f857c052f40)" starting for the first time
+   74.786 D Task "PrintInstanceInfo(0x7f857c052f40)" succeeded
+   74.786 D Task "ExtractNatives(0x5adfcbf25630)" starting for the first time
+   74.791 D Task "ExtractNatives(0x5adfcbf25630)" succeeded
+   74.795 D Task "ReconstructAssets(0x5adfcbc828a0)" starting for the first time
+   74.798 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+   74.835 D Task "ReconstructAssets(0x5adfcbc828a0)" succeeded
+   74.839 D Task "VerifyJavaInstall(0x5adfcbffbd10)" starting for the first time
+   74.844 D Task "VerifyJavaInstall(0x5adfcbffbd10)" succeeded
+   74.849 D Task "LauncherPartLaunch(0x5adfcc0f8da0)" starting for the first time
+   74.871 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   74.874 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   74.879 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
+  110.704 D Task "LauncherPartLaunch(0x5adfcc0f8da0)" succeeded
+  110.705 D Writing account list to "accounts.json"
+  110.708 D Building JSON data structure.
+  110.711 D Building account array.
+  110.714 D Writing account list to file.
+  110.731 D Saved account list to "accounts.json"
+  110.735 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+  110.777 D Task "LaunchTask(0x5adfcbfc8430)" succeeded
+  110.781 D Task "LaunchController(0x5adfcc686220)" succeeded
+  446.553 D Task "LaunchController(0x7f857c1e8d50)" starting for the first time
+  448.415 D Task "LaunchTask(0x5adfcbfa8e40)" starting for the first time
+  449.368 D Task "TextPrint(0x5adfcc08f370)" starting for the first time
+  449.391 D Task "TextPrint(0x5adfcc08f370)" succeeded
+  449.608 D Task "TextPrint(0x5adfccbf1cc0)" starting for the first time
+  449.611 D Task "TextPrint(0x5adfccbf1cc0)" succeeded
+  449.618 D Task "TextPrint(0x5adfccc044a0)" starting for the first time
+  449.625 D Task "TextPrint(0x5adfccc044a0)" succeeded
+  449.633 D Task "TextPrint(0x5adfcbdea900)" starting for the first time
+  449.643 D Task "TextPrint(0x5adfcbdea900)" succeeded
+  449.647 D Task "CheckJava(0x5adfcbea2750)" starting for the first time
+  449.653 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+  449.658 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+  449.663 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+  449.731 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+  449.731 W STDERR ""
+  449.750 D Java checker finished with status  QProcess::NormalExit  exit code  0
+  449.755 D Java checker succeeded.
+  449.819 C "Error changing setting JavaVendor. Setting doesn't exist."
+  449.831 D Task "CheckJava(0x5adfcbea2750)" succeeded
+  449.837 D Task "CreateGameFolders(0x5adfcbcbb7f0)" starting for the first time
+  449.845 D Task "CreateGameFolders(0x5adfcbcbb7f0)" succeeded
+  449.851 D Task "ClaimAccount(0x5adfccbe3b90)" starting for the first time
+  449.855 D Writing account list to "accounts.json"
+  449.859 D Building JSON data structure.
+  449.863 D Building account array.
+  449.871 D Writing account list to file.
+  449.887 D Saved account list to "accounts.json"
+  449.894 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+  449.899 D Task "ClaimAccount(0x5adfccbe3b90)" succeeded
+  449.904 D Task "Update(0x5adfccc23ac0)" starting for the first time
+  449.910 D Task "MinecraftUpdate(0x5adfcbe82da0)" starting for the first time
+  449.917 D Task "ComponentUpdateTask(0x5adfcbf8f790)" starting for the first time
+  449.924 D Loading components
+  449.930 D Index is already loaded
+  449.935 D Component list save is scheduled for "1.21.4"
+  449.943 D Resolving dependencies
+  449.947 D "Req: org.lwjgl3" Is met.
+  449.951 D Task "ComponentUpdateTask(0x5adfcbf8f790)" succeeded
+  449.955 D Component list update/resolve task succeeded for "1.21.4"
+  449.962 D Task "FoldersTask(0x5adfcc05c250)" starting for the first time
+  449.968 D Task "FoldersTask(0x5adfcc05c250)" succeeded
+  449.973 D Task "LibrariesTask(0x5adfcbe887b0)" starting for the first time
+  449.977 D "1.21.4" : downloading libraries
+  449.983 D Applying "org.lwjgl3" GOOD
+  449.987 D Applying "net.minecraft" GOOD
+  449.997 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+  450.011 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+  450.014 D Task "LibrariesTask(0x5adfcbe887b0)" succeeded
+  450.017 D Task "FMLLibrariesTask(0x5adfcbfc8710)" starting for the first time
+  450.020 D Task "FMLLibrariesTask(0x5adfcbfc8710)" succeeded
+  450.023 D Task "AssetUpdateTask(0x5adfcc62d010)" starting for the first time
+  450.026 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+  450.029 D "1.21.4" : Starting asset index download
+  450.033 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+  450.039 D Task "Net::Download(0x5adfcbf80f20)" starting for the first time
+  450.041 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+  450.108 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+  450.114 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+  450.117 D "1.21.4" : Finished asset index download
+  450.169 D Task "AssetUpdateTask(0x5adfcc62d010)" succeeded
+  450.174 D Task "MinecraftUpdate(0x5adfcbe82da0)" succeeded
+  450.179 D Task "Update(0x5adfccc23ac0)" succeeded
+  450.183 D Task "ModMinecraftJar(0x5adfcbc85030)" starting for the first time
+  450.186 D Task "ModMinecraftJar(0x5adfcbc85030)" succeeded
+  450.191 D Task "ScanModFolders(0x5adfcbde5110)" starting for the first time
+  450.196 D Task "ScanModFolders(0x5adfcbde5110)" succeeded
+  450.200 D Task "PrintInstanceInfo(0x5adfcbf4ad00)" starting for the first time
+  450.540 D Task "PrintInstanceInfo(0x5adfcbf4ad00)" succeeded
+  450.540 D Task "ExtractNatives(0x5adfcbf29340)" starting for the first time
+  450.542 D Task "ExtractNatives(0x5adfcbf29340)" succeeded
+  450.544 D Task "ReconstructAssets(0x5adfcbf4d440)" starting for the first time
+  450.548 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+  450.584 D Task "ReconstructAssets(0x5adfcbf4d440)" succeeded
+  450.587 D Task "VerifyJavaInstall(0x5adfcc004fb0)" starting for the first time
+  450.589 D Task "VerifyJavaInstall(0x5adfcc004fb0)" succeeded
+  450.592 D Task "LauncherPartLaunch(0x5adfcc5c9140)" starting for the first time
+  450.612 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+  450.615 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+  450.618 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/media/o22204986/90D023F9D023E466/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
+  455.193 D Component list save performed now for "1.21.4"
+  480.269 D [HttpMetaCache] Saving metacache with 20 entries
+  649.072 D Task "LauncherPartLaunch(0x5adfcc5c9140)" succeeded
+  649.073 D Writing account list to "accounts.json"
+  649.076 D Building JSON data structure.
+  649.080 D Building account array.
+  649.082 D Writing account list to file.
+  649.116 D Saved account list to "accounts.json"
+  649.121 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+  649.173 D Task "LaunchTask(0x5adfcbfa8e40)" succeeded
+  649.175 D Task "LaunchController(0x7f857c1e8d50)" succeeded

@@ -1,0 +1,21 @@
+{
+    "colors": {
+        "AlternateBase": "#2a2a2a",
+        "Base": "#222222",
+        "BrightText": "#ff0000",
+        "Button": "#303030",
+        "ButtonText": "#ffffff",
+        "Highlight": "#91cd5c",
+        "HighlightedText": "#000000",
+        "Link": "#2fa3c6",
+        "Text": "#ffffff",
+        "ToolTipBase": "#ffffff",
+        "ToolTipText": "#ffffff",
+        "Window": "#313131",
+        "WindowText": "#ffffff",
+        "fadeAmount": 0.5,
+        "fadeColor": "#313131"
+    },
+    "name": "Custom",
+    "widgets": "Fusion"
+}
