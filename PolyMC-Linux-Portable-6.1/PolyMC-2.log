@@ -1,517 +1,363 @@
-    0.002 D <> Log initialized.
-    0.002 D "PolyMC" , (c) 2013-2021  "PolyMC Contributors\n© 2012-2021 MultiMC Contributors"
-    0.002 D Version                    :  "6.1"
-    0.002 D Git commit                 :  "52734e7bac07d287808cbc467c50152a0c2515dd"
-    0.002 D Git refspec                :  ""
-    0.002 D Work dir before adjustment :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
-    0.002 D Work dir after adjustment  :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1"
-    0.002 D Adjusted by                :  "Portable data path"
-    0.002 D Binary path                :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
-    0.002 D Application root path      :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1"
-    0.002 D <> Paths set.
-    0.012 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
-    0.015 D <> Settings loaded.
-    0.038 D Detecting proxy settings...
-    0.038 D Using no proxy is an option!
-    0.038 D <> Network done.
-    0.041 D Loading Qt Language File for fr ...
-    0.041 D Loading Application Language File for fr ...
-    0.041 D Your language is "fr"
-    0.041 D <> Translations loaded.
-    0.042 D Started watching  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
-    0.042 D Sorting icon list...
-    0.042 D <> Instance icons intialized.
-    0.043 D <> Icon themes initialized.
-    0.043 D Determining System Theme...
-    0.043 D System theme seems to be: "qt5ct-style"
-    0.043 D Considering theme from theme factory: "cleanlooks"
-    0.043 D Considering theme from theme factory: "gtk2"
-    0.043 D Considering theme from theme factory: "cde"
-    0.043 D Considering theme from theme factory: "motif"
-    0.043 D Considering theme from theme factory: "plastique"
-    0.043 D Considering theme from theme factory: "qt5ct-style"
-    0.043 D System theme has been determined to be: "qt5ct-style"
-    0.043 D Loading theme "custom"
-    0.043 D <> Widget themes initialized.
-    0.043 D Instance path              :  "instances"
-    0.043 D Loading Instances...
-    0.043 D Discovering instances in "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
-    0.043 D Found instance ID "1.21.4"
-    0.043 D Found instance ID "1.8.9"
-    0.043 D Will load group list now.
-    0.043 D Group list loaded.
-    0.044 D Loaded instance  "1.21.4"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
-    0.044 D Loaded instance  "1.8.9"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
-    0.044 D <> Instances loaded.
-    0.044 D Loading accounts...
-    0.044 D AccountList: Queued default account with internal ID  "b14b37b7b3234323990c25898fb266bc"  to refresh first
-    0.044 D Task "MSASilent(0x55cc10570490)" starting for the first time
-    0.044 D AuthFlow: "Connexion avec un compte Microsoft."
-    0.044 D DeviceFlow::refresh: Token: ... "aUFRVI$"
-    0.049 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "b14b37b7b3234323990c25898fb266bc"
-    0.049 D <> Accounts loaded.
-    0.049 D <> Cache initialized.
-    0.049 D Downloading Translations Index...
-    0.050 W Removing cache entry because of old age!
-    0.050 D Task "NetJob(Translations Index)" starting for the first time
-    0.050 D <> Icon theme set.
-    0.050 D <> Application theme set.
-    0.066 D Task "JavaListLoadTask(0x55cc106c9220)" starting for the first time
-    0.066 D Linux Java detection incomplete - defaulting to "java"
-    0.066 D Probing the following Java paths: 
-    0.066 D   "java"
-    0.066 D   "/usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
-    0.066 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-11/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-11/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-17/bin/java"
-    0.066 D   ""
-    0.066 D Task "JavaCheckerJob(0x55cc106cb5a0)" starting for the first time
-    0.066 D "Java detection"  started.
-    0.066 D "Running java checker: java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.067 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.068 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.069 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.069 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.070 D "Running java checker: /usr/lib/jvm/openjdk-11/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.071 D "Running java checker: /usr/lib/jvm/openjdk-11/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.071 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D "Running java checker: -jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D Java checker has failed to start.
-    0.090 D Process environment:
-    0.090 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.090 D Native environment:
-    0.090 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.091 D "Java detection" progress: 1 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D "Java detection" progress: 2 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D "Java detection" progress: 3 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 4 / 10
-    0.155 D Java checker has failed to start.
-    0.155 D Process environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D Native environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 5 / 10
-    0.155 D Java checker has failed to start.
-    0.155 D Process environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D Native environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 6 / 10
-    0.156 D Task "Net::Download(0x55cc106971e0)" starting for the first time
-    0.156 D Downloading  "https://i18n.polymc.org/index_v2.json"
-    0.157 D Java checker has failed to start.
-    0.157 D Process environment:
-    0.157 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.157 D Native environment:
-    0.157 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.157 D "Java detection" progress: 7 / 10
-    0.157 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.158 D Loading Qt Language File for fr ...
-    0.158 D Loading Application Language File for fr ...
-    0.165 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.165 W STDERR ""
-    0.165 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.166 D Java checker succeeded.
-    0.166 D "Java detection" progress: 8 / 10
-    0.166 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.166 W STDERR ""
-    0.166 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.166 D Java checker succeeded.
-    0.166 D "Java detection" progress: 9 / 10
-    0.170 D STDOUT "os.arch=amd64\njava.version=11.0.25\njava.vendor=Ubuntu\n"
-    0.170 W STDERR ""
-    0.170 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.170 D Java checker succeeded.
-    0.170 D "Java detection" progress: 10 / 10
-    0.170 D Task "JavaCheckerJob(0x55cc106cb5a0)" succeeded
-    0.170 D Found the following valid Java installations:
-    0.171 D   "17.0.13" "amd64" "java"
-    0.171 D   "11.0.25" "amd64" "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
-    0.171 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    0.171 D Task "JavaListLoadTask(0x55cc106c9220)" succeeded
-    0.172 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.394 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.394 W STDERR ""
-    0.394 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.394 D Java checker succeeded.
-    0.455 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
-    0.455 D Task "NetJob(Translations Index)" succeeded
-    0.456 D Got translations index!
-    0.458 W Removing cache entry because of old age!
-    0.458 D Task "NetJob(Translation for fr)" starting for the first time
-    0.458 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.461 D Loading Qt Language File for fr ...
-    0.461 D Loading Application Language File for fr ...
-    0.461 D Task "Net::Download(0x55cc1057ee80)" starting for the first time
-    0.462 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    0.496 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.497 D Loading Qt Language File for fr ...
-    0.498 D Loading Application Language File for fr ...
-    0.546 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    0.546 D Task "NetJob(Translation for fr)" succeeded
-    0.546 D Got translation: "fr"
-    0.547 D Loading Qt Language File for fr ...
-    0.547 D Loading Application Language File for fr ...
-    0.573 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.574 D Loading Qt Language File for fr ...
-    0.574 D Loading Application Language File for fr ...
-    0.738 D DeviceFlow::setLinked: true
-    0.739 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
-    0.739 D First layer of XBox auth ... commencing.
-    0.739 D New token expires in QDateTime(2025-01-14 21:16:44.523 UTC Qt::UTC) seconds
-    1.769 D Parsing "UToken" :
-    1.770 D "UToken" is valid.
-    1.770 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
-    1.770 D Getting authorization token for  "http://xboxlive.com"
-    2.478 D Parsing "Xbox" :
-    2.479 D "Xbox" is valid.
-    2.479 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
-    2.479 D Getting authorization token for  "rp://api.minecraftservices.com/"
-    2.686 D Parsing "Mojang" :
-    2.686 D "Mojang" is valid.
-    2.686 D AuthFlow: "Accès aux services de Mojang."
-    2.687 D Getting Minecraft access token...
-    3.610 D Parsing Mojang response...
-    3.611 D Mojang response is valid.
-    3.611 D AuthFlow: "Récupération du profil Xbox."
-    3.612 D Getting Xbox profile...
-    4.633 D AuthFlow: "Détermination de la propriété du jeu."
-    4.634 D Getting entitlements...
-    5.141 D Parsing Minecraft entitlements...
-    5.141 D AuthFlow: "Récupération du profil Minecraft."
-    5.475 D Parsing Minecraft profile...
-    5.476 D AuthFlow: "Récupération du skin."
-    5.559 D Task "MSASilent(0x55cc10570490)" succeeded
-    5.559 D Writing account list to "accounts.json"
-    5.560 D Building JSON data structure.
-    5.560 D Building account array.
-    5.560 D Writing account list to file.
-    5.571 D Saved account list to "accounts.json"
-    5.571 D RefreshSchedule: Background account refresh succeeded
-    9.092 D Wizard result = 1
-    9.104 D Reloading news.
-    9.104 D Task "NetJob(News RSS Feed)" starting for the first time
-    9.106 D Task "ComponentUpdateTask(0x55cc1095bcd0)" starting for the first time
-    9.106 D Loading components
-    9.114 D Component list save is scheduled for "1.21.4"
-    9.120 D Resolving dependencies
-    9.120 D "Req: org.lwjgl3" Is met.
-    9.120 D Task "ComponentUpdateTask(0x55cc1095bcd0)" succeeded
-    9.120 D Component list update/resolve task succeeded for "1.21.4"
-    9.128 D <> Main window shown.
-    9.134 D Task "Net::Download(0x55cc10934a30)" starting for the first time
-    9.135 D Downloading  "https://polymc.org/feed/feed.xml"
-    9.385 D Download succeeded: "https://polymc.org/feed/feed.xml"
-    9.385 D Task "NetJob(News RSS Feed)" succeeded
-    9.385 D Finished loading RSS feed.
-    9.392 D Loaded news entry "PolyMC 6.1, now available"
-    9.393 D Loaded news entry "PolyMC 6.0, now available"
-    9.393 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
-    9.393 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
-    9.393 D Loaded news entry "Major Bugfix 1.4.3, now available"
-    9.393 D Loaded news entry "What happened, and the next step."
-    9.393 D Loaded news entry "PolyMC Update 1.4.2, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.4.1, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.4.0, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.3.2, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.3.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.3.0, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-    9.394 D Loaded news entry "PolyMC Update 1.2.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.2.0, now available"
-    9.394 D Loaded news entry "Rewrite in electron (April Fools 2022)"
-    9.394 D Loaded news entry "PolyMC Update 1.1.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.1.0, now available"
-    9.394 D Loaded news entry "Moving on"
-    9.394 D Loaded news entry "Modrinth support and Mod downloading"
-    9.394 D Loaded news entry "New maintainers and step down."
-    9.394 D News loading succeeded.
-   11.332 D Task "LaunchController(0x7fe610177f90)" starting for the first time
-   11.344 D Instance-type specific settings were loaded!
-   11.584 D Task "LaunchTask(0x55cc10a27050)" starting for the first time
-   11.584 D Task "TextPrint(0x55cc10b49d50)" starting for the first time
-   11.586 D Task "TextPrint(0x55cc10b49d50)" succeeded
-   11.587 D Task "TextPrint(0x55cc10b47e80)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10b47e80)" succeeded
-   11.587 D Task "TextPrint(0x55cc10b47f30)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10b47f30)" succeeded
-   11.587 D Task "TextPrint(0x55cc10a26f10)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10a26f10)" succeeded
-   11.587 D Task "CheckJava(0x55cc109867f0)" starting for the first time
-   11.588 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-   11.655 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-   11.655 W STDERR ""
-   11.655 D Java checker finished with status  QProcess::NormalExit  exit code  0
-   11.656 D Java checker succeeded.
-   11.658 C "Error changing setting JavaVendor. Setting doesn't exist."
-   11.659 D Task "CheckJava(0x55cc109867f0)" succeeded
-   11.659 D Task "CreateGameFolders(0x55cc10a28440)" starting for the first time
-   11.659 D Task "CreateGameFolders(0x55cc10a28440)" succeeded
-   11.659 D Task "ClaimAccount(0x55cc109cda80)" starting for the first time
-   11.659 D Writing account list to "accounts.json"
-   11.659 D Building JSON data structure.
-   11.659 D Building account array.
-   11.659 D Writing account list to file.
-   11.660 D Saved account list to "accounts.json"
-   11.660 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
-   11.660 D Task "ClaimAccount(0x55cc109cda80)" succeeded
-   11.660 D Task "Update(0x55cc10a28870)" starting for the first time
-   11.661 D Task "MinecraftUpdate(0x55cc109c48e0)" starting for the first time
-   11.661 D Component list save performed now for "1.21.4"
-   11.662 D Task "ComponentUpdateTask(0x55cc10a4e0c0)" starting for the first time
-   11.662 D Loading components
-   11.662 D Index is already loaded
-   11.662 D Component list save is scheduled for "1.21.4"
-   11.662 D Resolving dependencies
-   11.662 D "Req: org.lwjgl3" Is met.
-   11.662 D Task "ComponentUpdateTask(0x55cc10a4e0c0)" succeeded
-   11.662 D Component list update/resolve task succeeded for "1.21.4"
-   11.662 D Task "FoldersTask(0x55cc10a4dc30)" starting for the first time
-   11.662 D Task "FoldersTask(0x55cc10a4dc30)" succeeded
-   11.662 D Task "LibrariesTask(0x55cc10a4e5f0)" starting for the first time
-   11.662 D "1.21.4" : downloading libraries
-   11.662 D Applying "org.lwjgl3" GOOD
-   11.662 D Applying "net.minecraft" GOOD
-   11.821 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
-   11.822 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
-   11.822 D Task "LibrariesTask(0x55cc10a4e5f0)" succeeded
-   11.822 D Task "FMLLibrariesTask(0x55cc109ca030)" starting for the first time
-   11.822 D Task "FMLLibrariesTask(0x55cc109ca030)" succeeded
-   11.822 D Task "AssetUpdateTask(0x55cc109c53d0)" starting for the first time
-   11.823 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
-   11.823 D "1.21.4" : Starting asset index download
-   11.823 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
-   11.824 D Task "Net::Download(0x55cc10a4c6c0)" starting for the first time
-   11.824 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   12.192 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   12.211 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
-   12.211 D "1.21.4" : Finished asset index download
-   12.253 D Task "AssetUpdateTask(0x55cc109c53d0)" succeeded
-   12.253 D Task "MinecraftUpdate(0x55cc109c48e0)" succeeded
-   12.253 D Task "Update(0x55cc10a28870)" succeeded
-   12.254 D Task "ModMinecraftJar(0x55cc109cdc80)" starting for the first time
-   12.254 D Task "ModMinecraftJar(0x55cc109cdc80)" succeeded
-   12.254 D Task "ScanModFolders(0x55cc109ce300)" starting for the first time
-   12.256 D Task "ScanModFolders(0x55cc109ce300)" succeeded
-   12.256 D Task "PrintInstanceInfo(0x55cc10555b50)" starting for the first time
-   12.888 D Task "PrintInstanceInfo(0x55cc10555b50)" succeeded
-   12.888 D Task "ExtractNatives(0x55cc10b43bb0)" starting for the first time
-   12.888 D Task "ExtractNatives(0x55cc10b43bb0)" succeeded
-   12.888 D Task "ReconstructAssets(0x55cc10b44230)" starting for the first time
-   12.889 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
-   12.896 D Task "ReconstructAssets(0x55cc10b44230)" succeeded
-   12.897 D Task "VerifyJavaInstall(0x55cc10b448b0)" starting for the first time
-   12.897 C Task "VerifyJavaInstall(0x55cc10b448b0)" failed:  "Incompatible Java major version"
-   12.897 D Writing account list to "accounts.json"
-   12.897 D Building JSON data structure.
-   12.897 D Building account array.
-   12.897 D Writing account list to file.
-   12.898 D Saved account list to "accounts.json"
-   12.899 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
-   12.903 C Task "LaunchTask(0x55cc10a27050)" failed:  "Incompatible Java major version"
-   12.943 D Component list save performed now for "1.21.4"
-   12.943 D Task "ComponentUpdateTask(0x55cc10e333e0)" starting for the first time
-   12.943 D Loading components
-   12.943 D Index is already loaded
-   12.943 D Component list save is scheduled for "1.21.4"
-   12.943 D Resolving dependencies
-   12.943 D "Req: org.lwjgl3" Is met.
-   12.943 D Task "ComponentUpdateTask(0x55cc10e333e0)" succeeded
-   12.944 D Component list update/resolve task succeeded for "1.21.4"
-   12.945 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" starting for the first time
-   12.961 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e63930 name="Installation Java" role=Client obj=QLineEdit(0x55cc10e636a0, name = "javaPathTextBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6e410 name="Arguments Java" role=Client childc=3 obj=QPlainTextEdit(0x55cc10e6ea50, name = "jvmArgsTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e7e3a0 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x55cc10e7d5a0, name = "preLaunchCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e817a0 name="Commande wrapper :" role=Client obj=QLineEdit(0x55cc10e81730, name = "wrapperCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e7fe10 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x55cc10e7e400, name = "postExitCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e8e150 name="Définir un serveur à rejoindre au lancement" role=Client obj=QLineEdit(0x55cc10e8ded0, name = "serverJoinAddress")"focusable|invisible")
-   13.006 D Applying "org.lwjgl3" GOOD
-   13.006 D Applying "net.minecraft" GOOD
-   13.023 C Task "LaunchController(0x7fe610177f90)" failed:  "Incompatible Java major version"
-   13.032 D Task "Net::Download(0x55cc10dc0f60)" starting for the first time
-   13.032 D Downloading  "https://meta.polymc.org/v1/org.lwjgl3/index.json"
-   13.549 D Download succeeded: "https://meta.polymc.org/v1/org.lwjgl3/index.json"
-   13.550 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" succeeded
-   17.693 D Component list save performed now for "1.21.4"
-   43.681 D [HttpMetaCache] Saving metacache with 20 entries
-  246.308 D Task "LaunchController(0x55cc109c7240)" starting for the first time
-  246.722 D Task "LaunchTask(0x55cc10573ae0)" starting for the first time
-  246.725 D Task "TextPrint(0x55cc10958690)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc10958690)" succeeded
-  246.727 D Task "TextPrint(0x55cc110edfd0)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc110edfd0)" succeeded
-  246.727 D Task "TextPrint(0x55cc109c6e00)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc109c6e00)" succeeded
-  246.727 D Task "TextPrint(0x55cc10f85b90)" starting for the first time
-  246.728 D Task "TextPrint(0x55cc10f85b90)" succeeded
-  246.728 D Task "CheckJava(0x55cc10c74800)" starting for the first time
-  246.728 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-  246.792 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-  246.792 W STDERR ""
-  246.792 D Java checker finished with status  QProcess::NormalExit  exit code  0
-  246.792 D Java checker succeeded.
-  246.794 C "Error changing setting JavaVendor. Setting doesn't exist."
-  246.795 D Task "CheckJava(0x55cc10c74800)" succeeded
-  246.795 D Task "CreateGameFolders(0x55cc10d40f70)" starting for the first time
-  246.795 D Task "CreateGameFolders(0x55cc10d40f70)" succeeded
-  246.795 D Task "ClaimAccount(0x55cc10c72d10)" starting for the first time
-  246.795 D Writing account list to "accounts.json"
-  246.795 D Building JSON data structure.
-  246.795 D Building account array.
-  246.795 D Writing account list to file.
-  246.796 D Saved account list to "accounts.json"
-  246.796 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
-  246.796 D Task "ClaimAccount(0x55cc10c72d10)" succeeded
-  246.796 D Task "Update(0x55cc110c9ce0)" starting for the first time
-  246.797 D Task "MinecraftUpdate(0x55cc106cdf00)" starting for the first time
-  246.797 D Task "ComponentUpdateTask(0x55cc10dae5b0)" starting for the first time
-  246.797 D Loading components
-  246.797 D Index is already loaded
-  246.797 D Component list save is scheduled for "1.21.4"
-  246.797 D Resolving dependencies
-  246.797 D "Req: org.lwjgl3" Is met.
-  246.797 D Task "ComponentUpdateTask(0x55cc10dae5b0)" succeeded
-  246.797 D Component list update/resolve task succeeded for "1.21.4"
-  246.797 D Task "FoldersTask(0x55cc110e0fd0)" starting for the first time
-  246.797 D Task "FoldersTask(0x55cc110e0fd0)" succeeded
-  246.797 D Task "LibrariesTask(0x55cc1113c050)" starting for the first time
-  246.797 D "1.21.4" : downloading libraries
-  246.797 D Applying "org.lwjgl3" GOOD
-  246.797 D Applying "net.minecraft" GOOD
-  246.798 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
-  246.801 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
-  246.801 D Task "LibrariesTask(0x55cc1113c050)" succeeded
-  246.801 D Task "FMLLibrariesTask(0x55cc10a266b0)" starting for the first time
-  246.801 D Task "FMLLibrariesTask(0x55cc10a266b0)" succeeded
-  246.801 D Task "AssetUpdateTask(0x55cc10a26f10)" starting for the first time
-  246.801 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
-  246.801 D "1.21.4" : Starting asset index download
-  246.801 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
-  246.802 D Task "Net::Download(0x55cc10c5d910)" starting for the first time
-  246.802 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-  247.036 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-  247.052 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
-  247.052 D "1.21.4" : Finished asset index download
-  247.097 D Task "AssetUpdateTask(0x55cc10a26f10)" succeeded
-  247.097 D Task "MinecraftUpdate(0x55cc106cdf00)" succeeded
-  247.097 D Task "Update(0x55cc110c9ce0)" succeeded
-  247.098 D Task "ModMinecraftJar(0x55cc1113f110)" starting for the first time
-  247.098 D Task "ModMinecraftJar(0x55cc1113f110)" succeeded
-  247.098 D Task "ScanModFolders(0x55cc109c4bb0)" starting for the first time
-  247.100 D Task "ScanModFolders(0x55cc109c4bb0)" succeeded
-  247.100 D Task "PrintInstanceInfo(0x55cc10a85a00)" starting for the first time
-  247.747 D Task "PrintInstanceInfo(0x55cc10a85a00)" succeeded
-  247.747 D Task "ExtractNatives(0x55cc10982650)" starting for the first time
-  247.747 D Task "ExtractNatives(0x55cc10982650)" succeeded
-  247.747 D Task "ReconstructAssets(0x55cc10e33c90)" starting for the first time
-  247.747 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
-  247.755 D Task "ReconstructAssets(0x55cc10e33c90)" succeeded
-  247.756 D Task "VerifyJavaInstall(0x55cc109c6c90)" starting for the first time
-  247.756 C Task "VerifyJavaInstall(0x55cc109c6c90)" failed:  "Incompatible Java major version"
-  247.756 D Writing account list to "accounts.json"
-  247.756 D Building JSON data structure.
-  247.756 D Building account array.
-  247.756 D Writing account list to file.
-  247.766 D Saved account list to "accounts.json"
-  247.767 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
-  247.775 C Task "LaunchTask(0x55cc10573ae0)" failed:  "Incompatible Java major version"
-  247.790 D Component list save performed now for "1.21.4"
-  247.791 D Task "ComponentUpdateTask(0x55cc10dec190)" starting for the first time
-  247.791 D Loading components
-  247.791 D Index is already loaded
-  247.791 D Component list save is scheduled for "1.21.4"
-  247.791 D Resolving dependencies
-  247.791 D "Req: org.lwjgl3" Is met.
-  247.791 D Task "ComponentUpdateTask(0x55cc10dec190)" succeeded
-  247.791 D Component list update/resolve task succeeded for "1.21.4"
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="Mémoire" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="Mémoire" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d782a0 name="Installation Java" role=Client obj=QLineEdit(0x55cc10df08f0, name = "javaPathTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a50f50 name="Arguments Java" role=Client childc=3 obj=QPlainTextEdit(0x55cc10a515d0, name = "jvmArgsTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10ed2ac0 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x55cc10ddcca0, name = "preLaunchCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc108ac2c0 name="Commande wrapper :" role=Client obj=QLineEdit(0x55cc108ac250, name = "wrapperCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc11103380 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x55cc10ed31c0, name = "postExitCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10db64f0 name="Définir un serveur à rejoindre au lancement" role=Client obj=QLineEdit(0x55cc10db62a0, name = "serverJoinAddress")"focusable|invisible")
-  247.838 D Applying "org.lwjgl3" GOOD
-  247.838 D Applying "net.minecraft" GOOD
-  247.848 C Task "LaunchController(0x55cc109c7240)" failed:  "Incompatible Java major version"
-  252.678 D Component list save performed now for "1.21.4"
-  276.679 D [HttpMetaCache] Saving metacache with 20 entries
+    0.505 D <> Log initialized.
+    0.509 D "PolyMC" , (c) 2013-2021  "PolyMC Contributors\n© 2012-2021 MultiMC Contributors"
+    0.512 D Version                    :  "6.1"
+    0.515 D Git commit                 :  "52734e7bac07d287808cbc467c50152a0c2515dd"
+    0.517 D Git refspec                :  ""
+    0.520 D Work dir before adjustment :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
+    0.524 D Work dir after adjustment  :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
+    0.526 D Adjusted by                :  "Portable data path"
+    0.528 D Binary path                :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
+    0.533 D Application root path      :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
+    0.537 D <> Paths set.
+    0.622 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.638 D <> Settings loaded.
+    0.666 D Detecting proxy settings...
+    0.668 D Using no proxy is an option!
+    0.671 D <> Network done.
+    0.919 D Loading Qt Language File for fr ...
+    0.930 D Loading Application Language File for fr ...
+    0.934 D Your language is "fr"
+    0.936 D <> Translations loaded.
+    0.943 D Started watching  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
+    0.947 D Sorting icon list...
+    0.954 D <> Instance icons intialized.
+    0.957 D <> Icon themes initialized.
+    0.964 D Determining System Theme...
+    0.967 D System theme seems to be: "fusion"
+    0.970 D Considering theme from theme factory: "windows"
+    0.973 D Considering theme from theme factory: "fusion"
+    0.974 D System theme has been determined to be: "Fusion"
+    0.977 D Loading theme "custom"
+    0.995 D <> Widget themes initialized.
+    0.999 D Instance path              :  "instances"
+    1.006 D Loading Instances...
+    1.010 D Discovering instances in "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
+    1.017 D Found instance ID "1.21.4"
+    1.024 D Found instance ID "1.8.9"
+    1.030 D Will load group list now.
+    1.037 D Group list loaded.
+    1.044 D Loaded instance  "1.21.4"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
+    1.048 D Loaded instance  "1.8.9"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
+    1.052 D <> Instances loaded.
+    1.054 D Loading accounts...
+    1.062 D AccountList: Queued default account with internal ID  "a2f198eafbd549ef8a77eae9b7e91632"  to refresh first
+    1.064 D Task "MSASilent(0x6163332a7a80)" starting for the first time
+    1.067 D AuthFlow: "Connexion avec un compte Microsoft."
+    1.069 D DeviceFlow::refresh: Token: ... "pMz4AE$"
+    1.087 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "a2f198eafbd549ef8a77eae9b7e91632"
+    1.089 D <> Accounts loaded.
+    1.096 D <> Cache initialized.
+    1.097 D Downloading Translations Index...
+    1.101 D Task "NetJob(Translations Index)" starting for the first time
+    1.104 D <> Icon theme set.
+    1.106 D <> Application theme set.
+    1.147 D Task "JavaListLoadTask(0x61633340adf0)" starting for the first time
+    1.149 D Linux Java detection incomplete - defaulting to "java"
+    1.152 D Probing the following Java paths: 
+    1.154 D   "java"
+    1.156 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
+    1.158 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    1.160 D   "/usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java"
+    1.162 D   "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    1.164 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
+    1.166 D   "/usr/lib/jvm/openjdk-17/bin/java"
+    1.168 D   "/usr/lib/jvm/openjdk-21/jre/bin/java"
+    1.170 D   "/usr/lib/jvm/openjdk-21/bin/java"
+    1.172 D   ""
+    1.174 D Task "JavaCheckerJob(0x61633335d7b0)" starting for the first time
+    1.176 D "Java detection"  started.
+    1.186 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.187 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.190 D "Running java checker: java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.196 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.198 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.200 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.208 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.208 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.212 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.217 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.218 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.221 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.228 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.228 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.230 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.236 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.238 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.241 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.249 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.249 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.251 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.258 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.259 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.261 D "Running java checker: /usr/lib/jvm/openjdk-21/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.281 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.282 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.283 D "Running java checker: /usr/lib/jvm/openjdk-21/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.287 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.288 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.290 D "Running java checker: -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.291 D Java checker has failed to start.
+    1.293 D Process environment:
+    1.295 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.296 D Native environment:
+    1.298 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.301 D "Java detection" progress: 1 / 10
+    1.361 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.361 W STDERR ""
+    1.363 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.364 D Java checker succeeded.
+    1.366 D "Java detection" progress: 2 / 10
+    1.368 D Java checker has failed to start.
+    1.369 D Process environment:
+    1.371 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.372 D Native environment:
+    1.374 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.377 D "Java detection" progress: 3 / 10
+    1.383 D Java checker has failed to start.
+    1.385 D Process environment:
+    1.387 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.390 D Native environment:
+    1.393 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.395 D "Java detection" progress: 4 / 10
+    1.398 D Java checker has failed to start.
+    1.399 D Process environment:
+    1.400 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.403 D Native environment:
+    1.404 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.406 D "Java detection" progress: 5 / 10
+    1.409 D Java checker has failed to start.
+    1.411 D Process environment:
+    1.412 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.414 D Native environment:
+    1.416 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.417 D "Java detection" progress: 6 / 10
+    1.420 D Java checker has failed to start.
+    1.424 D Process environment:
+    1.426 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.429 D Native environment:
+    1.430 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.431 D "Java detection" progress: 7 / 10
+    1.454 D Task "Net::Download(0x61633327c650)" starting for the first time
+    1.460 D Downloading  "https://i18n.polymc.org/index_v2.json"
+    1.463 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
+    1.465 W STDERR ""
+    1.466 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.468 D Java checker succeeded.
+    1.470 D "Java detection" progress: 8 / 10
+    1.472 D Java checker has failed to start.
+    1.473 D Process environment:
+    1.475 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.476 D Native environment:
+    1.478 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.480 D "Java detection" progress: 9 / 10
+    1.482 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.486 D Loading Qt Language File for fr ...
+    1.489 D Loading Application Language File for fr ...
+    1.494 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.495 W STDERR ""
+    1.497 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.499 D Java checker succeeded.
+    1.500 D "Java detection" progress: 10 / 10
+    1.502 D Task "JavaCheckerJob(0x61633335d7b0)" succeeded
+    1.504 D Found the following valid Java installations:
+    1.505 D   "21.0.5" "amd64" "java"
+    1.507 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    1.509 D   "21.0.5" "amd64" "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    1.510 D Task "JavaListLoadTask(0x61633340adf0)" succeeded
+    1.513 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.516 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.518 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.556 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
+    1.556 D Task "NetJob(Translations Index)" succeeded
+    1.558 D Got translations index!
+    1.560 D Task "NetJob(Translation for fr)" starting for the first time
+    1.564 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.571 D Loading Qt Language File for fr ...
+    1.573 D Loading Application Language File for fr ...
+    1.576 D Task "Net::Download(0x616333405080)" starting for the first time
+    1.581 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    1.598 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.603 D Loading Qt Language File for fr ...
+    1.606 D Loading Application Language File for fr ...
+    1.610 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.612 W STDERR ""
+    1.614 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.616 D Java checker succeeded.
+    1.676 C Failed to commit changes to  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations/mmc_fr.qm"
+    1.678 D Download failed to finalize: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    1.680 D Task "Net::Download(0x616333405080)" restarting for after failing at first
+    1.693 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    1.696 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.707 D Loading Qt Language File for fr ...
+    1.750 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    1.753 D Task "NetJob(Translation for fr)" succeeded
+    1.755 D Got translation: "fr"
+    1.758 D Loading Qt Language File for fr ...
+    1.768 D Loading Application Language File for fr ...
+    1.794 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.804 D Loading Qt Language File for fr ...
+    1.857 D Loading Application Language File for fr ...
+    1.862 D DeviceFlow::setLinked: true
+    1.867 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
+    1.871 D First layer of XBox auth ... commencing.
+    1.876 D New token expires in QDateTime(2025-01-17 10:36:35.982 UTC Qt::UTC) seconds
+    2.015 D Parsing "UToken" :
+    2.018 D "UToken" is valid.
+    2.021 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
+    2.023 D Getting authorization token for  "http://xboxlive.com"
+    2.639 D Parsing "Xbox" :
+    2.642 D "Xbox" is valid.
+    2.644 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
+    2.647 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    2.914 D Parsing "Mojang" :
+    2.917 D "Mojang" is valid.
+    2.919 D AuthFlow: "Accès aux services de Mojang."
+    2.922 D Getting Minecraft access token...
+    3.437 D Parsing Mojang response...
+    3.442 D Mojang response is valid.
+    3.444 D AuthFlow: "Récupération du profil Xbox."
+    3.447 D Getting Xbox profile...
+    4.248 D AuthFlow: "Détermination de la propriété du jeu."
+    4.253 D Getting entitlements...
+    4.670 D Parsing Minecraft entitlements...
+    4.672 D AuthFlow: "Récupération du profil Minecraft."
+    4.813 D Parsing Minecraft profile...
+    4.815 D AuthFlow: "Récupération du skin."
+    4.834 D Task "MSASilent(0x6163332a7a80)" succeeded
+    4.842 D Writing account list to "accounts.json"
+    4.843 D Building JSON data structure.
+    4.845 D Building account array.
+    4.848 D Writing account list to file.
+    4.911 D Saved account list to "accounts.json"
+    4.914 D RefreshSchedule: Background account refresh succeeded
+   21.650 D Wizard result = 1
+   21.695 D Reloading news.
+   21.697 D Task "NetJob(News RSS Feed)" starting for the first time
+   21.706 D Task "ComponentUpdateTask(0x616333160850)" starting for the first time
+   21.709 D Loading components
+   21.723 D Component list save is scheduled for "1.21.4"
+   21.731 D Resolving dependencies
+   21.733 D "Req: org.lwjgl3" Is met.
+   21.734 D Task "ComponentUpdateTask(0x616333160850)" succeeded
+   21.738 D Component list update/resolve task succeeded for "1.21.4"
+   21.939 D <> Main window shown.
+   21.952 D Task "Net::Download(0x61633354f500)" starting for the first time
+   21.954 D Downloading  "https://polymc.org/feed/feed.xml"
+   22.008 D Download succeeded: "https://polymc.org/feed/feed.xml"
+   22.014 D Task "NetJob(News RSS Feed)" succeeded
+   22.018 D Finished loading RSS feed.
+   22.028 D Loaded news entry "PolyMC 6.1, now available"
+   22.031 D Loaded news entry "PolyMC 6.0, now available"
+   22.036 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
+   22.038 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
+   22.042 D Loaded news entry "Major Bugfix 1.4.3, now available"
+   22.046 D Loaded news entry "What happened, and the next step."
+   22.049 D Loaded news entry "PolyMC Update 1.4.2, now available"
+   22.052 D Loaded news entry "PolyMC Update 1.4.1, now available"
+   22.056 D Loaded news entry "PolyMC Update 1.4.0, now available"
+   22.058 D Loaded news entry "PolyMC Update 1.3.2, now available"
+   22.060 D Loaded news entry "PolyMC Update 1.3.1, now available"
+   22.063 D Loaded news entry "PolyMC Update 1.3.0, now available"
+   22.065 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+   22.067 D Loaded news entry "PolyMC Update 1.2.1, now available"
+   22.070 D Loaded news entry "PolyMC Update 1.2.0, now available"
+   22.073 D Loaded news entry "Rewrite in electron (April Fools 2022)"
+   22.076 D Loaded news entry "PolyMC Update 1.1.1, now available"
+   22.078 D Loaded news entry "PolyMC Update 1.1.0, now available"
+   22.081 D Loaded news entry "Moving on"
+   22.083 D Loaded news entry "Modrinth support and Mod downloading"
+   22.085 D Loaded news entry "New maintainers and step down."
+   22.087 D News loading succeeded.
+   23.903 D Task "LaunchController(0x616333419fa0)" starting for the first time
+   23.988 D Instance-type specific settings were loaded!
+   29.931 D Task "LaunchTask(0x616333455030)" starting for the first time
+   29.932 D Task "TextPrint(0x6163332b0bc0)" starting for the first time
+   29.935 D Task "TextPrint(0x6163332b0bc0)" succeeded
+   29.936 D Task "TextPrint(0x61633323f930)" starting for the first time
+   29.941 D Task "TextPrint(0x61633323f930)" succeeded
+   29.945 D Task "TextPrint(0x616333272460)" starting for the first time
+   29.949 D Task "TextPrint(0x616333272460)" succeeded
+   29.951 D Task "TextPrint(0x6163335202c0)" starting for the first time
+   29.954 D Task "TextPrint(0x6163335202c0)" succeeded
+   29.957 D Task "CheckJava(0x61633353aab0)" starting for the first time
+   29.969 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   29.971 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   29.976 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+   29.987 D Component list save performed now for "1.21.4"
+   30.037 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+   30.038 W STDERR ""
+   30.039 D Java checker finished with status  QProcess::NormalExit  exit code  0
+   30.042 D Java checker succeeded.
+   30.205 C "Error changing setting JavaVendor. Setting doesn't exist."
+   30.253 D Task "CheckJava(0x61633353aab0)" succeeded
+   30.257 D Task "CreateGameFolders(0x61633331d330)" starting for the first time
+   30.275 D Task "CreateGameFolders(0x61633331d330)" succeeded
+   30.277 D Task "ClaimAccount(0x61633340a380)" starting for the first time
+   30.287 D Writing account list to "accounts.json"
+   30.290 D Building JSON data structure.
+   30.294 D Building account array.
+   30.297 D Writing account list to file.
+   30.386 D Saved account list to "accounts.json"
+   30.390 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+   30.392 D Task "ClaimAccount(0x61633340a380)" succeeded
+   30.394 D Task "Update(0x61633349e020)" starting for the first time
+   30.398 D Task "MinecraftUpdate(0x616333232e70)" starting for the first time
+   30.403 D Task "ComponentUpdateTask(0x61633343f5c0)" starting for the first time
+   30.405 D Loading components
+   30.407 D Index is already loaded
+   30.411 D Component list save is scheduled for "1.21.4"
+   30.413 D Resolving dependencies
+   30.416 D "Req: org.lwjgl3" Is met.
+   30.417 D Task "ComponentUpdateTask(0x61633343f5c0)" succeeded
+   30.419 D Component list update/resolve task succeeded for "1.21.4"
+   30.422 D Task "FoldersTask(0x61633352e100)" starting for the first time
+   30.428 D Task "FoldersTask(0x61633352e100)" succeeded
+   30.434 D Task "LibrariesTask(0x61633339b450)" starting for the first time
+   30.437 D "1.21.4" : downloading libraries
+   30.441 D Applying "org.lwjgl3" GOOD
+   30.443 D Applying "net.minecraft" GOOD
+   35.545 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+   35.547 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+   35.550 D Task "LibrariesTask(0x61633339b450)" succeeded
+   35.554 D Task "FMLLibrariesTask(0x61633339b740)" starting for the first time
+   35.557 D Task "FMLLibrariesTask(0x61633339b740)" succeeded
+   35.560 D Task "AssetUpdateTask(0x61633326a620)" starting for the first time
+   35.644 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+   35.646 D "1.21.4" : Starting asset index download
+   35.649 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+   35.652 D Component list save performed now for "1.21.4"
+   35.764 D Task "Net::Download(0x616333276680)" starting for the first time
+   35.772 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   35.816 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   35.819 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+   35.820 D "1.21.4" : Finished asset index download
+   88.232 D Task "AssetUpdateTask(0x61633326a620)" succeeded
+   88.234 D Task "MinecraftUpdate(0x616333232e70)" succeeded
+   88.237 D Task "Update(0x61633349e020)" succeeded
+   88.241 D Task "ModMinecraftJar(0x61633326d120)" starting for the first time
+   88.244 D Task "ModMinecraftJar(0x61633326d120)" succeeded
+   88.246 D Task "ScanModFolders(0x616333232b30)" starting for the first time
+   88.301 D [HttpMetaCache] Saving metacache with 20 entries
+   89.880 D Task "ScanModFolders(0x616333232b30)" succeeded
+   89.881 D Task "PrintInstanceInfo(0x61633353ab30)" starting for the first time
+   92.948 D Task "PrintInstanceInfo(0x61633353ab30)" succeeded
+   92.948 D Task "ExtractNatives(0x6163334297c0)" starting for the first time
+   92.951 D Task "ExtractNatives(0x6163334297c0)" succeeded
+   92.953 D Task "ReconstructAssets(0x6163334dd3f0)" starting for the first time
+   92.957 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+   92.981 D Task "ReconstructAssets(0x6163334dd3f0)" succeeded
+   92.984 D Task "VerifyJavaInstall(0x6163333138d0)" starting for the first time
+   92.987 D Task "VerifyJavaInstall(0x6163333138d0)" succeeded
+   92.989 D Task "LauncherPartLaunch(0x6163333537b0)" starting for the first time
+   93.021 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   93.023 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   93.027 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
+ 1913.862 D Task "LauncherPartLaunch(0x6163333537b0)" succeeded
+ 1913.878 D Writing account list to "accounts.json"
+ 1913.880 D Building JSON data structure.
+ 1913.882 D Building account array.
+ 1913.884 D Writing account list to file.
+ 1913.945 D Saved account list to "accounts.json"
+ 1913.949 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+ 1914.081 D Task "LaunchTask(0x616333455030)" succeeded
+ 1914.083 D Task "LaunchController(0x616333419fa0)" succeeded

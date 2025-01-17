@@ -1047,23 +1047,23 @@
         },
         {
             "base": "translations",
-            "current_age": 11,
-            "etag": "W/\"6788f52b-3f89\"",
-            "last_changed_timestamp": 1737106595670,
+            "current_age": 0,
+            "etag": "W/\"678a2a8e-3f89\"",
+            "last_changed_timestamp": 1737119611912,
             "max_age": 600,
-            "md5sum": "1485372ace5d155494db4d5cf3eb6a3f",
+            "md5sum": "fb859b8662927d7638d191263cf67e62",
             "path": "index_v2.json",
-            "remote_changed_timestamp": "Thu, 16 Jan 2025 12:01:47 GMT"
+            "remote_changed_timestamp": "Fri, 17 Jan 2025 10:01:50 GMT"
         },
         {
             "base": "translations",
-            "current_age": 11,
-            "etag": "\"6788f52b-336e3\"",
-            "last_changed_timestamp": 1737106595861,
+            "current_age": 0,
+            "etag": "\"678a2a8e-336e3\"",
+            "last_changed_timestamp": 1737119612358,
             "max_age": 600,
             "md5sum": "9a95c02edb0bb6ee0b1331b35ff5408e",
             "path": "mmc_fr.qm",
-            "remote_changed_timestamp": "Thu, 16 Jan 2025 12:01:47 GMT"
+            "remote_changed_timestamp": "Fri, 17 Jan 2025 10:01:50 GMT"
         }
     ],
     "version": "1"

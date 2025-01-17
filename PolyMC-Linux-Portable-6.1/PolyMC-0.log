@@ -1,363 +1,365 @@
-    0.505 D <> Log initialized.
-    0.509 D "PolyMC" , (c) 2013-2021  "PolyMC Contributors\n© 2012-2021 MultiMC Contributors"
-    0.512 D Version                    :  "6.1"
-    0.515 D Git commit                 :  "52734e7bac07d287808cbc467c50152a0c2515dd"
-    0.517 D Git refspec                :  ""
-    0.520 D Work dir before adjustment :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
-    0.524 D Work dir after adjustment  :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
-    0.526 D Adjusted by                :  "Portable data path"
-    0.528 D Binary path                :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
-    0.533 D Application root path      :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
-    0.537 D <> Paths set.
-    0.622 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
-    0.638 D <> Settings loaded.
-    0.666 D Detecting proxy settings...
-    0.668 D Using no proxy is an option!
-    0.671 D <> Network done.
-    0.919 D Loading Qt Language File for fr ...
-    0.930 D Loading Application Language File for fr ...
-    0.934 D Your language is "fr"
-    0.936 D <> Translations loaded.
-    0.943 D Started watching  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
-    0.947 D Sorting icon list...
-    0.954 D <> Instance icons intialized.
-    0.957 D <> Icon themes initialized.
-    0.964 D Determining System Theme...
-    0.967 D System theme seems to be: "fusion"
-    0.970 D Considering theme from theme factory: "windows"
-    0.973 D Considering theme from theme factory: "fusion"
-    0.974 D System theme has been determined to be: "Fusion"
-    0.977 D Loading theme "custom"
-    0.995 D <> Widget themes initialized.
-    0.999 D Instance path              :  "instances"
-    1.006 D Loading Instances...
-    1.010 D Discovering instances in "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
-    1.017 D Found instance ID "1.21.4"
-    1.024 D Found instance ID "1.8.9"
-    1.030 D Will load group list now.
-    1.037 D Group list loaded.
-    1.044 D Loaded instance  "1.21.4"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
-    1.048 D Loaded instance  "1.8.9"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
-    1.052 D <> Instances loaded.
-    1.054 D Loading accounts...
-    1.062 D AccountList: Queued default account with internal ID  "a2f198eafbd549ef8a77eae9b7e91632"  to refresh first
-    1.064 D Task "MSASilent(0x6163332a7a80)" starting for the first time
-    1.067 D AuthFlow: "Connexion avec un compte Microsoft."
-    1.069 D DeviceFlow::refresh: Token: ... "pMz4AE$"
-    1.087 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "a2f198eafbd549ef8a77eae9b7e91632"
-    1.089 D <> Accounts loaded.
-    1.096 D <> Cache initialized.
-    1.097 D Downloading Translations Index...
-    1.101 D Task "NetJob(Translations Index)" starting for the first time
-    1.104 D <> Icon theme set.
-    1.106 D <> Application theme set.
-    1.147 D Task "JavaListLoadTask(0x61633340adf0)" starting for the first time
-    1.149 D Linux Java detection incomplete - defaulting to "java"
-    1.152 D Probing the following Java paths: 
-    1.154 D   "java"
-    1.156 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
-    1.158 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    1.160 D   "/usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java"
-    1.162 D   "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
-    1.164 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
-    1.166 D   "/usr/lib/jvm/openjdk-17/bin/java"
-    1.168 D   "/usr/lib/jvm/openjdk-21/jre/bin/java"
-    1.170 D   "/usr/lib/jvm/openjdk-21/bin/java"
-    1.172 D   ""
-    1.174 D Task "JavaCheckerJob(0x61633335d7b0)" starting for the first time
-    1.176 D "Java detection"  started.
-    1.186 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.187 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.190 D "Running java checker: java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.196 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    0.308 D <> Log initialized.
+    0.312 D "PolyMC" , (c) 2013-2021  "PolyMC Contributors\n© 2012-2021 MultiMC Contributors"
+    0.322 D Version                    :  "6.1"
+    0.329 D Git commit                 :  "52734e7bac07d287808cbc467c50152a0c2515dd"
+    0.334 D Git refspec                :  ""
+    0.336 D Work dir before adjustment :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
+    0.339 D Work dir after adjustment  :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
+    0.345 D Adjusted by                :  "Portable data path"
+    0.347 D Binary path                :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
+    0.350 D Application root path      :  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1"
+    0.353 D <> Paths set.
+    0.441 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.493 D <> Settings loaded.
+    0.522 D Detecting proxy settings...
+    0.525 D Using no proxy is an option!
+    0.527 D <> Network done.
+    0.592 D Loading Qt Language File for fr ...
+    0.621 D Loading Application Language File for fr ...
+    0.623 D Your language is "fr"
+    0.626 D <> Translations loaded.
+    0.633 D Started watching  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
+    0.636 D Sorting icon list...
+    0.646 D <> Instance icons intialized.
+    0.652 D <> Icon themes initialized.
+    0.655 D Determining System Theme...
+    0.658 D System theme seems to be: "fusion"
+    0.661 D Considering theme from theme factory: "windows"
+    0.664 D Considering theme from theme factory: "fusion"
+    0.668 D System theme has been determined to be: "Fusion"
+    0.671 D Loading theme "custom"
+    0.740 D <> Widget themes initialized.
+    0.742 D Instance path              :  "instances"
+    0.747 D Loading Instances...
+    0.749 D Discovering instances in "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
+    0.800 D Found instance ID "1.21.4"
+    0.812 D Found instance ID "1.8.9"
+    0.814 D Will load group list now.
+    0.842 D Group list loaded.
+    0.853 D Loaded instance  "1.21.4"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
+    0.882 D Loaded instance  "1.8.9"  from  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
+    0.885 D <> Instances loaded.
+    0.887 D Loading accounts...
+    0.895 D AccountList: Queued default account with internal ID  "5958f10f24984d1298c8453b5133ca16"  to refresh first
+    0.897 D Task "MSASilent(0x5762fdb1b6a0)" starting for the first time
+    0.899 D AuthFlow: "Connexion avec un compte Microsoft."
+    0.902 D DeviceFlow::refresh: Token: ... "J*ruMo$"
+    0.924 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "5958f10f24984d1298c8453b5133ca16"
+    0.926 D <> Accounts loaded.
+    0.938 D <> Cache initialized.
+    0.941 D Downloading Translations Index...
+    0.946 W Removing cache entry because of old age!
+    0.948 D Task "NetJob(Translations Index)" starting for the first time
+    0.951 D <> Icon theme set.
+    0.953 D <> Application theme set.
+    1.026 D Task "JavaListLoadTask(0x5762fdd8cd30)" starting for the first time
+    1.028 D Linux Java detection incomplete - defaulting to "java"
+    1.033 D Probing the following Java paths: 
+    1.035 D   "java"
+    1.038 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
+    1.039 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    1.042 D   "/usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java"
+    1.044 D   "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    1.046 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
+    1.049 D   "/usr/lib/jvm/openjdk-17/bin/java"
+    1.050 D   "/usr/lib/jvm/openjdk-21/jre/bin/java"
+    1.054 D   "/usr/lib/jvm/openjdk-21/bin/java"
+    1.056 D   ""
+    1.058 D Task "JavaCheckerJob(0x5762fdd7e4f0)" starting for the first time
+    1.061 D "Java detection"  started.
+    1.082 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.084 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.088 D "Running java checker: java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.096 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.099 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.102 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.108 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.110 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.112 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.119 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.120 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.123 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.132 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.133 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.135 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.141 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.143 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.145 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.156 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.156 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.158 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.165 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.167 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.170 D "Running java checker: /usr/lib/jvm/openjdk-21/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.187 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.188 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.190 D "Running java checker: /usr/lib/jvm/openjdk-21/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.197 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
     1.198 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.200 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.208 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.208 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.212 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.217 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.218 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.221 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.228 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.228 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.230 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.236 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.238 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.241 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.249 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.249 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.251 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.258 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.259 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.261 D "Running java checker: /usr/lib/jvm/openjdk-21/jre/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.281 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.282 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.283 D "Running java checker: /usr/lib/jvm/openjdk-21/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.287 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.288 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.290 D "Running java checker: -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.291 D Java checker has failed to start.
-    1.293 D Process environment:
-    1.295 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.296 D Native environment:
-    1.298 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.301 D "Java detection" progress: 1 / 10
-    1.361 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
-    1.361 W STDERR ""
-    1.363 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    1.364 D Java checker succeeded.
-    1.366 D "Java detection" progress: 2 / 10
-    1.368 D Java checker has failed to start.
-    1.369 D Process environment:
-    1.371 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.372 D Native environment:
-    1.374 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.377 D "Java detection" progress: 3 / 10
-    1.383 D Java checker has failed to start.
-    1.385 D Process environment:
-    1.387 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.390 D Native environment:
-    1.393 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.395 D "Java detection" progress: 4 / 10
-    1.398 D Java checker has failed to start.
-    1.399 D Process environment:
-    1.400 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.403 D Native environment:
-    1.404 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.406 D "Java detection" progress: 5 / 10
-    1.409 D Java checker has failed to start.
-    1.411 D Process environment:
-    1.412 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.414 D Native environment:
-    1.416 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.417 D "Java detection" progress: 6 / 10
-    1.420 D Java checker has failed to start.
-    1.424 D Process environment:
-    1.426 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.429 D Native environment:
-    1.430 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.431 D "Java detection" progress: 7 / 10
-    1.454 D Task "Net::Download(0x61633327c650)" starting for the first time
-    1.460 D Downloading  "https://i18n.polymc.org/index_v2.json"
-    1.463 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    1.465 W STDERR ""
-    1.466 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    1.468 D Java checker succeeded.
-    1.470 D "Java detection" progress: 8 / 10
-    1.472 D Java checker has failed to start.
-    1.473 D Process environment:
-    1.475 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.476 D Native environment:
-    1.478 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i206-f16:@/tmp/.ICE-unix/18539,unix/or-iut-i206-f16:/tmp/.ICE-unix/18539", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c2", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
-    1.480 D "Java detection" progress: 9 / 10
-    1.482 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    1.486 D Loading Qt Language File for fr ...
-    1.489 D Loading Application Language File for fr ...
-    1.494 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
-    1.495 W STDERR ""
-    1.497 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    1.499 D Java checker succeeded.
-    1.500 D "Java detection" progress: 10 / 10
-    1.502 D Task "JavaCheckerJob(0x61633335d7b0)" succeeded
-    1.504 D Found the following valid Java installations:
-    1.505 D   "21.0.5" "amd64" "java"
-    1.507 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    1.509 D   "21.0.5" "amd64" "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
-    1.510 D Task "JavaListLoadTask(0x61633340adf0)" succeeded
-    1.513 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-    1.516 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-    1.518 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    1.556 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
-    1.556 D Task "NetJob(Translations Index)" succeeded
-    1.558 D Got translations index!
-    1.560 D Task "NetJob(Translation for fr)" starting for the first time
-    1.564 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    1.571 D Loading Qt Language File for fr ...
-    1.573 D Loading Application Language File for fr ...
-    1.576 D Task "Net::Download(0x616333405080)" starting for the first time
-    1.581 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    1.598 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    1.603 D Loading Qt Language File for fr ...
-    1.606 D Loading Application Language File for fr ...
-    1.610 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
-    1.612 W STDERR ""
-    1.614 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    1.616 D Java checker succeeded.
-    1.676 C Failed to commit changes to  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations/mmc_fr.qm"
-    1.678 D Download failed to finalize: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    1.680 D Task "Net::Download(0x616333405080)" restarting for after failing at first
-    1.693 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    1.696 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    1.707 D Loading Qt Language File for fr ...
-    1.750 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    1.753 D Task "NetJob(Translation for fr)" succeeded
-    1.755 D Got translation: "fr"
-    1.758 D Loading Qt Language File for fr ...
-    1.768 D Loading Application Language File for fr ...
-    1.794 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    1.804 D Loading Qt Language File for fr ...
-    1.857 D Loading Application Language File for fr ...
-    1.862 D DeviceFlow::setLinked: true
-    1.867 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
-    1.871 D First layer of XBox auth ... commencing.
-    1.876 D New token expires in QDateTime(2025-01-17 10:36:35.982 UTC Qt::UTC) seconds
-    2.015 D Parsing "UToken" :
-    2.018 D "UToken" is valid.
-    2.021 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
-    2.023 D Getting authorization token for  "http://xboxlive.com"
-    2.639 D Parsing "Xbox" :
-    2.642 D "Xbox" is valid.
-    2.644 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
-    2.647 D Getting authorization token for  "rp://api.minecraftservices.com/"
-    2.914 D Parsing "Mojang" :
-    2.917 D "Mojang" is valid.
-    2.919 D AuthFlow: "Accès aux services de Mojang."
-    2.922 D Getting Minecraft access token...
-    3.437 D Parsing Mojang response...
-    3.442 D Mojang response is valid.
-    3.444 D AuthFlow: "Récupération du profil Xbox."
-    3.447 D Getting Xbox profile...
-    4.248 D AuthFlow: "Détermination de la propriété du jeu."
-    4.253 D Getting entitlements...
-    4.670 D Parsing Minecraft entitlements...
-    4.672 D AuthFlow: "Récupération du profil Minecraft."
-    4.813 D Parsing Minecraft profile...
-    4.815 D AuthFlow: "Récupération du skin."
-    4.834 D Task "MSASilent(0x6163332a7a80)" succeeded
-    4.842 D Writing account list to "accounts.json"
-    4.843 D Building JSON data structure.
-    4.845 D Building account array.
-    4.848 D Writing account list to file.
-    4.911 D Saved account list to "accounts.json"
-    4.914 D RefreshSchedule: Background account refresh succeeded
-   21.650 D Wizard result = 1
-   21.695 D Reloading news.
-   21.697 D Task "NetJob(News RSS Feed)" starting for the first time
-   21.706 D Task "ComponentUpdateTask(0x616333160850)" starting for the first time
-   21.709 D Loading components
-   21.723 D Component list save is scheduled for "1.21.4"
-   21.731 D Resolving dependencies
-   21.733 D "Req: org.lwjgl3" Is met.
-   21.734 D Task "ComponentUpdateTask(0x616333160850)" succeeded
-   21.738 D Component list update/resolve task succeeded for "1.21.4"
-   21.939 D <> Main window shown.
-   21.952 D Task "Net::Download(0x61633354f500)" starting for the first time
-   21.954 D Downloading  "https://polymc.org/feed/feed.xml"
-   22.008 D Download succeeded: "https://polymc.org/feed/feed.xml"
-   22.014 D Task "NetJob(News RSS Feed)" succeeded
-   22.018 D Finished loading RSS feed.
-   22.028 D Loaded news entry "PolyMC 6.1, now available"
-   22.031 D Loaded news entry "PolyMC 6.0, now available"
-   22.036 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
-   22.038 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
-   22.042 D Loaded news entry "Major Bugfix 1.4.3, now available"
-   22.046 D Loaded news entry "What happened, and the next step."
-   22.049 D Loaded news entry "PolyMC Update 1.4.2, now available"
-   22.052 D Loaded news entry "PolyMC Update 1.4.1, now available"
-   22.056 D Loaded news entry "PolyMC Update 1.4.0, now available"
-   22.058 D Loaded news entry "PolyMC Update 1.3.2, now available"
-   22.060 D Loaded news entry "PolyMC Update 1.3.1, now available"
-   22.063 D Loaded news entry "PolyMC Update 1.3.0, now available"
-   22.065 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-   22.067 D Loaded news entry "PolyMC Update 1.2.1, now available"
-   22.070 D Loaded news entry "PolyMC Update 1.2.0, now available"
-   22.073 D Loaded news entry "Rewrite in electron (April Fools 2022)"
-   22.076 D Loaded news entry "PolyMC Update 1.1.1, now available"
-   22.078 D Loaded news entry "PolyMC Update 1.1.0, now available"
-   22.081 D Loaded news entry "Moving on"
-   22.083 D Loaded news entry "Modrinth support and Mod downloading"
-   22.085 D Loaded news entry "New maintainers and step down."
-   22.087 D News loading succeeded.
-   23.903 D Task "LaunchController(0x616333419fa0)" starting for the first time
-   23.988 D Instance-type specific settings were loaded!
-   29.931 D Task "LaunchTask(0x616333455030)" starting for the first time
-   29.932 D Task "TextPrint(0x6163332b0bc0)" starting for the first time
-   29.935 D Task "TextPrint(0x6163332b0bc0)" succeeded
-   29.936 D Task "TextPrint(0x61633323f930)" starting for the first time
-   29.941 D Task "TextPrint(0x61633323f930)" succeeded
-   29.945 D Task "TextPrint(0x616333272460)" starting for the first time
-   29.949 D Task "TextPrint(0x616333272460)" succeeded
-   29.951 D Task "TextPrint(0x6163335202c0)" starting for the first time
-   29.954 D Task "TextPrint(0x6163335202c0)" succeeded
-   29.957 D Task "CheckJava(0x61633353aab0)" starting for the first time
-   29.969 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-   29.971 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-   29.976 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-   29.987 D Component list save performed now for "1.21.4"
-   30.037 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
-   30.038 W STDERR ""
-   30.039 D Java checker finished with status  QProcess::NormalExit  exit code  0
-   30.042 D Java checker succeeded.
-   30.205 C "Error changing setting JavaVendor. Setting doesn't exist."
-   30.253 D Task "CheckJava(0x61633353aab0)" succeeded
-   30.257 D Task "CreateGameFolders(0x61633331d330)" starting for the first time
-   30.275 D Task "CreateGameFolders(0x61633331d330)" succeeded
-   30.277 D Task "ClaimAccount(0x61633340a380)" starting for the first time
-   30.287 D Writing account list to "accounts.json"
-   30.290 D Building JSON data structure.
-   30.294 D Building account array.
-   30.297 D Writing account list to file.
-   30.386 D Saved account list to "accounts.json"
-   30.390 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
-   30.392 D Task "ClaimAccount(0x61633340a380)" succeeded
-   30.394 D Task "Update(0x61633349e020)" starting for the first time
-   30.398 D Task "MinecraftUpdate(0x616333232e70)" starting for the first time
-   30.403 D Task "ComponentUpdateTask(0x61633343f5c0)" starting for the first time
-   30.405 D Loading components
-   30.407 D Index is already loaded
-   30.411 D Component list save is scheduled for "1.21.4"
-   30.413 D Resolving dependencies
-   30.416 D "Req: org.lwjgl3" Is met.
-   30.417 D Task "ComponentUpdateTask(0x61633343f5c0)" succeeded
-   30.419 D Component list update/resolve task succeeded for "1.21.4"
-   30.422 D Task "FoldersTask(0x61633352e100)" starting for the first time
-   30.428 D Task "FoldersTask(0x61633352e100)" succeeded
-   30.434 D Task "LibrariesTask(0x61633339b450)" starting for the first time
-   30.437 D "1.21.4" : downloading libraries
-   30.441 D Applying "org.lwjgl3" GOOD
-   30.443 D Applying "net.minecraft" GOOD
-   35.545 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
-   35.547 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
-   35.550 D Task "LibrariesTask(0x61633339b450)" succeeded
-   35.554 D Task "FMLLibrariesTask(0x61633339b740)" starting for the first time
-   35.557 D Task "FMLLibrariesTask(0x61633339b740)" succeeded
-   35.560 D Task "AssetUpdateTask(0x61633326a620)" starting for the first time
-   35.644 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
-   35.646 D "1.21.4" : Starting asset index download
-   35.649 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
-   35.652 D Component list save performed now for "1.21.4"
-   35.764 D Task "Net::Download(0x616333276680)" starting for the first time
-   35.772 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   35.816 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   35.819 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
-   35.820 D "1.21.4" : Finished asset index download
-   88.232 D Task "AssetUpdateTask(0x61633326a620)" succeeded
-   88.234 D Task "MinecraftUpdate(0x616333232e70)" succeeded
-   88.237 D Task "Update(0x61633349e020)" succeeded
-   88.241 D Task "ModMinecraftJar(0x61633326d120)" starting for the first time
-   88.244 D Task "ModMinecraftJar(0x61633326d120)" succeeded
-   88.246 D Task "ScanModFolders(0x616333232b30)" starting for the first time
-   88.301 D [HttpMetaCache] Saving metacache with 20 entries
-   89.880 D Task "ScanModFolders(0x616333232b30)" succeeded
-   89.881 D Task "PrintInstanceInfo(0x61633353ab30)" starting for the first time
-   92.948 D Task "PrintInstanceInfo(0x61633353ab30)" succeeded
-   92.948 D Task "ExtractNatives(0x6163334297c0)" starting for the first time
-   92.951 D Task "ExtractNatives(0x6163334297c0)" succeeded
-   92.953 D Task "ReconstructAssets(0x6163334dd3f0)" starting for the first time
-   92.957 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
-   92.981 D Task "ReconstructAssets(0x6163334dd3f0)" succeeded
-   92.984 D Task "VerifyJavaInstall(0x6163333138d0)" starting for the first time
-   92.987 D Task "VerifyJavaInstall(0x6163333138d0)" succeeded
-   92.989 D Task "LauncherPartLaunch(0x6163333537b0)" starting for the first time
-   93.021 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
-   93.023 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
-   93.027 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
- 1913.862 D Task "LauncherPartLaunch(0x6163333537b0)" succeeded
- 1913.878 D Writing account list to "accounts.json"
- 1913.880 D Building JSON data structure.
- 1913.882 D Building account array.
- 1913.884 D Writing account list to file.
- 1913.945 D Saved account list to "accounts.json"
- 1913.949 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
- 1914.081 D Task "LaunchTask(0x616333455030)" succeeded
- 1914.083 D Task "LaunchController(0x616333419fa0)" succeeded
+    1.200 D "Running java checker: -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.202 D Java checker has failed to start.
+    1.204 D Process environment:
+    1.206 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.209 D Native environment:
+    1.212 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.213 D "Java detection" progress: 1 / 10
+    1.326 D Java checker has failed to start.
+    1.326 D Process environment:
+    1.328 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.329 D Native environment:
+    1.331 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.333 D "Java detection" progress: 2 / 10
+    1.338 D Java checker has failed to start.
+    1.340 D Process environment:
+    1.341 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.343 D Native environment:
+    1.346 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.347 D "Java detection" progress: 3 / 10
+    1.350 D Java checker has failed to start.
+    1.352 D Process environment:
+    1.353 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.355 D Native environment:
+    1.359 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.360 D "Java detection" progress: 4 / 10
+    1.363 D Java checker has failed to start.
+    1.367 D Process environment:
+    1.370 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.373 D Native environment:
+    1.376 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.383 D "Java detection" progress: 5 / 10
+    1.385 D Java checker has failed to start.
+    1.389 D Process environment:
+    1.392 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.397 D Native environment:
+    1.400 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.402 D "Java detection" progress: 6 / 10
+    1.429 D Task "Net::Download(0x5762fdd8b6d0)" starting for the first time
+    1.444 D Downloading  "https://i18n.polymc.org/index_v2.json"
+    1.447 D Java checker has failed to start.
+    1.452 D Process environment:
+    1.454 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.458 D Native environment:
+    1.461 D ("CLUTTER_BACKEND=x11", "DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1448636345/bus", "DEBUGINFOD_URLS=https://debuginfod.ubuntu.com ", "DESKTOP_SESSION=xubuntu", "DISPLAY=:0.0", "GDMSESSION=xubuntu", "GDM_LANG=fr_FR", "GNOME_KEYRING_CONTROL=/run/user/1448636345/keyring", "GPG_AGENT_INFO=/run/user/1448636345/gnupg/S.gpg-agent:0:1", "GTK_OVERLAY_SCROLLING=0", "HOME=/home/iut45/Etudiants/o22204986", "KRB5CCNAME=KEYRING:persistent:1448636345", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=/usr/lib/oracle/12.1/client64/lib/", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=o22204986", "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/iut45/Etudiants/o22204986", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=gtk2", "SESSION_MANAGER=local/or-iut-i004-f30:@/tmp/.ICE-unix/60873,unix/or-iut-i004-f30:/tmp/.ICE-unix/60873", "SHELL=/bin/bash", "SHLVL=0", "SSH_AUTH_SOCK=/run/user/1448636345/keyring/ssh", "TNS_ADMIN=/usr/lib/oracle/12.1/client64/lib/", "TWO_TASK=oracle", "USER=o22204986", "XAUTHORITY=/home/iut45/Etudiants/o22204986/.Xauthority", "XDG_CACHE_HOME=/home/local/o22204986/.cache", "XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg", "XDG_CURRENT_DESKTOP=XFCE", "XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop:/usr/share", "XDG_DATA_HOME=/home/local/o22204986/.local/share", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/o22204986", "XDG_MENU_PREFIX=xfce-", "XDG_RUNTIME_DIR=/run/user/1448636345", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=xubuntu", "XDG_SESSION_ID=c6", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2", "XDG_SESSION_TYPE=x11", "XDG_STATE_HOME=/home/local/o22204986/.local/state", "XDG_VTNR=7")
+    1.466 D "Java detection" progress: 7 / 10
+    1.471 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.480 D Loading Qt Language File for fr ...
+    1.485 D Loading Application Language File for fr ...
+    1.499 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.504 W STDERR ""
+    1.508 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.510 D Java checker succeeded.
+    1.512 D "Java detection" progress: 8 / 10
+    1.518 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.520 W STDERR ""
+    1.522 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.526 D Java checker succeeded.
+    1.530 D "Java detection" progress: 9 / 10
+    1.540 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
+    1.545 W STDERR ""
+    1.548 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.551 D Java checker succeeded.
+    1.553 D "Java detection" progress: 10 / 10
+    1.561 D Task "JavaCheckerJob(0x5762fdd7e4f0)" succeeded
+    1.564 D Found the following valid Java installations:
+    1.566 D   "21.0.5" "amd64" "java"
+    1.568 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
+    1.570 D   "21.0.5" "amd64" "/usr/lib/jvm/java-21-openjdk-amd64/bin/java"
+    1.574 D Task "JavaListLoadTask(0x5762fdd8cd30)" succeeded
+    1.579 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+    1.581 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+    1.583 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    1.761 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
+    1.761 D Task "NetJob(Translations Index)" succeeded
+    1.763 D Got translations index!
+    1.766 W Removing cache entry because of old age!
+    1.769 D Task "NetJob(Translation for fr)" starting for the first time
+    1.773 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.784 D Loading Qt Language File for fr ...
+    1.787 D Loading Application Language File for fr ...
+    1.790 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+    1.793 W STDERR ""
+    1.796 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    1.801 D Java checker succeeded.
+    1.806 D DeviceFlow::setLinked: true
+    1.809 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
+    1.812 D First layer of XBox auth ... commencing.
+    1.815 D New token expires in QDateTime(2025-01-17 14:13:31.984 UTC Qt::UTC) seconds
+    1.819 D Task "Net::Download(0x5762fdd183a0)" starting for the first time
+    1.889 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    1.915 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    1.924 D Loading Qt Language File for fr ...
+    1.931 D Loading Application Language File for fr ...
+    2.075 C Failed to commit changes to  "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations/mmc_fr.qm"
+    2.078 D Download failed to finalize: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    2.087 D Task "Net::Download(0x5762fdd183a0)" restarting for after failing at first
+    2.104 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    2.107 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    2.119 D Loading Qt Language File for fr ...
+    2.186 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    2.190 D Task "NetJob(Translation for fr)" succeeded
+    2.194 D Got translation: "fr"
+    2.197 D Loading Qt Language File for fr ...
+    2.208 D Loading Application Language File for fr ...
+    2.225 D Parsing "UToken" :
+    2.231 D "UToken" is valid.
+    2.236 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
+    2.241 D Getting authorization token for  "http://xboxlive.com"
+    2.257 D Dir changed: "/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    2.279 D Loading Qt Language File for fr ...
+    2.288 D Loading Application Language File for fr ...
+    3.050 D Parsing "Xbox" :
+    3.052 D "Xbox" is valid.
+    3.056 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
+    3.061 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    3.372 D Parsing "Mojang" :
+    3.377 D "Mojang" is valid.
+    3.387 D AuthFlow: "Accès aux services de Mojang."
+    3.390 D Getting Minecraft access token...
+    3.846 D Parsing Mojang response...
+    3.848 D Mojang response is valid.
+    3.850 D AuthFlow: "Récupération du profil Xbox."
+    3.857 D Getting Xbox profile...
+    4.649 D Wizard result = 1
+    4.688 D Reloading news.
+    4.690 D Task "NetJob(News RSS Feed)" starting for the first time
+    4.738 D Task "ComponentUpdateTask(0x5762fdf9d020)" starting for the first time
+    4.740 D Loading components
+    4.811 D Component list save is scheduled for "1.21.4"
+    4.854 D Resolving dependencies
+    4.857 D "Req: org.lwjgl3" Is met.
+    4.859 D Task "ComponentUpdateTask(0x5762fdf9d020)" succeeded
+    4.862 D Component list update/resolve task succeeded for "1.21.4"
+    4.889 D <> Main window shown.
+    4.905 D Task "Net::Download(0x5762fdfa0340)" starting for the first time
+    4.908 D Downloading  "https://polymc.org/feed/feed.xml"
+    4.993 D AuthFlow: "Détermination de la propriété du jeu."
+    4.995 D Getting entitlements...
+    5.066 D Download succeeded: "https://polymc.org/feed/feed.xml"
+    5.069 D Task "NetJob(News RSS Feed)" succeeded
+    5.073 D Finished loading RSS feed.
+    5.080 D Loaded news entry "PolyMC 6.1, now available"
+    5.082 D Loaded news entry "PolyMC 6.0, now available"
+    5.084 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
+    5.087 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
+    5.089 D Loaded news entry "Major Bugfix 1.4.3, now available"
+    5.092 D Loaded news entry "What happened, and the next step."
+    5.095 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    5.099 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    5.101 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    5.105 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    5.108 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    5.110 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    5.112 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    5.114 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    5.116 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    5.119 D Loaded news entry "Rewrite in electron (April Fools 2022)"
+    5.121 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    5.123 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    5.126 D Loaded news entry "Moving on"
+    5.129 D Loaded news entry "Modrinth support and Mod downloading"
+    5.131 D Loaded news entry "New maintainers and step down."
+    5.133 D News loading succeeded.
+    5.349 D Parsing Minecraft entitlements...
+    5.354 D AuthFlow: "Récupération du profil Minecraft."
+    5.813 D Parsing Minecraft profile...
+    5.815 D AuthFlow: "Récupération du skin."
+    5.849 D Task "MSASilent(0x5762fdb1b6a0)" succeeded
+    5.868 D Writing account list to "accounts.json"
+    5.870 D Building JSON data structure.
+    5.873 D Building account array.
+    5.875 D Writing account list to file.
+    5.902 D Saved account list to "accounts.json"
+    5.905 D RefreshSchedule: Background account refresh succeeded
+    9.849 D Component list save performed now for "1.21.4"
+   11.587 D Task "LaunchController(0x5762fdc8f540)" starting for the first time
+   11.873 D Instance-type specific settings were loaded!
+   14.186 D Task "LaunchTask(0x5762fdd7f780)" starting for the first time
+   14.191 D Task "TextPrint(0x5762fdd64780)" starting for the first time
+   14.197 D Task "TextPrint(0x5762fdd64780)" succeeded
+   14.205 D Task "TextPrint(0x5762fdd0f320)" starting for the first time
+   14.208 D Task "TextPrint(0x5762fdd0f320)" succeeded
+   14.211 D Task "TextPrint(0x5762fdd6c4a0)" starting for the first time
+   14.216 D Task "TextPrint(0x5762fdd6c4a0)" succeeded
+   14.221 D Task "TextPrint(0x5762fdf8a5a0)" starting for the first time
+   14.229 D Task "TextPrint(0x5762fdf8a5a0)" succeeded
+   14.231 D Task "CheckJava(0x5762fdf2a150)" starting for the first time
+   14.253 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   14.257 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   14.261 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java-jar /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+   14.328 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+   14.328 W STDERR ""
+   14.331 D Java checker finished with status  QProcess::NormalExit  exit code  0
+   14.334 D Java checker succeeded.
+   14.387 C "Error changing setting JavaVendor. Setting doesn't exist."
+   14.405 D Task "CheckJava(0x5762fdf2a150)" succeeded
+   14.408 D Task "CreateGameFolders(0x5762fdd7f930)" starting for the first time
+   14.424 D Task "CreateGameFolders(0x5762fdd7f930)" succeeded
+   14.426 D Task "ClaimAccount(0x5762fe30ec90)" starting for the first time
+   14.432 D Writing account list to "accounts.json"
+   14.434 D Building JSON data structure.
+   14.435 D Building account array.
+   14.439 D Writing account list to file.
+   14.489 D Saved account list to "accounts.json"
+   14.492 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+   14.493 D Task "ClaimAccount(0x5762fe30ec90)" succeeded
+   14.497 D Task "Update(0x5762fdd70f80)" starting for the first time
+   14.499 D Task "MinecraftUpdate(0x5762fddded40)" starting for the first time
+   14.512 D Task "ComponentUpdateTask(0x5762fddd35c0)" starting for the first time
+   14.515 D Loading components
+   14.516 D Index is already loaded
+   14.519 D Component list save is scheduled for "1.21.4"
+   14.521 D Resolving dependencies
+   14.523 D "Req: org.lwjgl3" Is met.
+   14.526 D Task "ComponentUpdateTask(0x5762fddd35c0)" succeeded
+   14.528 D Component list update/resolve task succeeded for "1.21.4"
+   14.531 D Task "FoldersTask(0x5762fdfcf460)" starting for the first time
+   14.534 D Task "FoldersTask(0x5762fdfcf460)" succeeded
+   14.537 D Task "LibrariesTask(0x5762fdcdcb30)" starting for the first time
+   14.540 D "1.21.4" : downloading libraries
+   14.542 D Applying "org.lwjgl3" GOOD
+   14.545 D Applying "net.minecraft" GOOD
+   16.570 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+   16.581 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+   16.584 D Task "LibrariesTask(0x5762fdcdcb30)" succeeded
+   16.588 D Task "FMLLibrariesTask(0x5762fdf0c040)" starting for the first time
+   16.592 D Task "FMLLibrariesTask(0x5762fdf0c040)" succeeded
+   16.597 D Task "AssetUpdateTask(0x5762fdd91070)" starting for the first time
+   16.624 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+   16.631 D "1.21.4" : Starting asset index download
+   16.634 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+   16.651 D Task "Net::Download(0x5762fde5ef40)" starting for the first time
+   16.661 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   18.114 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+   18.116 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+   18.119 D "1.21.4" : Finished asset index download
+   71.783 D Task "AssetUpdateTask(0x5762fdd91070)" succeeded
+   71.784 D Task "MinecraftUpdate(0x5762fddded40)" succeeded
+   71.787 D Task "Update(0x5762fdd70f80)" succeeded
+   71.795 D Task "ModMinecraftJar(0x5762fdd8d890)" starting for the first time
+   71.797 D Task "ModMinecraftJar(0x5762fdd8d890)" succeeded
+   71.800 D Task "ScanModFolders(0x5762fde69a00)" starting for the first time
+   72.058 D Task "ScanModFolders(0x5762fde69a00)" succeeded
+   72.061 D Task "PrintInstanceInfo(0x5762fdf30530)" starting for the first time
+   73.353 D Task "PrintInstanceInfo(0x5762fdf30530)" succeeded
+   73.353 D Task "ExtractNatives(0x5762fdf13380)" starting for the first time
+   73.358 D Task "ExtractNatives(0x5762fdf13380)" succeeded
+   73.362 D Task "ReconstructAssets(0x5762fde04e10)" starting for the first time
+   73.368 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+   73.395 D Task "ReconstructAssets(0x5762fde04e10)" succeeded
+   73.404 D Task "VerifyJavaInstall(0x5762fdc96970)" starting for the first time
+   73.408 D Task "VerifyJavaInstall(0x5762fdc96970)" succeeded
+   73.411 D Task "LauncherPartLaunch(0x5762fdf29ed0)" starting for the first time
+   73.455 W Entry "" could not be stripped from variable "LD_LIBRARY_PATH"
+   73.459 D Env: stripped "LD_LIBRARY_PATH" "/usr/lib/oracle/12.1/client64/lib/" to "/usr/lib/oracle/12.1/client64/lib/"
+   73.463 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/IUT45/Etudiants/o22204986/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
+   73.472 D Component list save performed now for "1.21.4"
+   73.509 D [HttpMetaCache] Saving metacache with 20 entries
+ 4211.205 D Task "LauncherPartLaunch(0x5762fdf29ed0)" succeeded
+ 4211.244 D Writing account list to "accounts.json"
+ 4211.253 D Building JSON data structure.
+ 4211.256 D Building account array.
+ 4211.258 D Writing account list to file.
+ 4211.579 D Saved account list to "accounts.json"
+ 4211.584 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+ 4212.817 D Task "LaunchTask(0x5762fdd7f780)" succeeded
+ 4212.820 D Task "LaunchController(0x5762fdc8f540)" succeeded
