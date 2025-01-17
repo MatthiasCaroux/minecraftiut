@@ -1,137 +1,303 @@
-[21:24:23] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 323 milliseconds
-[21:24:26] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:24:26] [Render thread/INFO]: Setting user: Monyo17
-[21:24:26] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
-[21:24:27] [Render thread/INFO]: Reloading ResourceManager: vanilla
-[21:24:27] [Worker-Main-6/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[21:24:27] [Worker-Main-6/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[21:24:29] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
-[21:24:29] [Render thread/INFO]: Sound engine started
-[21:24:29] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[21:24:29] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[21:24:36] [Render thread/INFO]: Loaded 1370 recipes
-[21:24:36] [Render thread/INFO]: Loaded 1481 advancements
-[21:24:36] [Server thread/INFO]: Starting integrated minecraft server version 1.21.4
-[21:24:36] [Server thread/INFO]: Generating keypair
-[21:24:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
-[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
-[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
-[21:24:38] [Render thread/INFO]: Preparing spawn area: 0%
-[21:24:38] [Render thread/INFO]: Time elapsed: 1888 ms
-[21:24:38] [Server thread/INFO]: Changing simulation distance to 12, from 0
-[21:24:39] [Server thread/INFO]: Monyo17[local:E:a6fecd9a] logged in with entity id 16 at (-152.51872883705866, 66.0, 21.151421697451866)
-[21:24:39] [Server thread/INFO]: Monyo17 joined the game
-[21:24:39] [Render thread/INFO]: Loaded 83 advancements
-[21:24:49] [Server thread/INFO]: Saving and pausing game...
-[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:24:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:24:58] [Server thread/INFO]: Saving and pausing game...
-[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:24:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:25:02] [Server thread/INFO]: Changing view distance to 2, from 10
-[21:25:02] [Server thread/INFO]: Changing simulation distance to 5, from 12
-[21:25:03] [Server thread/INFO]: Saving and pausing game...
-[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:25:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:25:14] [Render thread/INFO]: Reloading ResourceManager: vanilla
-[21:25:14] [Worker-Main-2/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[21:25:15] [Worker-Main-2/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[21:25:16] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
-[21:25:16] [Render thread/INFO]: Sound engine started
-[21:25:16] [Render thread/INFO]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[21:25:16] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[21:25:51] [Render thread/INFO]: Reloading ResourceManager: vanilla
-[21:25:51] [Worker-Main-4/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
-[21:25:51] [Worker-Main-4/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
-[21:25:52] [Render thread/INFO]: OpenAL initialized on device Wireless Headset Stéréo numérique (IEC958)
-[21:25:52] [Render thread/INFO]: Sound engine started
-[21:25:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[21:25:52] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[21:25:54] [Server thread/INFO]: Changing view distance to 8, from 2
-[21:25:54] [Server thread/INFO]: Changing simulation distance to 8, from 5
-[21:26:20] [Render thread/INFO]: Loaded 83 advancements
-[21:26:21] [Server thread/INFO]: Saving and pausing game...
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:26:21] [Server thread/INFO]: Saving and pausing game...
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:26:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:26:23] [Server thread/INFO]: Saving and pausing game...
-[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:26:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:26:25] [Server thread/INFO]: Saving and pausing game...
-[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:26:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:26:55] [Render thread/INFO]: Loaded 92 advancements
-[21:27:38] [Server thread/INFO]: Monyo17 a réalisé le progrès [L'âge de pierre]
-[21:27:38] [Render thread/INFO]: [System] [CHAT] Monyo17 a réalisé le progrès [L'âge de pierre]
-[21:27:38] [Render thread/INFO]: Loaded 110 advancements
-[21:27:46] [Render thread/INFO]: Loaded 110 advancements
-[21:27:46] [Render thread/INFO]: Loaded 117 advancements
-[21:27:56] [Server thread/INFO]: Monyo17 a réalisé le progrès [Qualité supérieure]
-[21:27:56] [Render thread/INFO]: [System] [CHAT] Monyo17 a réalisé le progrès [Qualité supérieure]
-[21:27:56] [Render thread/INFO]: Loaded 121 advancements
-[21:28:09] [Render thread/INFO]: Loaded 122 advancements
-[21:28:44] [Render thread/INFO]: Loaded 125 advancements
-[21:28:48] [Server thread/INFO]: Saving and pausing game...
-[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:28:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:28:48] [Server thread/INFO]: Monyo17 lost connection: Déconnecté(e)
-[21:28:48] [Server thread/INFO]: Monyo17 a quitté la partie
-[21:28:48] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[21:28:48] [Server thread/INFO]: Stopping server
-[21:28:48] [Server thread/INFO]: Saving players
-[21:28:48] [Server thread/INFO]: Saving worlds
-[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[21:28:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
-[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:28:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:28:50] [Render thread/INFO]: Stopping!
+[10:38:18] [Datafixer Bootstrap/INFO]: 243 Datafixer optimizations took 439 milliseconds
+[10:38:23] [Render thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:38:23] [Render thread/INFO]: Setting user: Monyo17
+[10:38:23] [Render thread/INFO]: Backend library: LWJGL version 3.3.3+5
+[10:38:24] [Render thread/INFO]: Reloading ResourceManager: vanilla
+[10:38:24] [Worker-Main-5/INFO]: Found unifont_all_no_pua-16.0.01.hex, loading
+[10:38:24] [Worker-Main-7/INFO]: Found unifont_jp_patch-16.0.01.hex, loading
+[10:38:26] [Render thread/INFO]: OpenAL initialized on device Built-in Audio Analog Stereo
+[10:38:26] [Render thread/INFO]: Sound engine started
+[10:38:26] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/blocks.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 256x256x0 minecraft:textures/atlas/chest.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[10:38:26] [Render thread/INFO]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[10:38:38] [Render thread/INFO]: Loaded 1370 recipes
+[10:38:38] [Render thread/INFO]: Loaded 1481 advancements
+[10:38:43] [Server thread/INFO]: Starting integrated minecraft server version 1.21.4
+[10:38:43] [Server thread/INFO]: Generating keypair
+[10:38:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:38:45] [Render thread/INFO]: Préparation de la zone d'apparition : 0 %
+[10:38:45] [Render thread/INFO]: Préparation de la zone d'apparition : 0 %
+[10:38:45] [Render thread/INFO]: Préparation de la zone d'apparition : 16 %
+[10:38:45] [Render thread/INFO]: Time elapsed: 1364 ms
+[10:38:45] [Server thread/INFO]: Changing view distance to 8, from 10
+[10:38:45] [Server thread/INFO]: Changing simulation distance to 8, from 0
+[10:38:47] [Server thread/INFO]: Monyo17[local:E:5dc33355] logged in with entity id 11 at (-181.84519829110408, 53.0, 119.48685198129157)
+[10:38:47] [Server thread/INFO]: Monyo17 a rejoint la partie
+[10:38:48] [Render thread/INFO]: Loaded 125 advancements
+[10:38:54] [Server thread/INFO]: Saving and pausing game...
+[10:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[10:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[10:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[10:39:10] [Render thread/INFO]: Using default channel type
+[10:39:10] [Render thread/INFO]: Started serving on 6666
+[10:39:10] [Render thread/INFO]: [System] [CHAT] Jeu local hébergé sur le port [6666]
+[10:40:45] [Server thread/INFO]: ENZO (/192.168.13.192:57358) lost connection: Déconnecté(e)
+[10:40:56] [Server thread/INFO]: ENZO (/192.168.13.192:40158) lost connection: Déconnecté(e)
+[10:41:39] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[10:42:23] [User Authenticator #1/INFO]: UUID of player Bluepy0 is 9e3c943d-a601-4e45-b812-5449133a2905
+[10:42:23] [Server thread/INFO]: Bluepy0[/192.168.13.191:49914] logged in with entity id 1263 at (3.5, 66.0, -3.5)
+[10:42:23] [Server thread/INFO]: Bluepy0 a rejoint la partie
+[10:42:23] [Render thread/INFO]: [System] [CHAT] Bluepy0 a rejoint la partie
+[10:42:27] [User Authenticator #2/WARN]: Failed to verify username but will let them in anyway!
+[10:42:28] [Server thread/INFO]: ENZO[/192.168.13.192:45600] logged in with entity id 1441 at (-7.5, 67.0, -0.5)
+[10:42:28] [Server thread/INFO]: ENZO a rejoint la partie
+[10:42:28] [Render thread/INFO]: [System] [CHAT] ENZO a rejoint la partie
+[10:43:38] [Render thread/INFO]: [System] [CHAT] Commande inconnue ou incomplète, voir l'erreur ci-dessous
+[10:43:38] [Render thread/INFO]: [System] [CHAT] teleport<-- [ICI]
+[10:43:46] [Render thread/INFO]: [System] [CHAT] Commande inconnue ou incomplète, voir l'erreur ci-dessous
+[10:43:46] [Render thread/INFO]: [System] [CHAT] ...eleport @a<-- [ICI]
+[10:43:51] [Server thread/INFO]: [Monyo17 : 3 entités se sont fait téléporter vers ENZO]
+[10:43:51] [Render thread/INFO]: [System] [CHAT] 3 entités se sont fait téléporter vers ENZO
+[10:44:08] [Render thread/INFO]: Loaded 127 advancements
+[10:44:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-3, y=69, z=-22} ji{x=-5, y=67, z=-23}
+[10:44:54] [Server thread/INFO]: ENZO a réalisé le progrès [L'âge de pierre]
+[10:44:54] [Render thread/INFO]: [System] [CHAT] ENZO a réalisé le progrès [L'âge de pierre]
+[10:45:05] [Server thread/INFO]: Bluepy0 a réalisé le progrès [L'âge de pierre]
+[10:45:05] [Render thread/INFO]: [System] [CHAT] Bluepy0 a réalisé le progrès [L'âge de pierre]
+[10:45:25] [Server thread/INFO]: [Monyo17 : Le temps a été fixé à 1000 ticks]
+[10:45:25] [Render thread/INFO]: [System] [CHAT] Le temps a été fixé à 1000 ticks
+[10:45:47] [Server thread/INFO]: ENZO a réalisé le progrès [Qualité supérieure]
+[10:45:47] [Render thread/INFO]: [System] [CHAT] ENZO a réalisé le progrès [Qualité supérieure]
+[10:46:01] [Server thread/INFO]: Bluepy0 a réalisé le progrès [Qualité supérieure]
+[10:46:01] [Render thread/INFO]: [System] [CHAT] Bluepy0 a réalisé le progrès [Qualité supérieure]
+[10:46:05] [Server thread/INFO]: ENZO a réalisé le progrès [Chasseur de monstres]
+[10:46:05] [Render thread/INFO]: [System] [CHAT] ENZO a réalisé le progrès [Chasseur de monstres]
+[10:46:35] [User Authenticator #3/WARN]: Failed to verify username but will let them in anyway!
+[10:46:35] [Server thread/INFO]: Decay[/192.168.13.198:46076] logged in with entity id 3647 at (-7.5, 68.0, 1.5)
+[10:46:35] [Server thread/INFO]: Decay a rejoint la partie
+[10:46:35] [Render thread/INFO]: [System] [CHAT] Decay a rejoint la partie
+[10:46:51] [Server thread/INFO]: Bluepy0 a réalisé le progrès [Chasseur de monstres]
+[10:46:51] [Render thread/INFO]: [System] [CHAT] Bluepy0 a réalisé le progrès [Chasseur de monstres]
+[10:47:01] [User Authenticator #4/INFO]: UUID of player Sphixio is 591cc755-3bbe-4866-a147-e816e1666e93
+[10:47:01] [Server thread/INFO]: Sphixio[/192.168.13.193:49810] logged in with entity id 3893 at (10.5, 69.0, 7.5)
+[10:47:01] [Server thread/INFO]: Sphixio a rejoint la partie
+[10:47:01] [Render thread/INFO]: [System] [CHAT] Sphixio a rejoint la partie
+[10:47:46] [Render thread/INFO]: Loaded 128 advancements
+[10:47:50] [Render thread/INFO]: Loaded 131 advancements
+[10:47:55] [Server thread/INFO]: Disconnecting Monyo17 (/192.168.13.197:40380): Ce nom est déjà pris
+[10:47:55] [Server thread/INFO]: Monyo17 (/192.168.13.197:40380) lost connection: Ce nom est déjà pris
+[10:47:55] [Server thread/WARN]: handleDisconnection() called twice
+[10:48:04] [Server thread/INFO]: Disconnecting Monyo17 (/192.168.13.197:58878): Ce nom est déjà pris
+[10:48:04] [Server thread/INFO]: Monyo17 (/192.168.13.197:58878) lost connection: Ce nom est déjà pris
+[10:48:04] [Server thread/WARN]: handleDisconnection() called twice
+[10:48:08] [Server thread/INFO]: Disconnecting Monyo17 (/192.168.13.197:58886): Ce nom est déjà pris
+[10:48:08] [Server thread/INFO]: Monyo17 (/192.168.13.197:58886) lost connection: Ce nom est déjà pris
+[10:48:08] [Server thread/WARN]: handleDisconnection() called twice
+[10:48:28] [Render thread/INFO]: Loaded 132 advancements
+[10:48:54] [Render thread/INFO]: Loaded 152 advancements
+[10:49:18] [Server thread/INFO]: Decay a réalisé le progrès [L'âge de pierre]
+[10:49:18] [Render thread/INFO]: [System] [CHAT] Decay a réalisé le progrès [L'âge de pierre]
+[10:49:23] [Server thread/INFO]: Sphixio lost connection: Déconnecté(e)
+[10:49:23] [Server thread/INFO]: Sphixio a quitté la partie
+[10:49:23] [Render thread/INFO]: [System] [CHAT] Sphixio a quitté la partie
+[10:49:50] [User Authenticator #5/INFO]: UUID of player Sphixio is 591cc755-3bbe-4866-a147-e816e1666e93
+[10:49:51] [Server thread/INFO]: Sphixio[/192.168.13.193:49602] logged in with entity id 6178 at (-42.412746910115494, 64.0, -56.395739274333344)
+[10:49:51] [Server thread/INFO]: Sphixio a rejoint la partie
+[10:49:51] [Render thread/INFO]: [System] [CHAT] Sphixio a rejoint la partie
+[10:49:54] [User Authenticator #6/WARN]: Failed to verify username but will let them in anyway!
+[10:49:55] [Server thread/INFO]: Yami[/192.168.13.197:38394] logged in with entity id 6216 at (6.5, 64.0, -9.5)
+[10:49:55] [Server thread/INFO]: Yami a rejoint la partie
+[10:49:55] [Render thread/INFO]: [System] [CHAT] Yami a rejoint la partie
+[10:49:56] [Server thread/INFO]: Decay a réalisé le progrès [Qualité supérieure]
+[10:49:56] [Render thread/INFO]: [System] [CHAT] Decay a réalisé le progrès [Qualité supérieure]
+[10:50:14] [Server thread/INFO]: Sphixio lost connection: Déconnecté(e)
+[10:50:14] [Server thread/INFO]: Sphixio a quitté la partie
+[10:50:14] [Render thread/INFO]: [System] [CHAT] Sphixio a quitté la partie
+[10:50:16] [User Authenticator #7/INFO]: UUID of player Sphixio is 591cc755-3bbe-4866-a147-e816e1666e93
+[10:50:16] [Server thread/INFO]: Sphixio[/192.168.13.193:56278] logged in with entity id 6438 at (-11.618992451694298, 58.0, -50.30000001192093)
+[10:50:16] [Server thread/INFO]: Sphixio a rejoint la partie
+[10:50:16] [Render thread/INFO]: [System] [CHAT] Sphixio a rejoint la partie
+[10:50:18] [Server thread/INFO]: Sphixio a réalisé le progrès [L'âge de pierre]
+[10:50:18] [Render thread/INFO]: [System] [CHAT] Sphixio a réalisé le progrès [L'âge de pierre]
+[10:50:28] [Server thread/INFO]: Sphixio a réalisé le progrès [Qualité supérieure]
+[10:50:28] [Render thread/INFO]: [System] [CHAT] Sphixio a réalisé le progrès [Qualité supérieure]
+[10:50:32] [Server thread/INFO]: Changing view distance to 12, from 8
+[10:50:33] [Server thread/INFO]: Changing simulation distance to 10, from 8
+[10:51:21] [User Authenticator #8/INFO]: UUID of player Zeldriii is 308aa008-508a-4413-8262-a81efe7c9f67
+[10:51:22] [Server thread/INFO]: Zeldriii[/192.168.13.194:38788] logged in with entity id 7360 at (-1.5, 67.0, -2.5)
+[10:51:22] [Server thread/INFO]: Zeldriii a rejoint la partie
+[10:51:22] [Render thread/INFO]: [System] [CHAT] Zeldriii a rejoint la partie
+[10:51:31] [Server thread/INFO]: <Zeldriii> c'est eliott
+[10:51:31] [Render thread/INFO]: [CHAT] <Zeldriii> c'est eliott
+[10:51:34] [Server thread/INFO]: <Sphixio> suce
+[10:51:34] [Render thread/INFO]: [CHAT] <Sphixio> suce
+[10:52:17] [User Authenticator #9/INFO]: UUID of player TrainMyBiscuit is 2f45cc43-f423-4b7a-af53-d5d068b69579
+[10:52:17] [Server thread/INFO]: TrainMyBiscuit[/192.168.13.195:52932] logged in with entity id 8220 at (7.5, 69.0, 7.5)
+[10:52:17] [Server thread/INFO]: TrainMyBiscuit a rejoint la partie
+[10:52:17] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a rejoint la partie
+[10:52:21] [Server thread/INFO]: <TrainMyBiscuit> negro
+[10:52:21] [Render thread/INFO]: [CHAT] <TrainMyBiscuit> negro
+[10:52:25] [Server thread/INFO]: Yami a réalisé le progrès [L'âge de pierre]
+[10:52:25] [Render thread/INFO]: [System] [CHAT] Yami a réalisé le progrès [L'âge de pierre]
+[10:52:37] [Server thread/INFO]: [Not Secure] <ENZO> mineshaft
+[10:52:37] [Render thread/INFO]: [Not Secure] [CHAT] <ENZO> mineshaft
+[10:54:05] [Render thread/INFO]: Loaded 152 advancements
+[10:54:33] [Render thread/INFO]: Loaded 159 advancements
+[10:54:50] [Server thread/INFO]: Bluepy0 s'est fait tuer par un(e) Golem de fer
+[10:54:50] [Render thread/INFO]: [System] [CHAT] Bluepy0 s'est fait tuer par un(e) Golem de fer
+[10:55:24] [Server thread/INFO]: Zeldriii a réalisé le progrès [L'âge de pierre]
+[10:55:24] [Render thread/INFO]: [System] [CHAT] Zeldriii a réalisé le progrès [L'âge de pierre]
+[10:55:38] [Server thread/INFO]: [Monyo17 : Le temps a été fixé à 1000 ticks]
+[10:55:38] [Render thread/INFO]: [System] [CHAT] Le temps a été fixé à 1000 ticks
+[10:55:51] [Server thread/INFO]: Zeldriii s'est fait tuer
+[10:55:51] [Server thread/INFO]: [Sphixio : Zeldriii a été anéanti(e)]
+[10:55:51] [Render thread/INFO]: [System] [CHAT] Zeldriii s'est fait tuer
+[10:55:51] [Render thread/INFO]: [System] [CHAT] [Sphixio : Zeldriii a été anéanti(e)]
+[10:56:06] [Server thread/INFO]: [Bluepy0 : La règle playersSleepingPercentage est maintenant définie sur : 1]
+[10:56:06] [Render thread/INFO]: [System] [CHAT] [Bluepy0 : La règle playersSleepingPercentage est maintenant définie sur : 1]
+[10:56:20] [Server thread/INFO]: Sphixio a réalisé le progrès [Chasseur de monstres]
+[10:56:20] [Render thread/INFO]: [System] [CHAT] Sphixio a réalisé le progrès [Chasseur de monstres]
+[10:56:36] [Server thread/INFO]: TrainMyBiscuit a réalisé le progrès [Des diamants !]
+[10:56:36] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a réalisé le progrès [Des diamants !]
+[10:56:36] [Server thread/INFO]: [TrainMyBiscuit : Don de 1 [Diamant] à TrainMyBiscuit]
+[10:56:36] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : Don de 1 [Diamant] à TrainMyBiscuit]
+[10:56:55] [Server thread/INFO]: Zeldriii a réalisé le progrès [Qualité supérieure]
+[10:56:55] [Render thread/INFO]: [System] [CHAT] Zeldriii a réalisé le progrès [Qualité supérieure]
+[10:57:06] [Server thread/INFO]: TrainMyBiscuit a réalisé le progrès [L'âge de pierre]
+[10:57:06] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a réalisé le progrès [L'âge de pierre]
+[10:57:24] [Server thread/INFO]: TrainMyBiscuit a réalisé le progrès [Qualité supérieure]
+[10:57:24] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a réalisé le progrès [Qualité supérieure]
+[10:57:31] [Server thread/INFO]: ENZO a réalisé le progrès [L'âge du fer]
+[10:57:31] [Render thread/INFO]: [System] [CHAT] ENZO a réalisé le progrès [L'âge du fer]
+[10:57:44] [Server thread/INFO]: ENZO a réalisé le progrès [Bonne pioche !]
+[10:57:44] [Render thread/INFO]: [System] [CHAT] ENZO a réalisé le progrès [Bonne pioche !]
+[10:58:52] [Server thread/INFO]: [TrainMyBiscuit : L'effet Rapidité a été appliqué à Monyo17]
+[10:58:52] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : L'effet Rapidité a été appliqué à Monyo17]
+[10:58:52] [Server thread/INFO]: Monyo17 lost connection: Déconnecté(e)
+[10:58:52] [Server thread/INFO]: Monyo17 a quitté la partie
+[10:58:53] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[10:58:54] [Server thread/INFO]: Stopping server
+[10:58:54] [Server thread/INFO]: Saving players
+[10:58:54] [Server thread/INFO]: Saving worlds
+[10:58:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[10:59:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[10:59:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[10:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[10:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:59:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:00:05] [Render thread/INFO]: Loaded 1370 recipes
+[11:00:05] [Render thread/INFO]: Loaded 1481 advancements
+[11:00:05] [Server thread/INFO]: Starting integrated minecraft server version 1.21.4
+[11:00:05] [Server thread/INFO]: Generating keypair
+[11:00:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:00:06] [Render thread/INFO]: Préparation de la zone d'apparition : 0 %
+[11:00:06] [Render thread/INFO]: Préparation de la zone d'apparition : 0 %
+[11:00:06] [Render thread/INFO]: Préparation de la zone d'apparition : 14 %
+[11:00:07] [Render thread/INFO]: Préparation de la zone d'apparition : 61 %
+[11:00:07] [Server thread/INFO]: Changing view distance to 12, from 10
+[11:00:07] [Server thread/INFO]: Changing simulation distance to 10, from 0
+[11:00:07] [Render thread/INFO]: Time elapsed: 1609 ms
+[11:00:08] [Server thread/INFO]: Monyo17[local:E:7e399342] logged in with entity id 17257 at (197.28589735596913, 35.0, -87.53725810804502)
+[11:00:08] [Server thread/INFO]: Monyo17 a rejoint la partie
+[11:00:08] [Render thread/INFO]: Loaded 159 advancements
+[11:00:09] [Render thread/WARN]: Received passengers for unknown entity
+[11:00:10] [Server thread/INFO]: Monyo17 a fait une terrible chute
+[11:00:10] [Render thread/INFO]: [System] [CHAT] Monyo17 a fait une terrible chute
+[11:00:23] [Server thread/INFO]: Saving and pausing game...
+[11:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[11:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[11:00:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[11:00:27] [Render thread/INFO]: Using default channel type
+[11:00:27] [Render thread/INFO]: Started serving on 6666
+[11:00:27] [Render thread/INFO]: [System] [CHAT] Jeu local hébergé sur le port [6666]
+[11:00:28] [User Authenticator #10/WARN]: Failed to verify username but will let them in anyway!
+[11:00:29] [Server thread/INFO]: Decay[/192.168.13.198:58094] logged in with entity id 18396 at (222.53941040004537, 62.0, -107.36678860397937)
+[11:00:29] [Server thread/INFO]: Decay a rejoint la partie
+[11:00:29] [Render thread/INFO]: [System] [CHAT] Decay a rejoint la partie
+[11:00:29] [User Authenticator #11/WARN]: Failed to verify username but will let them in anyway!
+[11:00:29] [Server thread/INFO]: Yami[/192.168.13.197:43502] logged in with entity id 18552 at (202.86672552766018, 87.0, 24.96095301746638)
+[11:00:29] [Server thread/INFO]: Yami a rejoint la partie
+[11:00:29] [Render thread/INFO]: [System] [CHAT] Yami a rejoint la partie
+[11:00:32] [User Authenticator #12/WARN]: Failed to verify username but will let them in anyway!
+[11:00:33] [Server thread/INFO]: ENZO[/192.168.13.192:42524] logged in with entity id 18734 at (-156.69999998807907, 28.0, -256.30000001192093)
+[11:00:33] [Server thread/INFO]: ENZO a rejoint la partie
+[11:00:33] [Render thread/INFO]: [System] [CHAT] ENZO a rejoint la partie
+[11:00:33] [User Authenticator #13/WARN]: Failed to verify username but will let them in anyway!
+[11:00:33] [Server thread/INFO]: TrainMyBiscuit[/192.168.13.195:46472] logged in with entity id 18781 at (-3.5, 73.0, -6.5)
+[11:00:33] [Server thread/INFO]: TrainMyBiscuit a rejoint la partie
+[11:00:33] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a rejoint la partie
+[11:00:37] [Server thread/INFO]: [TrainMyBiscuit : L'effet Rapidité a été appliqué à Monyo17]
+[11:00:37] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : L'effet Rapidité a été appliqué à Monyo17]
+[11:00:43] [User Authenticator #14/INFO]: UUID of player Bluepy0 is 9e3c943d-a601-4e45-b812-5449133a2905
+[11:00:43] [Server thread/INFO]: Bluepy0[/192.168.13.191:44572] logged in with entity id 19147 at (-547.7083964953093, 77.0, 119.28023236305715)
+[11:00:43] [Server thread/INFO]: Bluepy0 a rejoint la partie
+[11:00:43] [Render thread/INFO]: [System] [CHAT] Bluepy0 a rejoint la partie
+[11:00:55] [User Authenticator #15/INFO]: UUID of player Zeldriii is 308aa008-508a-4413-8262-a81efe7c9f67
+[11:00:55] [Server thread/INFO]: Zeldriii[/192.168.13.194:54512] logged in with entity id 19857 at (42.659050529450084, 66.0, 368.33768775240907)
+[11:00:55] [Server thread/INFO]: Zeldriii a rejoint la partie
+[11:00:55] [Render thread/INFO]: [System] [CHAT] Zeldriii a rejoint la partie
+[11:00:55] [Server thread/INFO]: TrainMyBiscuit lost connection: Déconnecté(e)
+[11:00:55] [Server thread/INFO]: TrainMyBiscuit a quitté la partie
+[11:00:56] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a quitté la partie
+[11:01:03] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[11:01:03] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[11:01:04] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.puffer_fish.ambient
+[11:01:04] [Render thread/INFO]: Loaded 159 advancements
+[11:01:41] [User Authenticator #16/INFO]: UUID of player TrainMyBiscuit is 2f45cc43-f423-4b7a-af53-d5d068b69579
+[11:01:42] [Server thread/INFO]: TrainMyBiscuit[/192.168.13.195:43524] logged in with entity id 21465 at (-6.547676688507422, 62.0, 184.80139198779446)
+[11:01:42] [Server thread/INFO]: TrainMyBiscuit a rejoint la partie
+[11:01:42] [Render thread/INFO]: [System] [CHAT] TrainMyBiscuit a rejoint la partie
+[11:01:59] [Server thread/INFO]: [TrainMyBiscuit : Tous les effets ont été retirés de Monyo17]
+[11:01:59] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : Tous les effets ont été retirés de Monyo17]
+[11:02:03] [Server thread/INFO]: Decay a réalisé le progrès [L'âge du fer]
+[11:02:03] [Render thread/INFO]: [System] [CHAT] Decay a réalisé le progrès [L'âge du fer]
+[11:02:06] [Server thread/INFO]: Yami a réalisé le progrès [Qualité supérieure]
+[11:02:06] [Render thread/INFO]: [System] [CHAT] Yami a réalisé le progrès [Qualité supérieure]
+[11:02:13] [Server thread/INFO]: Monyo17 s'est fait tuer
+[11:02:13] [Server thread/INFO]: [Monyo17 : Monyo17 a été anéanti(e)]
+[11:02:13] [Render thread/INFO]: [System] [CHAT] Monyo17 s'est fait tuer
+[11:02:13] [Render thread/INFO]: [System] [CHAT] Monyo17 a été anéanti(e)
+[11:02:16] [Server thread/INFO]: [TrainMyBiscuit : L'effet Sauts améliorés a été appliqué à Monyo17]
+[11:02:16] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : L'effet Sauts améliorés a été appliqué à Monyo17]
+[11:02:23] [Server thread/INFO]: [TrainMyBiscuit : Tous les effets ont été retirés de Monyo17]
+[11:02:23] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : Tous les effets ont été retirés de Monyo17]
+[11:02:25] [Server thread/INFO]: Decay s'est fait tuer
+[11:02:25] [Server thread/INFO]: [Monyo17 : Decay a été anéanti(e)]
+[11:02:25] [Render thread/INFO]: [System] [CHAT] Decay s'est fait tuer
+[11:02:25] [Render thread/INFO]: [System] [CHAT] Decay a été anéanti(e)
+[11:02:38] [Server thread/INFO]: Monyo17 a fait une terrible chute
+[11:02:38] [Render thread/INFO]: [System] [CHAT] Monyo17 a fait une terrible chute
+[11:03:25] [Render thread/INFO]: Loaded 169 advancements
+[11:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[11:05:54] [Render thread/INFO]: Loaded 172 advancements
+[11:06:37] [Render thread/INFO]: Loaded 172 advancements
+[11:06:46] [Server thread/INFO]: [TrainMyBiscuit : Zeldriii s'est fait téléporter en 181.861807, 63.000000, 258.360649]
+[11:06:46] [Server thread/WARN]: Zeldriii moved too quickly! 30.21498323167819,-1.8642356872558707,67.2076196116376
+[11:06:46] [Render thread/INFO]: [System] [CHAT] [TrainMyBiscuit : Zeldriii s'est fait téléporter en 181.861807, 63.000000, 258.360649]
+[11:07:04] [Server thread/INFO]: Bluepy0 a réalisé le progrès [Bonne nuit les petits]
+[11:07:04] [Render thread/INFO]: [System] [CHAT] Bluepy0 a réalisé le progrès [Bonne nuit les petits]
+[11:07:57] [Server thread/INFO]: Bluepy0 lost connection: Déconnecté(e)
+[11:07:57] [Server thread/INFO]: Bluepy0 a quitté la partie
+[11:07:57] [Render thread/INFO]: [System] [CHAT] Bluepy0 a quitté la partie
+[11:08:03] [Server thread/INFO]: Decay lost connection: Déconnecté(e)
+[11:08:03] [Server thread/INFO]: Decay a quitté la partie
+[11:08:03] [Render thread/INFO]: [System] [CHAT] Decay a quitté la partie
+[11:08:03] [Server thread/INFO]: Yami lost connection: Déconnecté(e)
+[11:08:03] [Server thread/INFO]: Yami a quitté la partie
+[11:08:03] [Render thread/INFO]: [System] [CHAT] Yami a quitté la partie
+[11:08:06] [Server thread/INFO]: Monyo17 lost connection: Internal Exception: java.nio.channels.ClosedChannelException
+[11:08:06] [Server thread/INFO]: Monyo17 a quitté la partie
+[11:08:09] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[11:08:10] [Server thread/INFO]: Stopping server
+[11:08:10] [Server thread/INFO]: Saving players
+[11:08:10] [Server thread/INFO]: Saving worlds
+[11:08:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[11:08:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[11:08:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[11:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[11:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:08:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:08:27] [Render thread/INFO]: Stopping!

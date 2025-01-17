@@ -9,509 +9,406 @@
     0.002 D Binary path                :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin"
     0.002 D Application root path      :  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1"
     0.002 D <> Paths set.
-    0.012 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
-    0.015 D <> Settings loaded.
-    0.038 D Detecting proxy settings...
-    0.038 D Using no proxy is an option!
-    0.038 D <> Network done.
-    0.041 D Loading Qt Language File for fr ...
-    0.041 D Loading Application Language File for fr ...
-    0.041 D Your language is "fr"
-    0.041 D <> Translations loaded.
-    0.042 D Started watching  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
-    0.042 D Sorting icon list...
-    0.042 D <> Instance icons intialized.
-    0.043 D <> Icon themes initialized.
-    0.043 D Determining System Theme...
-    0.043 D System theme seems to be: "qt5ct-style"
-    0.043 D Considering theme from theme factory: "cleanlooks"
-    0.043 D Considering theme from theme factory: "gtk2"
-    0.043 D Considering theme from theme factory: "cde"
-    0.043 D Considering theme from theme factory: "motif"
-    0.043 D Considering theme from theme factory: "plastique"
-    0.043 D Considering theme from theme factory: "qt5ct-style"
-    0.043 D System theme has been determined to be: "qt5ct-style"
-    0.043 D Loading theme "custom"
-    0.043 D <> Widget themes initialized.
-    0.043 D Instance path              :  "instances"
-    0.043 D Loading Instances...
-    0.043 D Discovering instances in "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
-    0.043 D Found instance ID "1.21.4"
-    0.043 D Found instance ID "1.8.9"
-    0.043 D Will load group list now.
-    0.043 D Group list loaded.
-    0.044 D Loaded instance  "1.21.4"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
-    0.044 D Loaded instance  "1.8.9"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
-    0.044 D <> Instances loaded.
-    0.044 D Loading accounts...
-    0.044 D AccountList: Queued default account with internal ID  "b14b37b7b3234323990c25898fb266bc"  to refresh first
-    0.044 D Task "MSASilent(0x55cc10570490)" starting for the first time
-    0.044 D AuthFlow: "Connexion avec un compte Microsoft."
-    0.044 D DeviceFlow::refresh: Token: ... "aUFRVI$"
-    0.049 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "b14b37b7b3234323990c25898fb266bc"
-    0.049 D <> Accounts loaded.
-    0.049 D <> Cache initialized.
-    0.049 D Downloading Translations Index...
-    0.050 W Removing cache entry because of old age!
-    0.050 D Task "NetJob(Translations Index)" starting for the first time
-    0.050 D <> Icon theme set.
-    0.050 D <> Application theme set.
-    0.066 D Task "JavaListLoadTask(0x55cc106c9220)" starting for the first time
-    0.066 D Linux Java detection incomplete - defaulting to "java"
-    0.066 D Probing the following Java paths: 
-    0.066 D   "java"
-    0.066 D   "/usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
-    0.066 D   "/usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-11/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-11/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-17/jre/bin/java"
-    0.066 D   "/usr/lib/jvm/openjdk-17/bin/java"
-    0.066 D   ""
-    0.066 D Task "JavaCheckerJob(0x55cc106cb5a0)" starting for the first time
-    0.066 D "Java detection"  started.
-    0.066 D "Running java checker: java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.067 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.068 D "Running java checker: /usr/lib/jvm/java-11-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.069 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.069 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.070 D "Running java checker: /usr/lib/jvm/openjdk-11/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.071 D "Running java checker: /usr/lib/jvm/openjdk-11/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.071 D "Running java checker: /usr/lib/jvm/openjdk-17/jre/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D "Running java checker: /usr/lib/jvm/openjdk-17/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D "Running java checker: -jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.090 D Java checker has failed to start.
-    0.090 D Process environment:
-    0.090 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.090 D Native environment:
-    0.090 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.091 D "Java detection" progress: 1 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D "Java detection" progress: 2 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D "Java detection" progress: 3 / 10
-    0.154 D Java checker has failed to start.
-    0.154 D Process environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.154 D Native environment:
-    0.154 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 4 / 10
-    0.155 D Java checker has failed to start.
-    0.155 D Process environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D Native environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 5 / 10
-    0.155 D Java checker has failed to start.
-    0.155 D Process environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D Native environment:
-    0.155 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.155 D "Java detection" progress: 6 / 10
-    0.156 D Task "Net::Download(0x55cc106971e0)" starting for the first time
-    0.156 D Downloading  "https://i18n.polymc.org/index_v2.json"
-    0.157 D Java checker has failed to start.
-    0.157 D Process environment:
-    0.157 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.157 D Native environment:
-    0.157 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=9842", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
-    0.157 D "Java detection" progress: 7 / 10
-    0.157 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.158 D Loading Qt Language File for fr ...
-    0.158 D Loading Application Language File for fr ...
-    0.165 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.165 W STDERR ""
-    0.165 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.166 D Java checker succeeded.
-    0.166 D "Java detection" progress: 8 / 10
-    0.166 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.166 W STDERR ""
-    0.166 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.166 D Java checker succeeded.
-    0.166 D "Java detection" progress: 9 / 10
-    0.170 D STDOUT "os.arch=amd64\njava.version=11.0.25\njava.vendor=Ubuntu\n"
-    0.170 W STDERR ""
-    0.170 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.170 D Java checker succeeded.
-    0.170 D "Java detection" progress: 10 / 10
-    0.170 D Task "JavaCheckerJob(0x55cc106cb5a0)" succeeded
-    0.170 D Found the following valid Java installations:
-    0.171 D   "17.0.13" "amd64" "java"
-    0.171 D   "11.0.25" "amd64" "/usr/lib/jvm/java-11-openjdk-amd64/bin/java"
-    0.171 D   "17.0.13" "amd64" "/usr/lib/jvm/java-17-openjdk-amd64/bin/java"
-    0.171 D Task "JavaListLoadTask(0x55cc106c9220)" succeeded
-    0.172 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-Xms512m -Xmx4096m -jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-    0.394 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-    0.394 W STDERR ""
-    0.394 D Java checker finished with status  QProcess::NormalExit  exit code  0
-    0.394 D Java checker succeeded.
-    0.455 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
-    0.455 D Task "NetJob(Translations Index)" succeeded
-    0.456 D Got translations index!
-    0.458 W Removing cache entry because of old age!
-    0.458 D Task "NetJob(Translation for fr)" starting for the first time
-    0.458 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.461 D Loading Qt Language File for fr ...
-    0.461 D Loading Application Language File for fr ...
-    0.461 D Task "Net::Download(0x55cc1057ee80)" starting for the first time
-    0.462 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    0.496 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.497 D Loading Qt Language File for fr ...
-    0.498 D Loading Application Language File for fr ...
-    0.546 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
-    0.546 D Task "NetJob(Translation for fr)" succeeded
-    0.546 D Got translation: "fr"
-    0.547 D Loading Qt Language File for fr ...
-    0.547 D Loading Application Language File for fr ...
-    0.573 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
-    0.574 D Loading Qt Language File for fr ...
-    0.574 D Loading Application Language File for fr ...
-    0.738 D DeviceFlow::setLinked: true
-    0.739 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
-    0.739 D First layer of XBox auth ... commencing.
-    0.739 D New token expires in QDateTime(2025-01-14 21:16:44.523 UTC Qt::UTC) seconds
-    1.769 D Parsing "UToken" :
-    1.770 D "UToken" is valid.
-    1.770 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
-    1.770 D Getting authorization token for  "http://xboxlive.com"
-    2.478 D Parsing "Xbox" :
-    2.479 D "Xbox" is valid.
-    2.479 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
-    2.479 D Getting authorization token for  "rp://api.minecraftservices.com/"
-    2.686 D Parsing "Mojang" :
-    2.686 D "Mojang" is valid.
-    2.686 D AuthFlow: "Accès aux services de Mojang."
-    2.687 D Getting Minecraft access token...
-    3.610 D Parsing Mojang response...
-    3.611 D Mojang response is valid.
-    3.611 D AuthFlow: "Récupération du profil Xbox."
-    3.612 D Getting Xbox profile...
-    4.633 D AuthFlow: "Détermination de la propriété du jeu."
-    4.634 D Getting entitlements...
-    5.141 D Parsing Minecraft entitlements...
-    5.141 D AuthFlow: "Récupération du profil Minecraft."
-    5.475 D Parsing Minecraft profile...
-    5.476 D AuthFlow: "Récupération du skin."
-    5.559 D Task "MSASilent(0x55cc10570490)" succeeded
-    5.559 D Writing account list to "accounts.json"
-    5.560 D Building JSON data structure.
-    5.560 D Building account array.
-    5.560 D Writing account list to file.
-    5.571 D Saved account list to "accounts.json"
-    5.571 D RefreshSchedule: Background account refresh succeeded
-    9.092 D Wizard result = 1
-    9.104 D Reloading news.
-    9.104 D Task "NetJob(News RSS Feed)" starting for the first time
-    9.106 D Task "ComponentUpdateTask(0x55cc1095bcd0)" starting for the first time
-    9.106 D Loading components
-    9.114 D Component list save is scheduled for "1.21.4"
-    9.120 D Resolving dependencies
-    9.120 D "Req: org.lwjgl3" Is met.
-    9.120 D Task "ComponentUpdateTask(0x55cc1095bcd0)" succeeded
-    9.120 D Component list update/resolve task succeeded for "1.21.4"
-    9.128 D <> Main window shown.
-    9.134 D Task "Net::Download(0x55cc10934a30)" starting for the first time
-    9.135 D Downloading  "https://polymc.org/feed/feed.xml"
-    9.385 D Download succeeded: "https://polymc.org/feed/feed.xml"
-    9.385 D Task "NetJob(News RSS Feed)" succeeded
-    9.385 D Finished loading RSS feed.
-    9.392 D Loaded news entry "PolyMC 6.1, now available"
-    9.393 D Loaded news entry "PolyMC 6.0, now available"
-    9.393 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
-    9.393 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
-    9.393 D Loaded news entry "Major Bugfix 1.4.3, now available"
-    9.393 D Loaded news entry "What happened, and the next step."
-    9.393 D Loaded news entry "PolyMC Update 1.4.2, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.4.1, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.4.0, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.3.2, now available"
-    9.393 D Loaded news entry "PolyMC Update 1.3.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.3.0, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
-    9.394 D Loaded news entry "PolyMC Update 1.2.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.2.0, now available"
-    9.394 D Loaded news entry "Rewrite in electron (April Fools 2022)"
-    9.394 D Loaded news entry "PolyMC Update 1.1.1, now available"
-    9.394 D Loaded news entry "PolyMC Update 1.1.0, now available"
-    9.394 D Loaded news entry "Moving on"
-    9.394 D Loaded news entry "Modrinth support and Mod downloading"
-    9.394 D Loaded news entry "New maintainers and step down."
-    9.394 D News loading succeeded.
-   11.332 D Task "LaunchController(0x7fe610177f90)" starting for the first time
-   11.344 D Instance-type specific settings were loaded!
-   11.584 D Task "LaunchTask(0x55cc10a27050)" starting for the first time
-   11.584 D Task "TextPrint(0x55cc10b49d50)" starting for the first time
-   11.586 D Task "TextPrint(0x55cc10b49d50)" succeeded
-   11.587 D Task "TextPrint(0x55cc10b47e80)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10b47e80)" succeeded
-   11.587 D Task "TextPrint(0x55cc10b47f30)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10b47f30)" succeeded
-   11.587 D Task "TextPrint(0x55cc10a26f10)" starting for the first time
-   11.587 D Task "TextPrint(0x55cc10a26f10)" succeeded
-   11.587 D Task "CheckJava(0x55cc109867f0)" starting for the first time
-   11.588 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-   11.655 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-   11.655 W STDERR ""
-   11.655 D Java checker finished with status  QProcess::NormalExit  exit code  0
-   11.656 D Java checker succeeded.
-   11.658 C "Error changing setting JavaVendor. Setting doesn't exist."
-   11.659 D Task "CheckJava(0x55cc109867f0)" succeeded
-   11.659 D Task "CreateGameFolders(0x55cc10a28440)" starting for the first time
-   11.659 D Task "CreateGameFolders(0x55cc10a28440)" succeeded
-   11.659 D Task "ClaimAccount(0x55cc109cda80)" starting for the first time
-   11.659 D Writing account list to "accounts.json"
-   11.659 D Building JSON data structure.
-   11.659 D Building account array.
-   11.659 D Writing account list to file.
-   11.660 D Saved account list to "accounts.json"
-   11.660 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
-   11.660 D Task "ClaimAccount(0x55cc109cda80)" succeeded
-   11.660 D Task "Update(0x55cc10a28870)" starting for the first time
-   11.661 D Task "MinecraftUpdate(0x55cc109c48e0)" starting for the first time
-   11.661 D Component list save performed now for "1.21.4"
-   11.662 D Task "ComponentUpdateTask(0x55cc10a4e0c0)" starting for the first time
-   11.662 D Loading components
-   11.662 D Index is already loaded
-   11.662 D Component list save is scheduled for "1.21.4"
-   11.662 D Resolving dependencies
-   11.662 D "Req: org.lwjgl3" Is met.
-   11.662 D Task "ComponentUpdateTask(0x55cc10a4e0c0)" succeeded
-   11.662 D Component list update/resolve task succeeded for "1.21.4"
-   11.662 D Task "FoldersTask(0x55cc10a4dc30)" starting for the first time
-   11.662 D Task "FoldersTask(0x55cc10a4dc30)" succeeded
-   11.662 D Task "LibrariesTask(0x55cc10a4e5f0)" starting for the first time
-   11.662 D "1.21.4" : downloading libraries
-   11.662 D Applying "org.lwjgl3" GOOD
-   11.662 D Applying "net.minecraft" GOOD
-   11.821 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
-   11.822 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
-   11.822 D Task "LibrariesTask(0x55cc10a4e5f0)" succeeded
-   11.822 D Task "FMLLibrariesTask(0x55cc109ca030)" starting for the first time
-   11.822 D Task "FMLLibrariesTask(0x55cc109ca030)" succeeded
-   11.822 D Task "AssetUpdateTask(0x55cc109c53d0)" starting for the first time
-   11.823 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
-   11.823 D "1.21.4" : Starting asset index download
-   11.823 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
-   11.824 D Task "Net::Download(0x55cc10a4c6c0)" starting for the first time
-   11.824 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   12.192 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-   12.211 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
-   12.211 D "1.21.4" : Finished asset index download
-   12.253 D Task "AssetUpdateTask(0x55cc109c53d0)" succeeded
-   12.253 D Task "MinecraftUpdate(0x55cc109c48e0)" succeeded
-   12.253 D Task "Update(0x55cc10a28870)" succeeded
-   12.254 D Task "ModMinecraftJar(0x55cc109cdc80)" starting for the first time
-   12.254 D Task "ModMinecraftJar(0x55cc109cdc80)" succeeded
-   12.254 D Task "ScanModFolders(0x55cc109ce300)" starting for the first time
-   12.256 D Task "ScanModFolders(0x55cc109ce300)" succeeded
-   12.256 D Task "PrintInstanceInfo(0x55cc10555b50)" starting for the first time
-   12.888 D Task "PrintInstanceInfo(0x55cc10555b50)" succeeded
-   12.888 D Task "ExtractNatives(0x55cc10b43bb0)" starting for the first time
-   12.888 D Task "ExtractNatives(0x55cc10b43bb0)" succeeded
-   12.888 D Task "ReconstructAssets(0x55cc10b44230)" starting for the first time
-   12.889 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
-   12.896 D Task "ReconstructAssets(0x55cc10b44230)" succeeded
-   12.897 D Task "VerifyJavaInstall(0x55cc10b448b0)" starting for the first time
-   12.897 C Task "VerifyJavaInstall(0x55cc10b448b0)" failed:  "Incompatible Java major version"
-   12.897 D Writing account list to "accounts.json"
-   12.897 D Building JSON data structure.
-   12.897 D Building account array.
-   12.897 D Writing account list to file.
-   12.898 D Saved account list to "accounts.json"
-   12.899 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
-   12.903 C Task "LaunchTask(0x55cc10a27050)" failed:  "Incompatible Java major version"
-   12.943 D Component list save performed now for "1.21.4"
-   12.943 D Task "ComponentUpdateTask(0x55cc10e333e0)" starting for the first time
-   12.943 D Loading components
-   12.943 D Index is already loaded
-   12.943 D Component list save is scheduled for "1.21.4"
-   12.943 D Resolving dependencies
-   12.943 D "Req: org.lwjgl3" Is met.
-   12.943 D Task "ComponentUpdateTask(0x55cc10e333e0)" succeeded
-   12.944 D Component list update/resolve task succeeded for "1.21.4"
-   12.945 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" starting for the first time
-   12.961 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.962 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e76dc0 name="" role=Client obj=QSpinBox(0x55cc10e765b0, name = "windowWidthSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e776e0 name="" role=Client obj=QSpinBox(0x55cc10e75d30, name = "windowHeightSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e696e0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e66a00, name = "minMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e67280 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e65150, name = "maxMemSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6a190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10e6b110, name = "permGenSpinBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e63930 name="Installation Java" role=Client obj=QLineEdit(0x55cc10e636a0, name = "javaPathTextBox")"focusable|invisible")
-   12.967 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e6e410 name="Arguments Java" role=Client childc=3 obj=QPlainTextEdit(0x55cc10e6ea50, name = "jvmArgsTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e7e3a0 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x55cc10e7d5a0, name = "preLaunchCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e817a0 name="Commande wrapper :" role=Client obj=QLineEdit(0x55cc10e81730, name = "wrapperCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e7fe10 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x55cc10e7e400, name = "postExitCmdTextBox")"focusable|invisible")
-   12.968 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e8e150 name="Définir un serveur à rejoindre au lancement" role=Client obj=QLineEdit(0x55cc10e8ded0, name = "serverJoinAddress")"focusable|invisible")
-   13.006 D Applying "org.lwjgl3" GOOD
-   13.006 D Applying "net.minecraft" GOOD
-   13.023 C Task "LaunchController(0x7fe610177f90)" failed:  "Incompatible Java major version"
-   13.032 D Task "Net::Download(0x55cc10dc0f60)" starting for the first time
-   13.032 D Downloading  "https://meta.polymc.org/v1/org.lwjgl3/index.json"
-   13.549 D Download succeeded: "https://meta.polymc.org/v1/org.lwjgl3/index.json"
-   13.550 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" succeeded
-   17.693 D Component list save performed now for "1.21.4"
-   43.681 D [HttpMetaCache] Saving metacache with 20 entries
-  246.308 D Task "LaunchController(0x55cc109c7240)" starting for the first time
-  246.722 D Task "LaunchTask(0x55cc10573ae0)" starting for the first time
-  246.725 D Task "TextPrint(0x55cc10958690)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc10958690)" succeeded
-  246.727 D Task "TextPrint(0x55cc110edfd0)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc110edfd0)" succeeded
-  246.727 D Task "TextPrint(0x55cc109c6e00)" starting for the first time
-  246.727 D Task "TextPrint(0x55cc109c6e00)" succeeded
-  246.727 D Task "TextPrint(0x55cc10f85b90)" starting for the first time
-  246.728 D Task "TextPrint(0x55cc10f85b90)" succeeded
-  246.728 D Task "CheckJava(0x55cc10c74800)" starting for the first time
-  246.728 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
-  246.792 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
-  246.792 W STDERR ""
-  246.792 D Java checker finished with status  QProcess::NormalExit  exit code  0
-  246.792 D Java checker succeeded.
-  246.794 C "Error changing setting JavaVendor. Setting doesn't exist."
-  246.795 D Task "CheckJava(0x55cc10c74800)" succeeded
-  246.795 D Task "CreateGameFolders(0x55cc10d40f70)" starting for the first time
-  246.795 D Task "CreateGameFolders(0x55cc10d40f70)" succeeded
-  246.795 D Task "ClaimAccount(0x55cc10c72d10)" starting for the first time
-  246.795 D Writing account list to "accounts.json"
-  246.795 D Building JSON data structure.
-  246.795 D Building account array.
-  246.795 D Writing account list to file.
-  246.796 D Saved account list to "accounts.json"
-  246.796 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
-  246.796 D Task "ClaimAccount(0x55cc10c72d10)" succeeded
-  246.796 D Task "Update(0x55cc110c9ce0)" starting for the first time
-  246.797 D Task "MinecraftUpdate(0x55cc106cdf00)" starting for the first time
-  246.797 D Task "ComponentUpdateTask(0x55cc10dae5b0)" starting for the first time
-  246.797 D Loading components
-  246.797 D Index is already loaded
-  246.797 D Component list save is scheduled for "1.21.4"
-  246.797 D Resolving dependencies
-  246.797 D "Req: org.lwjgl3" Is met.
-  246.797 D Task "ComponentUpdateTask(0x55cc10dae5b0)" succeeded
-  246.797 D Component list update/resolve task succeeded for "1.21.4"
-  246.797 D Task "FoldersTask(0x55cc110e0fd0)" starting for the first time
-  246.797 D Task "FoldersTask(0x55cc110e0fd0)" succeeded
-  246.797 D Task "LibrariesTask(0x55cc1113c050)" starting for the first time
-  246.797 D "1.21.4" : downloading libraries
-  246.797 D Applying "org.lwjgl3" GOOD
-  246.797 D Applying "net.minecraft" GOOD
-  246.798 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
-  246.801 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
-  246.801 D Task "LibrariesTask(0x55cc1113c050)" succeeded
-  246.801 D Task "FMLLibrariesTask(0x55cc10a266b0)" starting for the first time
-  246.801 D Task "FMLLibrariesTask(0x55cc10a266b0)" succeeded
-  246.801 D Task "AssetUpdateTask(0x55cc10a26f10)" starting for the first time
-  246.801 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
-  246.801 D "1.21.4" : Starting asset index download
-  246.801 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
-  246.802 D Task "Net::Download(0x55cc10c5d910)" starting for the first time
-  246.802 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-  247.036 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
-  247.052 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
-  247.052 D "1.21.4" : Finished asset index download
-  247.097 D Task "AssetUpdateTask(0x55cc10a26f10)" succeeded
-  247.097 D Task "MinecraftUpdate(0x55cc106cdf00)" succeeded
-  247.097 D Task "Update(0x55cc110c9ce0)" succeeded
-  247.098 D Task "ModMinecraftJar(0x55cc1113f110)" starting for the first time
-  247.098 D Task "ModMinecraftJar(0x55cc1113f110)" succeeded
-  247.098 D Task "ScanModFolders(0x55cc109c4bb0)" starting for the first time
-  247.100 D Task "ScanModFolders(0x55cc109c4bb0)" succeeded
-  247.100 D Task "PrintInstanceInfo(0x55cc10a85a00)" starting for the first time
-  247.747 D Task "PrintInstanceInfo(0x55cc10a85a00)" succeeded
-  247.747 D Task "ExtractNatives(0x55cc10982650)" starting for the first time
-  247.747 D Task "ExtractNatives(0x55cc10982650)" succeeded
-  247.747 D Task "ReconstructAssets(0x55cc10e33c90)" starting for the first time
-  247.747 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
-  247.755 D Task "ReconstructAssets(0x55cc10e33c90)" succeeded
-  247.756 D Task "VerifyJavaInstall(0x55cc109c6c90)" starting for the first time
-  247.756 C Task "VerifyJavaInstall(0x55cc109c6c90)" failed:  "Incompatible Java major version"
-  247.756 D Writing account list to "accounts.json"
-  247.756 D Building JSON data structure.
-  247.756 D Building account array.
-  247.756 D Writing account list to file.
-  247.766 D Saved account list to "accounts.json"
-  247.767 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
-  247.775 C Task "LaunchTask(0x55cc10573ae0)" failed:  "Incompatible Java major version"
-  247.790 D Component list save performed now for "1.21.4"
-  247.791 D Task "ComponentUpdateTask(0x55cc10dec190)" starting for the first time
-  247.791 D Loading components
-  247.791 D Index is already loaded
-  247.791 D Component list save is scheduled for "1.21.4"
-  247.791 D Resolving dependencies
-  247.791 D "Req: org.lwjgl3" Is met.
-  247.791 D Task "ComponentUpdateTask(0x55cc10dec190)" succeeded
-  247.791 D Component list update/resolve task succeeded for "1.21.4"
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.799 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.800 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc114ede70 name="" role=Client obj=QSpinBox(0x55cc114ed6f0, name = "windowWidthSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.801 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10e103a0 name="" role=Client obj=QSpinBox(0x55cc114eee30, name = "windowHeightSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a24190 name="Mémoire" role=Client obj=QSpinBox(0x55cc10a23bc0, name = "minMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="Mémoire" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d7c850 name="Mémoire" role=Client obj=QSpinBox(0x55cc10d7c7f0, name = "maxMemSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.802 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc110ed7a0 name="Mémoire" role=Client obj=QSpinBox(0x55cc10eb7d10, name = "permGenSpinBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10d782a0 name="Installation Java" role=Client obj=QLineEdit(0x55cc10df08f0, name = "javaPathTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10a50f50 name="Arguments Java" role=Client childc=3 obj=QPlainTextEdit(0x55cc10a515d0, name = "jvmArgsTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10ed2ac0 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x55cc10ddcca0, name = "preLaunchCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc108ac2c0 name="Commande wrapper :" role=Client obj=QLineEdit(0x55cc108ac250, name = "wrapperCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc11103380 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x55cc10ed31c0, name = "postExitCmdTextBox")"focusable|invisible")
-  247.803 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55cc10db64f0 name="Définir un serveur à rejoindre au lancement" role=Client obj=QLineEdit(0x55cc10db62a0, name = "serverJoinAddress")"focusable|invisible")
-  247.838 D Applying "org.lwjgl3" GOOD
-  247.838 D Applying "net.minecraft" GOOD
-  247.848 C Task "LaunchController(0x55cc109c7240)" failed:  "Incompatible Java major version"
-  252.678 D Component list save performed now for "1.21.4"
-  276.679 D [HttpMetaCache] Saving metacache with 20 entries
+    0.011 D Detected default console font: "DejaVu Sans Mono" , substitutions: ""
+    0.049 D <> Settings loaded.
+    0.097 D Detecting proxy settings...
+    0.097 D Using no proxy is an option!
+    0.097 D <> Network done.
+    0.098 D Loading Qt Language File for fr ...
+    0.098 D Loading Application Language File for fr ...
+    0.098 D Your language is "fr"
+    0.098 D <> Translations loaded.
+    0.098 D Started watching  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/icons"
+    0.098 D Sorting icon list...
+    0.098 D <> Instance icons intialized.
+    0.098 D <> Icon themes initialized.
+    0.098 D Determining System Theme...
+    0.098 D System theme seems to be: "qt5ct-style"
+    0.098 D Considering theme from theme factory: "cleanlooks"
+    0.099 D Considering theme from theme factory: "gtk2"
+    0.099 D Considering theme from theme factory: "cde"
+    0.099 D Considering theme from theme factory: "motif"
+    0.099 D Considering theme from theme factory: "plastique"
+    0.099 D Considering theme from theme factory: "qt5ct-style"
+    0.099 D System theme has been determined to be: "qt5ct-style"
+    0.099 D Loading theme "custom"
+    0.099 D <> Widget themes initialized.
+    0.099 D Instance path              :  "instances"
+    0.099 D Loading Instances...
+    0.099 D Discovering instances in "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
+    0.099 D Found instance ID "1.21.4"
+    0.099 D Found instance ID "1.8.9"
+    0.099 D Will load group list now.
+    0.099 D Group list loaded.
+    0.099 D Loaded instance  "1.21.4"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4"
+    0.100 D Loaded instance  "1.8.9"  from  "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.8.9"
+    0.100 D <> Instances loaded.
+    0.100 D Loading accounts...
+    0.100 D AccountList: Queued default account with internal ID  "8123a2501d464646a5f40d5afc05671b"  to refresh first
+    0.100 D Task "MSASilent(0x55584039b6e0)" starting for the first time
+    0.100 D AuthFlow: "Connexion avec un compte Microsoft."
+    0.100 D DeviceFlow::refresh: Token: ... "i0K*Sg$"
+    0.104 D RefreshSchedule: Processing account  "MattMonyo17"  with internal ID  "8123a2501d464646a5f40d5afc05671b"
+    0.104 D <> Accounts loaded.
+    0.104 D <> Cache initialized.
+    0.104 D Downloading Translations Index...
+    0.105 D Task "NetJob(Translations Index)" starting for the first time
+    0.105 D <> Icon theme set.
+    0.105 D <> Application theme set.
+    0.116 D Reloading news.
+    0.116 D Task "NetJob(News RSS Feed)" starting for the first time
+    0.116 D Task "ComponentUpdateTask(0x5558404aa4b0)" starting for the first time
+    0.116 D Loading components
+    0.120 D Component list save is scheduled for "1.21.4"
+    0.123 D Resolving dependencies
+    0.123 D "Req: org.lwjgl3" Is met.
+    0.123 D Task "ComponentUpdateTask(0x5558404aa4b0)" succeeded
+    0.123 D Component list update/resolve task succeeded for "1.21.4"
+    0.173 D <> Main window shown.
+    0.176 D Task "Net::Download(0x555840488c30)" starting for the first time
+    0.176 D Downloading  "https://i18n.polymc.org/index_v2.json"
+    0.177 D Task "Net::Download(0x5558404c0b10)" starting for the first time
+    0.177 D Downloading  "https://polymc.org/feed/feed.xml"
+    0.177 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    0.178 D Loading Qt Language File for fr ...
+    0.178 D Loading Application Language File for fr ...
+    0.437 D Download succeeded: "https://i18n.polymc.org/index_v2.json"
+    0.438 D Task "NetJob(Translations Index)" succeeded
+    0.438 D Got translations index!
+    0.438 D Task "NetJob(Translation for fr)" starting for the first time
+    0.438 D Task "Net::Download(0x555840517f70)" starting for the first time
+    0.439 D Downloading  "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    0.439 D Dir changed: "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/translations"
+    0.442 D Loading Qt Language File for fr ...
+    0.442 D Loading Application Language File for fr ...
+    0.454 D Download succeeded: "https://polymc.org/feed/feed.xml"
+    0.455 D Task "NetJob(News RSS Feed)" succeeded
+    0.455 D Finished loading RSS feed.
+    0.464 D Loaded news entry "PolyMC 6.1, now available"
+    0.464 D Loaded news entry "PolyMC 6.0, now available"
+    0.464 D Loaded news entry "(ANOTHER SECURITY VULNERABILITY - READ TO STAY SAFE) PolyMC 5.1, now available"
+    0.464 D Loaded news entry "(SECURITY PATCH - PLEASE READ THIS NEWS POST FULLY TO STAY SAFE) PolyMC 5.0, now available"
+    0.464 D Loaded news entry "Major Bugfix 1.4.3, now available"
+    0.464 D Loaded news entry "What happened, and the next step."
+    0.464 D Loaded news entry "PolyMC Update 1.4.2, now available"
+    0.464 D Loaded news entry "PolyMC Update 1.4.1, now available"
+    0.464 D Loaded news entry "PolyMC Update 1.4.0, now available"
+    0.464 D Loaded news entry "PolyMC Update 1.3.2, now available"
+    0.464 D Loaded news entry "PolyMC Update 1.3.1, now available"
+    0.464 D Loaded news entry "PolyMC Update 1.3.0, now available"
+    0.465 D Loaded news entry "PolyMC Update 1.2.2, now available (CurseForge Hotfix)"
+    0.465 D Loaded news entry "PolyMC Update 1.2.1, now available"
+    0.465 D Loaded news entry "PolyMC Update 1.2.0, now available"
+    0.465 D Loaded news entry "Rewrite in electron (April Fools 2022)"
+    0.465 D Loaded news entry "PolyMC Update 1.1.1, now available"
+    0.465 D Loaded news entry "PolyMC Update 1.1.0, now available"
+    0.465 D Loaded news entry "Moving on"
+    0.465 D Loaded news entry "Modrinth support and Mod downloading"
+    0.465 D Loaded news entry "New maintainers and step down."
+    0.465 D News loading succeeded.
+    0.466 D Download succeeded: "https://i18n.polymc.org/54ae6291af5f155d1a11a3f0ce91760625208638.class"
+    0.466 D Task "NetJob(Translation for fr)" succeeded
+    0.467 D Got translation: "fr"
+    0.467 D Loading Qt Language File for fr ...
+    0.467 D Loading Application Language File for fr ...
+    0.775 D DeviceFlow::setLinked: true
+    0.776 D AuthFlow: "Connexion en tant qu'utilisateur Xbox."
+    0.776 D First layer of XBox auth ... commencing.
+    0.776 D New token expires in QDateTime(2025-01-14 21:21:34.754 UTC Qt::UTC) seconds
+    1.622 D Parsing "UToken" :
+    1.623 D "UToken" is valid.
+    1.623 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Xbox."
+    1.623 D Getting authorization token for  "http://xboxlive.com"
+    1.896 D Task "LaunchController(0x7f1328009010)" starting for the first time
+    1.908 D Instance-type specific settings were loaded!
+    2.212 D Parsing "Xbox" :
+    2.213 D "Xbox" is valid.
+    2.213 D AuthFlow: "Récupération de l'autorisation d'accéder aux services Mojang."
+    2.214 D Getting authorization token for  "rp://api.minecraftservices.com/"
+    2.618 D Parsing "Mojang" :
+    2.618 D "Mojang" is valid.
+    2.619 D AuthFlow: "Accès aux services de Mojang."
+    2.620 D Getting Minecraft access token...
+    3.641 D Parsing Mojang response...
+    3.642 D Mojang response is valid.
+    3.642 D AuthFlow: "Récupération du profil Xbox."
+    3.643 D Getting Xbox profile...
+    4.585 D AuthFlow: "Détermination de la propriété du jeu."
+    4.585 D Getting entitlements...
+    5.075 D Parsing Minecraft entitlements...
+    5.076 D AuthFlow: "Récupération du profil Minecraft."
+    5.370 D Component list save performed now for "1.21.4"
+    5.382 D Parsing Minecraft profile...
+    5.383 D AuthFlow: "Récupération du skin."
+    5.584 D Task "MSASilent(0x55584039b6e0)" succeeded
+    5.584 D Writing account list to "accounts.json"
+    5.584 D Building JSON data structure.
+    5.584 D Building account array.
+    5.585 D Writing account list to file.
+    5.596 D Saved account list to "accounts.json"
+    5.597 D RefreshSchedule: Background account refresh succeeded
+    5.833 D Task "LaunchTask(0x5558405a3b20)" starting for the first time
+    5.833 D Task "TextPrint(0x5558406aea90)" starting for the first time
+    5.835 D Task "TextPrint(0x5558406aea90)" succeeded
+    5.835 D Task "TextPrint(0x5558406d8220)" starting for the first time
+    5.835 D Task "TextPrint(0x5558406d8220)" succeeded
+    5.836 D Task "TextPrint(0x55584039c130)" starting for the first time
+    5.836 D Task "TextPrint(0x55584039c130)" succeeded
+    5.836 D Task "TextPrint(0x5558403a4140)" starting for the first time
+    5.836 D Task "TextPrint(0x5558403a4140)" succeeded
+    5.836 D Task "CheckJava(0x5558406dee60)" starting for the first time
+    5.836 D "Running java checker: /usr/lib/jvm/java-17-openjdk-amd64/bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+    5.911 D STDOUT "os.arch=amd64\njava.version=17.0.13\njava.vendor=Ubuntu\n"
+    5.911 W STDERR ""
+    5.911 D Java checker finished with status  QProcess::NormalExit  exit code  0
+    5.911 D Java checker succeeded.
+    5.914 C "Error changing setting JavaVendor. Setting doesn't exist."
+    5.914 D Task "CheckJava(0x5558406dee60)" succeeded
+    5.914 D Task "CreateGameFolders(0x555840411bf0)" starting for the first time
+    5.914 D Task "CreateGameFolders(0x555840411bf0)" succeeded
+    5.914 D Task "ClaimAccount(0x555840412e40)" starting for the first time
+    5.914 D Writing account list to "accounts.json"
+    5.915 D Building JSON data structure.
+    5.915 D Building account array.
+    5.915 D Writing account list to file.
+    5.915 D Saved account list to "accounts.json"
+    5.916 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+    5.916 D Task "ClaimAccount(0x555840412e40)" succeeded
+    5.916 D Task "Update(0x5558403399d0)" starting for the first time
+    5.916 D Task "MinecraftUpdate(0x55584039fdd0)" starting for the first time
+    5.916 D Task "ComponentUpdateTask(0x5558405a5ee0)" starting for the first time
+    5.916 D Loading components
+    5.916 D Index is already loaded
+    5.916 D Component list save is scheduled for "1.21.4"
+    5.916 D Resolving dependencies
+    5.916 D "Req: org.lwjgl3" Is met.
+    5.917 D Task "ComponentUpdateTask(0x5558405a5ee0)" succeeded
+    5.917 D Component list update/resolve task succeeded for "1.21.4"
+    5.917 D Task "FoldersTask(0x5558404b4970)" starting for the first time
+    5.917 D Task "FoldersTask(0x5558404b4970)" succeeded
+    5.917 D Task "LibrariesTask(0x5558405a5cd0)" starting for the first time
+    5.917 D "1.21.4" : downloading libraries
+    5.917 D Applying "org.lwjgl3" GOOD
+    5.917 D Applying "net.minecraft" GOOD
+    5.918 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+    5.919 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+    5.919 D Task "LibrariesTask(0x5558405a5cd0)" succeeded
+    5.919 D Task "FMLLibrariesTask(0x555840837cd0)" starting for the first time
+    5.919 D Task "FMLLibrariesTask(0x555840837cd0)" succeeded
+    5.919 D Task "AssetUpdateTask(0x7f1328169460)" starting for the first time
+    5.920 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+    5.920 D "1.21.4" : Starting asset index download
+    5.920 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+    5.921 D Task "Net::Download(0x5558406cec20)" starting for the first time
+    5.921 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+    6.229 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+    6.240 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+    6.240 D "1.21.4" : Finished asset index download
+    6.288 D Task "AssetUpdateTask(0x7f1328169460)" succeeded
+    6.288 D Task "MinecraftUpdate(0x55584039fdd0)" succeeded
+    6.288 D Task "Update(0x5558403399d0)" succeeded
+    6.289 D Task "ModMinecraftJar(0x55584057b1f0)" starting for the first time
+    6.289 D Task "ModMinecraftJar(0x55584057b1f0)" succeeded
+    6.289 D Task "ScanModFolders(0x55584059fb40)" starting for the first time
+    6.291 D Task "ScanModFolders(0x55584059fb40)" succeeded
+    6.292 D Task "PrintInstanceInfo(0x55584039ee70)" starting for the first time
+    6.911 D Task "PrintInstanceInfo(0x55584039ee70)" succeeded
+    6.911 D Task "ExtractNatives(0x5558406d7660)" starting for the first time
+    6.912 D Task "ExtractNatives(0x5558406d7660)" succeeded
+    6.912 D Task "ReconstructAssets(0x5558406d8080)" starting for the first time
+    6.912 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+    6.920 D Task "ReconstructAssets(0x5558406d8080)" succeeded
+    6.920 D Task "VerifyJavaInstall(0x55584035cd30)" starting for the first time
+    6.920 C Task "VerifyJavaInstall(0x55584035cd30)" failed:  "Incompatible Java major version"
+    6.920 D Writing account list to "accounts.json"
+    6.920 D Building JSON data structure.
+    6.920 D Building account array.
+    6.920 D Writing account list to file.
+    6.930 D Saved account list to "accounts.json"
+    6.931 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+    6.938 C Task "LaunchTask(0x5558405a3b20)" failed:  "Incompatible Java major version"
+    6.983 D Component list save performed now for "1.21.4"
+    6.985 D Task "ComponentUpdateTask(0x555840a7af50)" starting for the first time
+    6.985 D Loading components
+    6.985 D Index is already loaded
+    6.985 D Component list save is scheduled for "1.21.4"
+    6.985 D Resolving dependencies
+    6.985 D "Req: org.lwjgl3" Is met.
+    6.985 D Task "ComponentUpdateTask(0x555840a7af50)" succeeded
+    6.985 D Component list update/resolve task succeeded for "1.21.4"
+    6.986 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" starting for the first time
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.002 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092a730 name="" role=Client obj=QSpinBox(0x555840929fb0, name = "windowWidthSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092a730 name="" role=Client obj=QSpinBox(0x555840929fb0, name = "windowWidthSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092a730 name="" role=Client obj=QSpinBox(0x555840929fb0, name = "windowWidthSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092a730 name="" role=Client obj=QSpinBox(0x555840929fb0, name = "windowWidthSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092b050 name="" role=Client obj=QSpinBox(0x555840929730, name = "windowHeightSpinBox")"focusable|invisible")
+    7.003 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092b050 name="" role=Client obj=QSpinBox(0x555840929730, name = "windowHeightSpinBox")"focusable|invisible")
+    7.004 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092b050 name="" role=Client obj=QSpinBox(0x555840929730, name = "windowHeightSpinBox")"focusable|invisible")
+    7.004 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584092b050 name="" role=Client obj=QSpinBox(0x555840929730, name = "windowHeightSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="Mémoire" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916500 name="Mémoire" role=Client obj=QSpinBox(0x555840919920, name = "minMemSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="Mémoire" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091ac50 name="Mémoire" role=Client obj=QSpinBox(0x555840919f30, name = "maxMemSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="Mémoire" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x55584091dd60 name="Mémoire" role=Client obj=QSpinBox(0x55584091ec20, name = "permGenSpinBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840916c30 name="Installation Java" role=Client obj=QLineEdit(0x5558409169a0, name = "javaPathTextBox")"focusable|invisible")
+    7.005 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840921d80 name="Arguments Java" role=Client childc=3 obj=QPlainTextEdit(0x555840922400, name = "jvmArgsTextBox")"focusable|invisible")
+    7.006 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840931d50 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x555840930f10, name = "preLaunchCmdTextBox")"focusable|invisible")
+    7.006 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840935110 name="Commande wrapper :" role=Client obj=QLineEdit(0x5558409350a0, name = "wrapperCmdTextBox")"focusable|invisible")
+    7.006 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840933780 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x555840932450, name = "postExitCmdTextBox")"focusable|invisible")
+    7.006 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840777a20 name="Définir un serveur à rejoindre au lancement" role=Client obj=QLineEdit(0x5558407777b0, name = "serverJoinAddress")"focusable|invisible")
+    7.042 D Applying "org.lwjgl3" GOOD
+    7.042 D Applying "net.minecraft" GOOD
+    7.059 C Task "LaunchController(0x7f1328009010)" failed:  "Incompatible Java major version"
+    7.067 D Task "Net::Download(0x555840af9360)" starting for the first time
+    7.068 D Downloading  "https://meta.polymc.org/v1/org.lwjgl3/index.json"
+    7.286 D Download succeeded: "https://meta.polymc.org/v1/org.lwjgl3/index.json"
+    7.286 D Task "NetJob(Téléchargement du métafichier org.lwjgl3/index.json)" succeeded
+   12.234 D Component list save performed now for "1.21.4"
+   30.963 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840dfcbf0 name="Commande de pré-lancement :" role=Client obj=QLineEdit(0x555840a98e60, name = "preLaunchCmdTextBox")"focusable|invisible")
+   30.963 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840a33b00 name="Commande wrapper :" role=Client obj=QLineEdit(0x555840e44e00, name = "wrapperCmdTextBox")"focusable|invisible")
+   30.964 W Sending TextCaretMoved from object that does not implement text interface:  QAccessibleInterface(0x555840bab900 name="Commande post-arrêt :" role=Client obj=QLineEdit(0x555840942e00, name = "postExitCmdTextBox")"focusable|invisible")
+   37.484 D [HttpMetaCache] Saving metacache with 20 entries
+   43.070 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java\n-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+   43.074 D Java checker has failed to start.
+   43.074 D Process environment:
+   43.074 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+   43.075 D Native environment:
+   43.075 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+   49.693 D "Running java checker: /usr/lib/jvm/java-21-openjdk-amd64/bin/java\n-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+   49.698 D Java checker has failed to start.
+   49.698 D Process environment:
+   49.699 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+   49.699 D Native environment:
+   49.700 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+  121.707 D "Running java checker: /usr/bin/java\n-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+  121.713 D Java checker has failed to start.
+  121.713 D Process environment:
+  121.714 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LD_LIBRARY_PATH=", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+  121.714 D Native environment:
+  121.715 D ("DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus", "DEFAULTS_PATH=/usr/share/gconf/cinnamon.default.path", "DESKTOP_SESSION=cinnamon", "DISPLAY=:0", "GDMSESSION=cinnamon", "GDM_LANG=fr_FR", "GIO_LAUNCHED_DESKTOP_FILE=/usr/share/applications/nemo.desktop", "GIO_LAUNCHED_DESKTOP_FILE_PID=12036", "GNOME_DESKTOP_SESSION_ID=this-is-deprecated", "GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1", "GTK3_MODULES=xapp-gtk3-module", "GTK_MODULES=gail:atk-bridge", "GTK_OVERLAY_SCROLLING=1", "HOME=/home/caroux", "INSIDE_NEMO_PYTHON=", "LANG=fr_FR.UTF-8", "LANGUAGE=fr_FR", "LIBVIRT_DEFAULT_URI=qemu:///system", "LOGNAME=caroux", "MANDATORY_PATH=/usr/share/gconf/cinnamon.mandatory.path", "PATH=/home/caroux/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin", "PWD=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/bin", "QT_ACCESSIBILITY=1", "QT_QPA_PLATFORMTHEME=qt5ct", "SESSION_MANAGER=local/caroux-NBLB-WAX9N:@/tmp/.ICE-unix/2320,unix/caroux-NBLB-WAX9N:/tmp/.ICE-unix/2320", "SHELL=/usr/bin/zsh", "SHLVL=0", "USER=caroux", "XAUTHORITY=/home/caroux/.Xauthority", "XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg", "XDG_CURRENT_DESKTOP=X-Cinnamon", "XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/caroux/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share:/var/lib/snapd/desktop", "XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/caroux", "XDG_RUNTIME_DIR=/run/user/1000", "XDG_SEAT=seat0", "XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0", "XDG_SESSION_CLASS=user", "XDG_SESSION_DESKTOP=cinnamon", "XDG_SESSION_ID=c1", "XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0", "XDG_SESSION_TYPE=x11", "XDG_VTNR=7")
+  156.879 W WARNING Qt AtSpiAdaptor: Accessible invalid:  QAccessibleInterface(0x555840ab7340 invalid) "/org/a11y/atspi/accessible/2147484297"
+  161.073 D "Running java checker: /bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+  161.163 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+  161.163 W STDERR ""
+  161.163 D Java checker finished with status  QProcess::NormalExit  exit code  0
+  161.164 D Java checker succeeded.
+  161.165 D "Running java checker: /bin/java-Xms512m -Xmx4096m -jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+  161.246 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+  161.246 W STDERR ""
+  161.246 D Java checker finished with status  QProcess::NormalExit  exit code  0
+  161.246 D Java checker succeeded.
+  163.666 D Paged dialog close requested
+  163.666 D Sorting icon list...
+  163.667 D Detecting proxy settings...
+  163.667 D Using no proxy is an option!
+  163.669 D Paged dialog close approved
+  163.669 D Paged dialog geometry saved
+  163.691 D Discovering instances in "/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances"
+  163.692 D Found instance ID "1.21.4"
+  163.692 D Found instance ID "1.8.9"
+  163.692 D Should keep and soft-reload "1.21.4"
+  163.692 D Should keep and soft-reload "1.8.9"
+  165.267 D Task "LaunchController(0x555840bf3610)" starting for the first time
+  165.601 D Task "LaunchTask(0x555840a70180)" starting for the first time
+  165.613 D Task "TextPrint(0x555840779af0)" starting for the first time
+  165.615 D Task "TextPrint(0x555840779af0)" succeeded
+  165.615 D Task "TextPrint(0x555841447cd0)" starting for the first time
+  165.616 D Task "TextPrint(0x555841447cd0)" succeeded
+  165.616 D Task "TextPrint(0x5558413fbb20)" starting for the first time
+  165.616 D Task "TextPrint(0x5558413fbb20)" succeeded
+  165.616 D Task "TextPrint(0x5558410c9300)" starting for the first time
+  165.616 D Task "TextPrint(0x5558410c9300)" succeeded
+  165.616 D Task "CheckJava(0x555840944f30)" starting for the first time
+  165.617 D "Running java checker: /bin/java-jar /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/JavaCheck.jar"
+  165.666 D STDOUT "os.arch=amd64\njava.version=21.0.5\njava.vendor=Ubuntu\n"
+  165.666 W STDERR ""
+  165.666 D Java checker finished with status  QProcess::NormalExit  exit code  0
+  165.666 D Java checker succeeded.
+  165.669 C "Error changing setting JavaVendor. Setting doesn't exist."
+  165.670 D Task "CheckJava(0x555840944f30)" succeeded
+  165.670 D Task "CreateGameFolders(0x55584088a9a0)" starting for the first time
+  165.670 D Task "CreateGameFolders(0x55584088a9a0)" succeeded
+  165.670 D Task "ClaimAccount(0x555840c6f410)" starting for the first time
+  165.670 D Writing account list to "accounts.json"
+  165.670 D Building JSON data structure.
+  165.670 D Building account array.
+  165.670 D Writing account list to file.
+  165.671 D Saved account list to "accounts.json"
+  165.671 W Profile "fa3767bae476448699872be71b5b6e19" is now in use.
+  165.671 D Task "ClaimAccount(0x555840c6f410)" succeeded
+  165.671 D Task "Update(0x55584118ea50)" starting for the first time
+  165.672 D Task "MinecraftUpdate(0x555840aa34d0)" starting for the first time
+  165.672 D Task "ComponentUpdateTask(0x55584050d0e0)" starting for the first time
+  165.672 D Loading components
+  165.672 D Index is already loaded
+  165.672 D Component list save is scheduled for "1.21.4"
+  165.672 D Resolving dependencies
+  165.672 D "Req: org.lwjgl3" Is met.
+  165.672 D Task "ComponentUpdateTask(0x55584050d0e0)" succeeded
+  165.672 D Component list update/resolve task succeeded for "1.21.4"
+  165.672 D Task "FoldersTask(0x5558404ec490)" starting for the first time
+  165.672 D Task "FoldersTask(0x5558404ec490)" succeeded
+  165.672 D Task "LibrariesTask(0x555840384650)" starting for the first time
+  165.672 D "1.21.4" : downloading libraries
+  165.672 D Applying "org.lwjgl3" GOOD
+  165.672 D Applying "net.minecraft" GOOD
+  165.673 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" starting for the first time
+  165.675 D Task "NetJob(Bibliothèques de l'instance 1.21.4)" succeeded
+  165.675 D Task "LibrariesTask(0x555840384650)" succeeded
+  165.675 D Task "FMLLibrariesTask(0x55584055fa10)" starting for the first time
+  165.675 D Task "FMLLibrariesTask(0x55584055fa10)" succeeded
+  165.675 D Task "AssetUpdateTask(0x55584088ddd0)" starting for the first time
+  165.675 D Asset index SHA1: "7602781411ca0330c35519f201b058f985086d27"
+  165.675 D "1.21.4" : Starting asset index download
+  165.675 D Task "NetJob(Index des ressources de 1.21.4)" starting for the first time
+  165.677 D Task "Net::Download(0x555840a518e0)" starting for the first time
+  165.677 D Downloading  "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+  165.842 D Download succeeded: "https://piston-meta.mojang.com/v1/packages/7602781411ca0330c35519f201b058f985086d27/19.json"
+  165.850 D Task "NetJob(Index des ressources de 1.21.4)" succeeded
+  165.851 D "1.21.4" : Finished asset index download
+  165.894 D Task "AssetUpdateTask(0x55584088ddd0)" succeeded
+  165.894 D Task "MinecraftUpdate(0x555840aa34d0)" succeeded
+  165.894 D Task "Update(0x55584118ea50)" succeeded
+  165.895 D Task "ModMinecraftJar(0x55584050e5d0)" starting for the first time
+  165.895 D Task "ModMinecraftJar(0x55584050e5d0)" succeeded
+  165.895 D Task "ScanModFolders(0x555840a64d90)" starting for the first time
+  165.896 D Task "ScanModFolders(0x555840a64d90)" succeeded
+  165.897 D Task "PrintInstanceInfo(0x555840a93320)" starting for the first time
+  166.506 D Task "PrintInstanceInfo(0x555840a93320)" succeeded
+  166.506 D Task "ExtractNatives(0x5558404c6c70)" starting for the first time
+  166.506 D Task "ExtractNatives(0x5558404c6c70)" succeeded
+  166.506 D Task "ReconstructAssets(0x555840a76960)" starting for the first time
+  166.506 D reconstructAssets "assets" "assets/indexes" "assets/objects" "assets/virtual" "assets/virtual/19"
+  166.515 D Task "ReconstructAssets(0x555840a76960)" succeeded
+  166.515 D Task "VerifyJavaInstall(0x555840ab1820)" starting for the first time
+  166.515 D Task "VerifyJavaInstall(0x555840ab1820)" succeeded
+  166.515 D Task "LauncherPartLaunch(0x5558413f9ec0)" starting for the first time
+  166.524 D "-Xms512m -Xmx4096m -Duser.language=en -Djava.library.path=/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/instances/1.21.4/natives -cp /home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/share/jars/NewLaunch.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-linux/3.3.3/lwjgl-freetype-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype-natives-macos-patch/3.3.3/lwjgl-freetype-natives-macos-patch-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-freetype/3.3.3/lwjgl-freetype-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw-natives-linux/3.3.3/lwjgl-glfw-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-glfw/3.3.3/lwjgl-glfw-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc-natives-linux/3.3.3/lwjgl-jemalloc-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-jemalloc/3.3.3/lwjgl-jemalloc-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-natives-linux/3.3.3/lwjgl-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal-natives-linux/3.3.3/lwjgl-openal-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-openal/3.3.3/lwjgl-openal-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl-natives-linux/3.3.3/lwjgl-opengl-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-opengl/3.3.3/lwjgl-opengl-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb-natives-linux/3.3.3/lwjgl-stb-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-stb/3.3.3/lwjgl-stb-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd-natives-linux/3.3.3/lwjgl-tinyfd-natives-linux-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl-tinyfd/3.3.3/lwjgl-tinyfd-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lwjgl/lwjgl/3.3.3/lwjgl-3.3.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/fasterxml/jackson/core/jackson-databind/2.13.4.2/jackson-databind-2.13.4.2.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/oshi/oshi-core/6.6.5/oshi-core-6.6.5.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/github/stephenc/jcip/jcip-annotations/1.0-1/jcip-annotations-1.0-1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/google/guava/guava/33.3.1-jre/guava-33.3.1-jre.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/ibm/icu/icu4j/76.1/icu4j-76.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/microsoft/azure/msal4j/1.17.2/msal4j-1.17.2.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/authlib/6.0.57/authlib-6.0.57.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/blocklist/1.0.10/blocklist-1.0.10.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/brigadier/1.3.10/brigadier-1.3.10.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/datafixerupper/8.0.16/datafixerupper-8.0.16.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy/1.0.29/jtracy-1.0.29.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/jtracy-natives-linux/1.0.29/jtracy-natives-linux-1.0.29.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/logging/1.5.10/logging-1.5.10.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/patchy/2.2.10/patchy-2.2.10.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/text2speech/1.17.9/text2speech-1.17.9.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/content-type/2.3/content-type-2.3.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/lang-tag/1.7/lang-tag-1.7.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/nimbus-jose-jwt/9.40/nimbus-jose-jwt-9.40.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/nimbusds/oauth2-oidc-sdk/11.18/oauth2-oidc-sdk-11.18.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/commons-logging/commons-logging/1.3.4/commons-logging-1.3.4.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-buffer/4.1.115.Final/netty-buffer-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-codec/4.1.115.Final/netty-codec-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-common/4.1.115.Final/netty-common-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-handler/4.1.115.Final/netty-handler-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-resolver/4.1.115.Final/netty-resolver-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-classes-epoll/4.1.115.Final/netty-transport-classes-epoll-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-aarch_64.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-epoll/4.1.115.Final/netty-transport-native-epoll-4.1.115.Final-linux-x86_64.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport-native-unix-common/4.1.115.Final/netty-transport-native-unix-common-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/io/netty/netty-transport/4.1.115.Final/netty-transport-4.1.115.Final.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/it/unimi/dsi/fastutil/8.5.15/fastutil-8.5.15.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna-platform/5.15.0/jna-platform-5.15.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/java/dev/jna/jna/5.15.0/jna-5.15.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/accessors-smart/2.5.1/accessors-smart-2.5.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/minidev/json-smart/2.5.1/json-smart-2.5.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-compress/1.27.1/commons-compress-1.27.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/commons/commons-lang3/3.17.0/commons-lang3-3.17.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-api/2.24.1/log4j-api-2.24.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-core/2.24.1/log4j-core-2.24.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.24.1/log4j-slf4j2-impl-2.24.1.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/jcraft/jorbis/0.0.17/jorbis-0.0.17.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/joml/joml/1.10.8/joml-1.10.8.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/ow2/asm/asm/9.6/asm-9.6.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/org/slf4j/slf4j-api/2.0.16/slf4j-api-2.0.16.jar:/home/caroux/Bureau/minecraftiut/PolyMC-Linux-Portable-6.1/libraries/com/mojang/minecraft/1.21.4/minecraft-1.21.4-client.jar org.polymc.EntryPoint"
+  170.484 D Component list save performed now for "1.21.4"
+  195.484 D [HttpMetaCache] Saving metacache with 20 entries
+  436.370 D Task "LauncherPartLaunch(0x5558413f9ec0)" succeeded
+  436.370 D Writing account list to "accounts.json"
+  436.370 D Building JSON data structure.
+  436.370 D Building account array.
+  436.370 D Writing account list to file.
+  436.380 D Saved account list to "accounts.json"
+  436.381 W Profile "fa3767bae476448699872be71b5b6e19" is no longer in use.
+  436.385 D Task "LaunchTask(0x555840a70180)" succeeded
+  436.385 D Task "LaunchController(0x555840bf3610)" succeeded

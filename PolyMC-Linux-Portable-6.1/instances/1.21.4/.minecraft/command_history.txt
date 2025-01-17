@@ -1,0 +1,6 @@
+/teleport
+/teleport @a
+/teleport @a ENZO
+/time set day
+/kill
+/kill Decay
